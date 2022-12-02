@@ -115,3 +115,148 @@ ALEXIS: Wonderful.
 MATT: Right. I'll go turn off that computer.
 
 ALEXIS: Thanks. See you later, Matt.
+
+# 2 谈论未来科技
+## 词汇
+tiny robots 微型机器人
+
+bodies 身体
+
+cancer cells 癌细胞
+
+genetic scanners 基因扫描仪
+
+DNA 
+
+the elderly 老年人
+
+## 录音
+medical scanner
+
+human body
+
+technology
+
+DNA
+
+robot
+
+cell
+
+## 选词填空
+Some day robots will take care of children and the elderly.
+
+If there are cancer cells in her body, the medical scanner will tell us.
+
+He got his medical degree at Johns Hopkins University.
+
+In the future, robots will destroy cancer cells.
+
+The DNA in our body has all of our genetic information.
+
+## 预测
+### 短语
+some of the predictions 部分预测
+
+the scientists predict 科学家预测
+
+in the future 将来
+
+We'll have robot babysitters. 我们将拥有机器人保姆。
+
+Robots will take over our lives. 机器人将接管我们的生活。
+
+I predict ... 我预测……
+
+### 语法
+使用情态动词 **will** 和 **be going to** 预测将来要发生的事情。
+
+Robots **will** take care of the elderly. 机器人将会照顾老人。
+
+Doctors **are going to** have medical scanners they can hold in their hands. 医生们将会操作可以手持的扫描仪。
+ 	 	 
+你可以加上 **think that**，表述你猜想将来会发生的事情。
+
+I **think that** robots will do more of our work. 我认为机器人将承担更多属于我们的工作。
+ 	 	 
+你也可以使用动词 **predict** 来做出预测。
+
+Scientists **are predicting that** fewer people will die from cancer. 科学家们预测死于癌症的人将更少。
+ 	 	 
+使用表达 **in the future** 强调你在谈论离现在很远的一个时间。
+
+**In the future**, people will wear their technology, not carry it.	在未来，人们将穿上而不是携带他们的技术。
+
+## 表示惊讶或疑问
+### 短语
+an amazing documentary 一部很棒的纪录片
+
+gotta love 不得不爱
+
+I find it hard to believe ... 我觉得很难相信……？
+
+blew me away 令我震惊
+
+It's shocking ... 这令人震惊……
+
+Scary, huh? 吓人，嗬？
+
+### 表达惊讶、惊奇或疑虑
+你可以说 **That's surprising!** 和 **That's amazing!**  来表示惊讶或惊奇。以下是其他一些表示惊奇的表达：
+  
+That medical scanner **blew me away**. 那台医用扫描仪让我大吃一惊。
+
+I can't believe it! 我不敢相信！
+
+Shocking!	太震惊了！
+
+你可以说 **I doubt it** 来表示疑虑。以下是其他一些表示疑虑的表达：
+ 
+I find that hard to believe. 我觉得这难以让人相信。
+
+That'll never happen. 这不可能发生。
+
+## 注意说话人的看法
+### 聆听说话人的态度
+人们谈论将来时，可能会持有许多不同的观点。
+
+当人们态度乐观时，他们会使用意义积极肯定的词汇。
+
+I'm very **optimistic**. It's going to be **amazing**! **Friendly** robots will do our work, and life will be **easier**. 我非常乐观，未来会充满惊奇！友好的机器人将承担我们的工作，生活将更加轻松。
+
+当人们态度悲观时，他们可能表达疑虑，使用意义消极否定的词汇。
+
+I'm **pessimistic**. I **doubt** that we can ever stop cancer. It's a **scary** illness, and we'll **never know** enough about it. 我持悲观态度。我认为我们不可能治愈癌症。这种疾病非常可怕，我们永远也不能充分了解。
+
+人们在不肯定时会表达 **uncertainty**（不确定性）。
+
+I'm **not sure**. I really **don't know** what will happen. 我不确定。我真不知道会发生什么事情。
+
+表达疑虑时，说话人也可以使用表示可能的情态动词，比如 **may**、 **might** 或 **could**。
+
+Robots **might** help us, but the environment **could** be a problem. 机器人可能帮助我们，但是环境可能是个问题。
+
+### 对话
+REPORTER: Excuse me, ma'am. Could you answer a question for The News Daily?
+
+WOMAN: Sure. 
+
+REPORTER: What do you think the future will be like ? 
+
+WOMAN: Well, I recently read an article about DNA. Scientists have created a computer made of DNA. Scientists will put the computers in our bodies. The DNA computers will help give us medicine, which is pretty cool. But the computers could attack our bodies. That's scary ! So, I guess that I don't know if the future will be good or not.
+
+### 录音
+I have a positive attitude about the future. 我对未来持积极的看法。
+
+I'm very pessimistic. 我非常悲观。
+
+I'm not sure. 我不确定。
+
+I really don't know what will happen. 我真的不知道将发生什么。
+
+I feel optimistic. 我很乐观。
+
+The future is going to be amazing! 未来会很棒！
+# 3 讨论商业变革
+
+# 4 撰写有关未来生活的文章
