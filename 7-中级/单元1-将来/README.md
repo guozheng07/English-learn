@@ -16,7 +16,7 @@ commuting 通勤
 
 charges 充电
 
-gasoline 充电
+gasoline 汽油
 ## 文章
 ### City Builds Electric Car Charging Stations
 People can now charge their electric cars in the city parking lot.
@@ -258,5 +258,93 @@ I feel optimistic. 我很乐观。
 
 The future is going to be amazing! 未来会很棒！
 # 3 讨论商业变革
+## 词汇
+Innovation is critical. 创新很关键
+
+a competitive industry 一个竞争激烈的行业
+
+innovate constantly 不断创新
+
+develop new and better products 开发更好的新产品
+
+developers 开发人员
+
+propose 提议
+
+be creative 有创造力
+### 有关商业的单词形式
+商务用词的词形
+ 
+词尾或 **suffixes** （后缀）有助于你分辨单词是 **verb** （动词）、**noun** （名词）还是 **adjective** （形容词）。
+ 
+**Verb suffixes**
+ 
+后缀 **-ate**、**-ize** 和 **-ete** 可暗示单词是动词。
+ 
+cre**ate** 创造
+
+critic**ize** 批评
+
+comp**ete**	竞争
+
+**Noun suffixes**
+ 
+后缀 **-ion**、**-ity** 和 **-ism** 可暗示单词是名词。
+ 
+innovat**ion** 创新
+
+creativ**ity** 创造力
+
+critic**ism** 批评
+
+**Adjective suffixes**
+ 
+后缀 **-al** 和 **-ive** 可暗示单词是形容词。
+ 
+critic**al** 批评的
+
+innovat**ive** 创新的
+
+### 文章
+Hey, Shi.
+
+I want to tell you about our new software. Mo Shop is going to be great for us because it will kill the competition. It's an innovative way to shop with your mobile phone. People have criticized us for being so traditional; we've finally developed something that will make people's lives easier. Here's just one example of our developers' creativity: With Mo Shop, your phone will tell you when you're out of milk or eggs and pay for it at your nearby supermarket. Then the store will deliver it to your home. Amazing, right?
+
+Let's talk soon.
+
+Mariko
+### 录音
+I propose that we create something innovative. 我建议我们做点有新意的东西。
+
+Innovation is a critical factor in our success. 敢于创新是我们获得成功的关键因素。
+
+I love this ad! See what a little creativity can do? 我喜欢这个广告！看看一点小小的创意能做什么？
+
+Customers are criticizing our new products. 顾客在批评我们的新产品。
+
+To get new customers, we need to innovate. 想要赢得新客户，我们需要创新。
+
+If we lower prices, we'll beat the competition. 如果我们降低价格，我们将能打败对手。
+## 语法
+### 带有'unless'的真实条件语句
+**unless 引导的第一条件句**
+
+使用 **unless** 的句子表示在另一件事情不发生的前提下将会发生某事。使用 **unless** + 现在时分句，然后加上一个带有 **will** 的主句。
+ 
+**Unless** the team can follow the schedule, development **will** fall behind. 除非团队遵循计划，否则研发将会落后。
+ 	 
+**Unless** we innovate constantly, we **won't** stay competitive. 除非我们不断创新，否则我们不会具有竞争力。
+ 	 
+使用 **unless** 的句子与 **if** + 否定动词的意思相同。
+ 
+If I **don't** work hard, I'll lose my job. 如果我不努力工作，我就会失业。
+
+**Unless** I work hard, I'll lose my job. 除非我努力工作，否则我就会失业。
+ 
+## 表达
+### 表达意图
+
+## 最终任务
+### 讨论商业变革
 
 # 4 撰写有关未来生活的文章
