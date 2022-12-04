@@ -522,3 +522,7 @@ All of the speakers were very optimistic. 所有的发言者都非常乐观。
 
 ![image](https://user-images.githubusercontent.com/42236890/205496079-cf853efd-8de0-4a73-9c23-ddd87c44e7c0.png)
 ![image](https://user-images.githubusercontent.com/42236890/205496141-82f03999-14d9-446c-9537-12932775855d.png)
+
+My article
+
+I'm optimistic about the future. On the environment area, I predict that electric cars will replace the market of cars with gasoline. Clean power like solar energy、wind energy is becoming more and more popular and steady, pollution will be reduced. On the filed of life, all kinds of functional and cheaper robots can access to thousands of households, they can clean the house and take care of he elderly. As for entertainment, AR or VR equipments develop rapidly and  interestingly. On the conclusion, people's mentail and spirtual life is greatly enriched.
