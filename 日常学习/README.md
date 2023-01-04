@@ -1,10 +1,9 @@
 # 每日一词
 ## 2023.01.04
 When someone hesitates from doing something unpleasant or dangerous. Or when you move suddenly because you are afraid of being hit or hurt.  
-- [] Brave 勇敢的
-- [❌] Flinch 退缩；畏惧
-- [] Hold back 隐瞒；退缩；抑制；阻止
-
+- [ ] Brave 勇敢的
+- [x] Flinch 退缩；畏惧
+- [ ] Hold back 隐瞒；退缩；抑制；阻止
 
 # 话题
 ## 足球
