@@ -31,7 +31,6 @@ I've been vomiting for about an hour. 我吐了一个小时左右。
 ### 选词填空
 I feel terrible. I didn't sleep last night because I had a bad **fever** . I was just too hot! I have a bad **cough** , too – maybe because I smoke? My colleagues always complain about the noise I make, but I can't answer them because I have a **sore throat** and I can't speak. I didn't eat all day because I felt **nauseous** and I 
 had a **stomachache** , and every time I wanted to stand up, I couldn't because I was so **dizzy** .
-
 ## 语法
 ### 现在完成时
 用现在完成进行时谈论一种在过去开始一直延续到现在的病症或病。用 I **have been** + 动词 + **-ing**结构。
@@ -49,7 +48,6 @@ I have been feeling very bad **for** the last two days. 最近两天我一直都
 How long **has** this **been going on**? 这事持续多久了？
 
 How long **have** you **been feeling** like this? 你这样的感觉多久了?
-
 ### 选词填空
 RECEPTIONIST: What seems to be the problem?  
 JENNY: Well, I've **been** vomiting, and I have diarrhea.  
@@ -204,7 +202,7 @@ You forgot to **take** your medicine. 你忘记吃药了。
 
 I'm here to **pick up** my medication. 我来取药的。
 
-药物有各种不同形式。**pill** 一词常用于指固体药物。**Capsules** 和 **tablets** 是两种最常见的药物形状。服药的动作使用动词 **take**。
+药物有各种不同形式。**pill** 一词常用于指固体药物。**capsules** 和 **tablets** 是两种最常见的药物形状。服药的动作使用动词 **take**。
  
 I have to take three pills a day. 我每天要吃三片药。
 
@@ -225,7 +223,148 @@ PATIENT: No.
 DOCTOR: Great. Take it easy when you have an appetite again – nothing **spicy** for the first week, OK? By the way, I'm sorry to say your **insurance** won't cover this. You'll need to pay for it yourself.
 
 ## 阅读 阅读处方标签
+药有不同形式-有如**tablets**或**capsules**的固体药物，或如你用**teaspoons**服用的如**syrups**的液体药物。你将在处方标签上找到你的施药信息。
+ 
+Take four tablets, twice a day. 每次四片，每天两次。  
+The medicine comes in capsules. Take two every day. 胶囊包装，每天两颗。  
+Take one teaspoon, after meals. 餐后服用一匙。
+
+标签也会提醒你有关的**side effects**, 你服药时遇到的难题。这会包括**drowsiness**或**loss of appetite**。
+ 
+The side effect of this medicine is that it may cause drowsiness. 本药有副作用，可能引起昏睡。  
+Side effects may include loss of appetite. 副作用可能包括食欲不振。
+
+标签上也许会告诉你药的用量-**maximum dosage** -和谁**suitable for**该药-成年人或是小孩。
+ 
+Maximum dosage: four capsules per day. 最大用量：每日四颗。  
+Suitable for: adults and children over 12 years old. 适用：成人和 12 岁以上的孩童。
+### 选词填空
+Flaxo  
+Max dosage: 2 **teaspoons** per day  
+Side **effects** : may cause loss of **appetite**  
+**Suitable** for: 12 years old +
+
+Lemonboy  
+Take three capsules every 24 hours. May cause **drowsiness**. Suitable for **all ages**.
 ## 表达 与药剂师对话
+I'd like to fill a prescription. 我来开一张处方。
+
+Does my insurance cover this? 这在我的保险范围内吗？
+
+Are you allergic to any medications? 你有药物过敏吗？
+
+This will help stop the diarrhea. 这可以帮助减轻腹泻。
+
+The dosage is two tablets every six hours. 用量是每六小时两片。
+
+Take it with some plain food. 和清淡食物一起服用。
+
+This is for the nausea and the vomiting. 这是治疗恶心呕吐的。
+
+Take two capsules twice a day. 每天两次，每次两粒。
+
+I hope you feel better. 我希望你会感觉好点。
+### 录音
+I'd like to fill a prescription. 我来开一张处方。
+
+Does my insurance cover this? 这在我的保险范围内吗？
+
+I'm not currently taking any medication. 我最近没有吃任何药物。
+
+It's better if you take it with some plain food. 吃药期间和着清淡的食物服用会更好。
+
+Take two capsules twice a day for three days. 一天吃两次，每次吃两颗胶囊，吃三天。
+
+I hope you feel better. 我希望你好点。
 ## 最终任务 填写处方
 
 # 4 谈论疾病或受伤
+### 表达 事故与受伤
+fell down the stairs 从楼梯上摔下
+
+broke his leg 摔断了他的腿
+
+bruised three ribs 碰伤了三根肋骨
+
+sprained my right wrist 扭伤了我的右手腕
+
+你可以通过解释发生的事情或结果来描述事故和受伤。
+
+**发生的事情**  
+I slipped and cut my arm. 我脚下一滑，把胳膊划伤了。
+
+I fell down and bruised my shoulder. 我摔倒了，把肩膀碰伤了。
+
+**结果**  
+I have a bruise on my arm. 我碰伤了肩膀。
+
+I have a sprained wrist. 我扭伤了手腕。
+
+I have a broken leg. 我摔断了腿。
+### 语法 同步展开的行动
+**While** 和 **when** 描述中断的动作
+ 
+在描述事故时，您通常可以包含两个动作，其中一个动作（**was**+ verb + **ing** ）被另一个动作中断。
+
+I **sprained** my ankle **while I was playing** soccer.	我踢足球的时候扭伤了脚踝。
+
+**I was walking** on an icy road **when I slipped** and **broke** my leg. 当时我正在结冰的路面上走路，不小心滑倒摔断了腿。
+
+正如您可能已经注意到的那样，您可以使用**while**和**when**来引入当时正在发生的动作。
+
+**While I was crossing** the road, a woman fell down. 我过马路时，一个女人摔倒了。
+
+**When I was driving** to work, I saw the accident. 我开车去上班时目睹了事故的发生。
+ 
+您还可以用**when**来引入第二个动作。
+
+A: What happened? 发生了什么事？  
+B: I was climbing the ladder **when I slipped**. 我爬楼梯时滑了一跤。
+### 录音
+I fell off a wall and broke my leg. 我从墙上跌下来，把腿摔断了。
+
+I was running for a bus when I sprained my ankle. 我赶公共汽车的时候把脚踝扭到了。
+
+I have a bruise on my arm. 我胳膊擦伤了。
+
+I bruised my shoulder while I was cycling. 我骑自行车的时候碰伤了肩膀。
+
+I broke my arm while I was playing volleyball. 我打排球时弄断了胳膊。
+
+I sprained my wrist and bruised my leg. 我扭伤了手腕，还把腿擦伤了。
+ 
+### 表达 回答有关事故的问题
+**询问事故**
+在向人询问他刚经历的一场事故时，以下是一些常见的问题。
+
+What happened? 发生了什么事？
+ 	 	 
+Oh, no! Were you OK? 哟，不会吧！你没事吧？
+ 	 	 
+And how are you feeling now? 你现在觉得怎么样？
+
+以下是一些常见的回答，通常降低了事故的严重性。
+
+A: Hey. How was your weekend? 嗨，你周末过得怎么样？  
+B: Mmmm, it was OK. Not so great. 嗯，还行。不算太好。
+ 	 	 
+A: What happened? 发生了什么事？  
+B: Well, while I was cooking,I slipped and fell down. 嗯，我做饭的时候，脚下一滑摔倒了。
+ 	 	 
+A: Oh, no! Were you OK? 哦，不会吧！你没事吧？  
+B: Yes. I went to the hospital, but it wasn't serious. 有事，我去了医院，不过问题不大。 
+
+A: And how are you feeling now? 你现在觉得怎么样？  
+B: I'm OK. I have a bruise on my head, but I'll be fine. 我没事。我碰伤了头，但没有大碍。
+### 录音
+I slipped and fell while I was playing soccer. 我踢足球时滑倒了。
+
+I'm OK. I have a bruise on my leg. 我没事。我擦伤了腿。
+
+Mmmm, it wasn't great. 嗯，不是很好。
+
+It wasn't serious. 问题不是很大。
+
+I went to the hospital. 我去医院看病。
+
+### 最终任务 谈论疾病或受伤
