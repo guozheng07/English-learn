@@ -263,3 +263,93 @@ Let's see how it goes. 让我们看看会怎么样。
 ## 最终任务
 
 # 4 提出解决工作问题的办法
+## 词汇 公司问题
+first rate 第一流的，头等的  
+morale 士气  
+incompetent 无能力的，不胜任的  
+radical 激进的，彻底的
+
+**公司问题**
+ 
+您的个人或专业生活中可能会出现问题。公司也可能遇到问题。研究下面的常见公司问题。
+
+Business is bad, and **employee morale** is low. 生意很差，而且员工士气低落。
+
+**eCommunication**e between management and staff is poor. 管理层和员工之间的沟通不畅。
+
+There is a continuing problem of employee **etheft**e in the company. 公司里有员工盗窃的问题。
+
+The company's **costs** are going up and up. 公司的开支一直在上涨。
+
+**Competition** is fierce in our industry. 我们行业的竞争很激烈。
+
+Because of terrible **mismanagement**, the company is in trouble. 因为管理不善，公司现在陷入困境。
+
+The company's biggest problem is **a lack of innovation**. 公司最大的问题是缺乏创新。
+
+We **don't have the money** to buy **the latest technology**. 我们没有购买最新技术的资金。
+### 选词填空
+We need to talk to each other. **Communication** is important.
+
+The team didn't meet its deadline due to **mismanagement** .
+
+We don't have the best products because of a lack of **innovation**.
+
+Our **costs** are a problem. We need to spend less money.
+
+Our **competition** is weak. Business isn't doing so well at the moment.
+
+The employees aren't happy. We need to improve their **morale**.
+### 录音
+The company's costs are going up and up. 公司的开支一直在上涨。
+
+Because of mismanagement, the company is in trouble. 因为管理不善，公司现在陷入困境。
+
+Communication between management and staff is poor. 管理层和员工之间的沟通不畅。
+
+The company's biggest problem is a lack of innovation. 公司最大的问题是缺乏创新。
+
+There is a problem of employee theft in the company. 公司里有员工盗窃的问题。
+
+Competition is fierce in our industry. 我们行业的竞争很激烈。
+
+Business is bad, and employee morale is very low. 生意很差，而且员工士气低落。
+
+We don't have the money to buy the latest technology. 我们没有钱购买最新的技术。
+## 语法 'that'引导的关系从句
+'that' 引导的关系从句
+ 
+用关系代词连接两个句子。用关系代词that 代替事物。
+ 
+I work for a company. The company has lots of problems.
+
+I work for a company **that** has lots of problems.
+
+在该例子中，主句**I work for a company**是一个完整句，关系从句**that has lots of problems**不是完整句，故不能单独成句。
+
+记住，使用关系从句可以让你的作文和讲话更流畅，避免重复。
+### 选词填空
+The company I work for has a lot of problems. We have technology **that's** not the latest. I have a computer **that's 10 years old** . We have a management team that's **disorganized** . We have products **that aren't** innovative. We have competition **that's** doing better. We have costs **that** are rising quickly.
+## 表达 提出解决办法
+I really think the only solution is to ... 我真的认为唯一的解决办法就是……
+
+It's the only way to solve the problem. 这是解决问题的唯一办法。
+
+**提出解决办法**
+ 
+使用类似表达来提出解决办法:
+ 
+**One solution could be** that we hire a new manager. 一种解决办法是我们雇一位新经理。
+
+**Another possibility would be to** have a team meeting. 另一种可能是开一场团队会议。
+ 	 
+为了竭力提出解决方法，使用类似下列表达。
+ 
+**I really think that the only solution is to** replace the entire management team.	我真的认为唯一的解决办法是替换整个管理团队。
+
+**The only way to solve this problem is to** buy the company. 解决问题的唯一办法是买下这家公司。
+
+**I strongly suggest that** we deal with this problem immediately. 我强烈建议我们即刻处理这一问题。
+## 阅读 公司问题
+
+## 最终任务 记述公司问题
