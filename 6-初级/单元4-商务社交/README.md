@@ -169,9 +169,31 @@ Did you know Richard Moat? 你认识 Richard Moat 吗？
 
 与刚在社交活动上见到的某人建立共识是有好处的。如果你认为你以前见过对方但不肯定，使用类似表达。
 
+We've met somewhere before, haven't we?	我们以前在哪见过，不是吗？
 
+You look familiar. 你看起来很眼熟。
+
+使用类似表达确定你是否来自同一地区：
+
+Are you from around here? 你是这附近的人吗？
+
+Have you always lived in the area? 你一直住在这个地区吗？
+
+使用类似表达确定你是否知道同一人物或地点：
+
+I was the manager at Zutz Bakery. Are you familiar with it?	我是 Zutz Bakery 面包店的经理。你知道这家面包店吗？
+
+Did you ever work with Robin Meyer?	你和 Robin Meyer 共事过吗？
 
 ## 最终任务 参加社交活动
 # 3 商务联络
+## 词汇 否定前缀
+## 表达 提供你的公司的信息
+## 表达 打断和回应
+## 最终任务 商务联络
 
 # 4 总结社交活动
+## 语法 肯定反意疑问句
+## 表达 表达犹豫的观点
+## 阅读 总结
+## 最终任务 总结联谊活动
