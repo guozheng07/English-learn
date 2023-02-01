@@ -95,9 +95,83 @@ I'd like to introduce you to Ben. 我想把你介绍给 Ben。
 
 I'm so glad you could come.
 ## 最终任务 欢迎商务来宾
-
 # 2 参加社交活动
+## 词汇 对话话题
+对话话题合适与否，并没有固定规则。这往往取决于文化、社会和个人观点。因此，与不熟悉的人交谈时，还是谨慎为好。
 
+努力避免谈及诸如 **politics/政治**、**religion/宗教**、**money**或**romance/爱情**之类可能引起强烈反应的话题。相反，选择你认为对方可能感兴趣又不会触犯对方的话题。
+
+A: What kind of **sports** do you like? 你喜欢哪种运动？        
+B: I'm a big soccer fan. 我是足球迷。  
+A: Did you see the game last night? 你看了昨晚的比赛吗？  
+B: Yes! It was really exciting, wasn't it? 看了！比赛很精彩，不是吗？        
+ 
+A: Do you enjoy **traveling**? 你喜欢旅行吗？  
+B: Yes, I do. I went to India last year. I loved it！是的，我喜欢。去年我去了印度。我非常喜欢印度！
+ 	 	 
+A: The **weather**'s nice right now, isn't it? 现在天气很好，不是吗？  
+B: Yes, it is. I love the summer here. 是啊，天气很好。我喜欢这里的夏天。
+### 录音
+He won't talk about money with people he doesn't know. 他不愿意和不认识的人谈钱。
+
+I like talking about weather, sports and family. 我喜欢谈论天气、运动和家庭。
+
+No politics - people can't agree on the president. 不谈政治 - 人们不同意总统的观点。
+
+How about work - you're an engineer, aren't you? 工作如何 - 你是工程师，不是吗？
+
+She feels uncomfortable talking about her religion. 谈论她的宗教信仰让她觉得很不舒服。
+
+I enjoy talking about food and travel. 我喜欢谈论食物和旅行。
+
+My boss never talks about romance. It's too personal. 我的老板从不谈论爱情。这太私人了。
+## 口语 闲聊寒暄
+使用这些话题在派对和社交活动上进行简短而礼貌的对话。这称作“闲聊”。
+
+Wow – it's so hot outside!	哇 – 外面太热了！
+
+This event is very well-planned. 这个活动策划得很好。
+
+The food's not too bad.	食物并不是很差。
+
+So, what do you do for a living? 那么，你是做什么的？
+
+I'm with Crump and Company. Where are you?	我在 Crump and Company 工作。你在哪里工作呢？
+
+Are you here with family? 你和家人一起在这里吗？
+
+Are you taking any time off this summer? 这个夏天你打算休假吗？
+### 录音
+So, what do you do for a living? 那么，你是做什么的？
+
+Are you taking any time off this summer? 这个夏天你打算休假吗？
+
+The food's not too bad. 食物并不是很差。
+
+This event is very well-planned. 这个活动策划得很好。
+
+I'm with Crump and Company. Where are you? 我在 Crump and Company 工作。你在哪里工作呢？
+
+Are you here with family? 你和家人一起在这里吗？
+
+Wow - it's so hot outside! 哇 – 外面太热了！
+
+## 表达 找出共识
+Haven't we met somewhere before? 我们以前在哪见过吗？
+
+Are you from around here? 你是这附近的人吗？
+
+Do you know it? 你知道这里吗？
+
+I knew you looked familiar. 我觉得你很面熟。
+
+Did you know Richard Moat? 你认识 Richard Moat 吗？
+
+与刚在社交活动上见到的某人建立共识是有好处的。如果你认为你以前见过对方但不肯定，使用类似表达。
+
+
+
+## 最终任务 参加社交活动
 # 3 商务联络
 
 # 4 总结社交活动
