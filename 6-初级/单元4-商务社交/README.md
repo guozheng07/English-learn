@@ -261,6 +261,101 @@ Sorry, yes. We just need a couple minutes. 不好意思，是的。我们只需�
 ## 最终任务 商务联络
 # 4 总结社交活动
 ## 语法 肯定反意疑问句
+与否定反意疑问句相同，肯定反意疑问句用于确认某事真假或征求同意。
+ 
+跟在否定句后的肯定的反意疑问句，绝大多数由**do** + 代词构成。注意，该动词常被缩写。
+
+**You don't remember** his name, **do you**? 你不记得他的名字，是吗？
+
+**She didn't like** the food, **did she**? 她不喜欢这种食物，是吗？
+
+如果句中含有**be**动词，或诸如**can** 或 **have**的助动词，在反义疑问句中用该动词。
+
+**Tom isn't** the CEO, **is he**? Tom不是首席执行官，是吗？
+
+**They weren't** at the event, **were they**? 他们不在活动现场，是吗？
+
+**We can't go** next week, **can we**? 我们下周去不了，是吗？
+
+**Martha hasn't hired** any new people, **has she**? Martha 没有聘用新人，是吗？
+### 录音
+We can't go next week, can we? 我们下周去不了，是吗？
+
+You don't remember his name, do you? 你不记得他的名字了，是吗？
+
+They weren't at the event, were they? 他们那时没去那场活动，是吗？
 ## 表达 表达犹豫的观点
+I think it was an interesting evening. 我认为这个晚上很有意思。
+
+I guess I enjoyed it. 我想我过得很开心。
+
+networking 交际，社交
+
+I think I'm going to call Dan. 我想我要打电话给 Dan。
+
+用如**guess**, **seem**或**think**类的动词和**mayb**e或**probably** 类的副词表达一种试探性意见。注意这些词强调表述的试探性的发音。
+
+I **guess** that the networking event was fun. 我认为这场社交活动很有意思。
+
+Sandra **seemed** interested. Sandra 似乎很感兴趣。
+
+I **think** that Mr. Soledad will call me. 我觉得 Soledad 先生会打电话给我。
+
+**Maybe** I'll make some new contacts. 也许我会结识一些新的朋友。
+
+I'll **probably** have another event next month. 下个月我可能会参加一场活动。
+### 选词填空
+MARIA: Wow, I am so tired. What a night!  
+JONAS: No kidding.  
+MARIA: Did you make any good **contacts** ?  
+JONAS: Yeah. You didn't talk to Helen Woolsey, did you?  
+MARIA: Helen from The Kleen Company? No, I didn't. What **did** she say?  
+JONAS: I told her about our website design services. Helen was definitely excited.  
+MARIA: Cool! Did she order any services?  
+JONAS: No, but she'll **probably** place an order.  
+MARIA: That's great. Bobby Baber **seemed** interested, too.  
+JONAS: Really? Bobby Baber? He was totally impolite and inappropriate at our last **networking** event. He said we were crazy for opening our own business!  
+MARIA: I know, I know. He's weird. But last night he said that our company looks really strong.  
+JONAS: Wow. OK, well, I **guess** that Bobby Baber was feeling a little guilty about what he said last time.
+### 录音
+I guess the networking event was a success. 我认为社交活动举办得很成功。
+
+I think I made some important contacts. 我认为我完成了几个重要的会晤。
+
+People seemed to enjoy themselves. 人们似乎玩得很开心。
+
+They'll probably call me tomorrow. 他们明天可能会给我打电话。
 ## 阅读 总结
+在参加社交活动后，你可能想总结经验，告诉自己的同事或朋友。下为可供参考的邮件样文格式。
+ 
+1.撰写简短扼要的主题  
+Friday's networking event  
+Networking in New Orleans
+ 
+2.简要说明你写邮件的目的。
+I want to tell you about the networking event I went to.  
+I'm writing from New Orleans. I just got back from an exciting networking party.
+
+3.用两到三个句子总结活动的时间、地点和原因，以及参加人员。  
+Our business partner, Frendz International, had the event on Friday at the Beach Palace Inn in Miami. Frendz wanted everyone to share ideas about how to succeed in China.
+ 
+Food 1st invited about 50 restaurant owners to the event tonight. They served food from around the world. There were 10 food tables, and we spent 10 minutes at each table tasting food.
+ 
+4.用一两个句子表达你对活动结果的观点。  
+I guess that the event was a success. A vice president at Pumelin seemed interested in our exchange program.  
+I think that I made some great business contacts. Rene Arzak from Eat 8 took my card. Maybe she'll give me a call!
+ 
+阅读总结一场保健行业联谊活动的电子邮件。  
+Networking party about health costs
+
+Hi, Cassandra and Joe.
+
+I went to a fantastic networking party this weekend at the General Hospital in Luxembourg. More than 20 city healthcare executives were there. The executives(高管) shared great ideas about how to decrease healthcare costs. The best idea was probably a free health advice website. People seemed excited about my course for doctors, too.
+
+I'll tell you more when I see you next week!
+
+Best regards,
+
+Nick
+
 ## 最终任务 总结联谊活动
