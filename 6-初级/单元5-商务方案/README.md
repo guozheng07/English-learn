@@ -137,9 +137,149 @@ We have to find a way to increase sales. 我们必须要找到增加销量的办
 ## 最终任务 描述商务场合
 # 2 讨论可能的解决办法
 ## 词汇 更多商务词汇
+database 数据库  
+huge 巨大的  
+half a million 五十万  
+developers 开发人员  
+project manager 项目经理  
+release 发布  
+software 软件  
+customers 客户  
+hiring freeze 冻结招聘  
+hire 雇用，招聘
+### 选词填空
+He was **hired** as a developer six months ago, just before the hiring **freeze** . He's working on a database with his project **manager** to support new **software** . The software release is in six months. It's huge. They've already spent more than **half a million** dollars. The company's **customers** are very excited.
+
+We keep all the company information in a huge **database** .
+
+My project **manager** does a great job for the team.
+
+Do you know the date of the next **release** ?
+
+No computer can operate without **software** .
+
+A smart company should listen to its **customers** .
+
+We'll need to hire six or seven new **developers** to complete the project.
+
+### 录音
+He does a great job as project manager. 他作为项目经理，工作做得很好。
+
+We can save money with a hiring freeze. 我们可以停止招聘来省钱。
+
+She works as a developer in a software company. 她在软件公司做开发人员。
+
+We keep all our information in a huge database. 我们把所有的信息储存在一个巨大的数据库里。
+
+When is the company's next software release? 公司下一次软件发布是什么时候？
+
+Half a million dollars is a lot of money. 五十万美元是一大笔钱。
 ## 语法 think和believe引导的从句
+使用动词 **think** 和 **believe** 表达观点。注意，观点位于 **that** 从句，紧随动词之后。
+
+I **think that** Joan did a good job. 我认为 Joan 做得很好。
+
+Simon **believes** that we can save half a million dollars.	Simon 认为我们能省下五十万美元。
+
+单词 **that** 可以省略，意思不会有改变。
+
+I **think** Joan did a good job. 我认为 Joan 做得很好。
+
+Simon **believes** we can save half a million dollars. Simon 认为我们能省下五十万美元。
+
+回答是或否的时，用 **so** 替代 **that** 从句，以避免重复整个短语。
+
+A: Do you think that Joan did a good job? 你认为 Joan 做得好吗？
+
+B: Yes, I think so. 是的，我是这样想的。
+
+C: No, I don't think so. 不，我不这样想。
+### 选词填空
+KAREN: So, John, what did you **think** of the meeting?  
+JOHN: Well, I think **that** the company has some problems.  
+KAREN: **Because of** the hiring freeze?  
+JOHN: Yes, and I **don't believe that** the software project is going well.  
+KAREN: Yeah, and the release is in two months. Do you **think that** we can do it?  
+JOHN: I don't think **so** .  
+KAREN: That's not good. Our customers are waiting.  
+JOHN: Yes. The project manager needs to do more.
 ## 表达 表达观点
+In my opinion ... 在我看来……
+
+I believe ... 我认为……
+
+表达观点有很多方法。比如说，你可以使用 **in my opinion** 和 **it's my feeling (that)** 这样的表达。
+
+**In my opinion**, we could delay the software release.	在我看来，我们可以推迟软件发布。
+
+**It's his feeling that** we need to cut costs.	他觉得我们需要削减成本。
+
+你也可以使用 **I think** 和 **I believe** 。记住，这些从句里面 **that** 可用可不用。
+
+I **don't believe that** we should lay off staff. 我认为我们不应该裁员。
+
+He **thinks** a hiring freeze is better than layoffs. 他认为停止招聘比裁员更好。
+### 选词填空
+SARAH: In my **opinion** , we need to cut costs.  
+PAUL: Yes, but how?  
+SARAH: Well, I **think that** we could save half a million dollars with layoffs.  
+PAUL: No, I **don't believe that's** the best idea. It would hurt employee morale.  
+SARAH: So, what's your idea?  
+PAUL: It's my **feeling** that a hiring freeze is the best way.  
+SARAH: Well, maybe, but it will take longer to save money.
+### 录音
+I don't believe layoffs are the best idea. 我认为裁员不是最好的办法。
+
+He doesn't think that layoffs are the best idea. 他认为裁员不是最好的办法。
+
+In my opinion, we need to delay the release. 在我看来，我们需要推迟发布。
+
+Her feeling is that we need to delay the release. 她的意见是我们需要推迟发布。
+
+I think that we could save half a million dollars. 我认为我们能节省五十万美元。
+
+No, I don't think we could save that much. 不，我认为我们省不了那么多。
 ## 表达 请求澄清和确认
+有时，当您进行讨论并发表意见时，可能需要重复，澄清或确认。
+ 
+**请求重复**
+ 
+I'm sorry, **could you repeat that**? 不好意思，你能再说一遍吗？
+
+I'm sorry, but **I didn't catch that**.	对不起，可我没听明白。
+
+I'm sorry, **would you mind repeating that**? 不好意思，你介意重复一遍吗？
+ 	 	 
+**请求澄清**
+
+**Do you mean that** you think it's a good idea? 你的意思是你认为这是个好主意？
+
+**Are you saying** we should stop the project?	你是说我们应该停止这个项目吗？
+
+**请求确认**
+
+**So you think** he should be fired? 那么你认为他应该被解雇吗？
+
+**So, just to confirm**, you believe that it's too expensive? 那么，只是确认一下，你认为太贵了是吗？
+ 	 	 
+你也可以重复对方说的话。
+ 
+Half a million?	五十万吗？
+### 录音
+I'm sorry, could you repeat that? 不好意思，你能再说一遍吗？
+
+I'm sorry, would you mind repeating that? 不好意思，你介意重复一遍吗？
+
+So you think that he should be fired? 那么你认为他应该被解雇吗？
+
+So, just to confirm, you believe it's too expensive? 那么，只是确认一下，你认为太贵了是吗？
+
+Do you mean that you think it's a good idea? 你的意思是你认为这是个好主意吗？
+
+Are you saying we should stop the project? 你是说我们应该停止这个项目吗？
+
+I'm sorry, but I didn't catch that. 对不起，可我没听明白。
+
 ## 最终任务 讨论可能的解决办法
 
 # 3 提出方案
