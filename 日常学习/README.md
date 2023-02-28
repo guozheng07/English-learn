@@ -94,34 +94,34 @@ You're never too old to enjoy a Christmas stocking. 你无论什么年龄都会�
 - [x] an affordable alternative
 - [ ] dupes 骗子
 - [ ] cheap knock-off 便宜的仿制品
-### 2022.12.29
+## 2022.12.29
 “恋爱脑”用英语怎么表达？
 - [ ] love brain
 - [x] infatuated 痴情
 - [x] love-struck  
 He is so infatuated with this new girl. He is talking about her all the time.  
 She is so love struck right now, totally in love with him.
-### 2022.12.30
+## 2022.12.30
 “吐槽”用英语怎么表达？
 - [ ] mock 嘲笑
 - [ ] vent 发泄
 - [x] roast
-### 2022.12.31
+## 2022.12.31
 “跨年”用英语怎么表达？
 - [ ] Stay up until the New Year
 - [x] Stay up to bring the New Year
 - [ ] Cross the New Year
-### 2023.01.01
+## 2023.01.01
 “元旦”用英语怎么表达？
 - [ ] Yuan Egg
 - [x] New Year's Day
 - [ ] New egg
-### 2023.01.02
+## 2023.01.02
 “调休”用英语怎么表达？
 - [ ] Switch rest
 - [ ] Extra holiday
 - [x] Compensate
-### 2023.01.03
+## 2023.01.03
 “网红”用英语怎么表达？
 - [ ] cyber star
 - [x] influencer
@@ -131,24 +131,24 @@ When someone hesitates from doing something unpleasant or dangerous. Or when you
 - [ ] Brave 勇敢的
 - [x] Flinch 退缩；畏惧
 - [ ] Hold back 隐瞒；退缩；抑制；阻止
-### 2023.01.05
+## 2023.01.05
 “改变主意”除了用“Change ones's idea”表达，还可以怎么表达？
 - [x] Think better of it
 - [ ] Change ones's idea
 - [ ] Change thoughts
-### 2023.01.06
+## 2023.01.06
 “认真琢磨”除了用“think over”表达，还可以怎么表达？
 - [x] Mull 仔细思考
 - [ ] Consider
 - [ ] Refine  
 He is mulling over the proposals before making any change.
-### 2023.01.07
+## 2023.01.07
 “光彩照人”用英语怎么表达？
 - [ ] Beautiful
 - [ ] Attractive
 - [x] Stunning  
 You look stunning in that dress.
-### 2023.01.08
+## 2023.01.08
 “擅长”用英语怎么表达？
 - [x] Be proficient in
 - [x] Excel at
@@ -202,7 +202,31 @@ resolution 由动词 resolve 得来，resolve 除了有常见的“解决”之�
 
 My New Year's Resolution is to get in shape. 我的新年决心是要有一个最棒的体质。  
 As my New Year's Resolution, I made a decision to change my life and be healthy. 正如我的新年决心，我决定改变我的生活和健康。  
-A great way to ensure success is to find a New Year's Resolution partner. 保证成功的一个很好的办法就是给自己找一个共同实现新年决心的搭档。  
+A great way to ensure success is to find a New Year's Resolution partner. 保证成功的一个很好的办法就是给自己找一个共同实现新年决心的搭档。
+## 电影
+### Titanic《泰坦尼克号》
+A：And you find that sort of rootless existence appealing, do you? 你喜欢这样四处漂泊吗？
+
+B：Well，yes，ma'am，I do.I mean，I've got everything I need right here with me. Got air in my lungs and a few blank sheets of paper. 是的，夫人，我很喜欢。我全部家当都在身上。有个健康的身体，以及作画用的纸。
+
+1.rootless adj. 漂泊不定的  
+I don't want to be a rootless nomad. 我不想做一个漂泊不定的流浪者。
+
+2.appealing adj. 有吸引力的  
+The idea of not having to get up early every morning is rather appealing (to me). 每天不用早起，这（对我）很有吸引力。
+
+3.sheet n. 薄片  
+We need a sheet of glass. 我们需要一片玻璃。
+
+A：I love waking up in the morning not knowing what's going to happen or who I'm going to meet，where I'm going to wind up. 我喜欢早上起来时一切都是未知的，不知会遇见什么人，会有什么样的结局。
+
+1.wake up 醒来；叫醒  
+I woke up with a headache. 我醒来时觉得头疼
+
+2.wind up 以...告终（未经计划的）；过去时 wound  
+I didn't know where to go and wound up sleeping in the car. 我不知道去哪，最后睡在了车里。
+
+
 
 
 
