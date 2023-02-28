@@ -260,8 +260,62 @@ I see what you mean. 我明白你的意思了。
 
 I'm not sure what you mean. 我不确定你的意思是什么。
 ## 最终任务 关于服务的问题
-
 # 4 条款和条件
 ## 词汇 合同细节
+在谈论合同的详情时，您会注意到一些十分常见的词汇和短语。 
+
+You can **cancel* any time.	您可以随时取消。
+
+You'll need to **give us 30 days' notice**.	您需要提前 30 天通知我们。
+
+Are we able to **hange packages**?	我们可以更换套餐吗？
+
+You can **upgrade to** a premium package. 您可以升级至高级套餐。
+
+You need to wait for the **contract to expire** 您需要等合同到期。
+### 选词填空
+It takes 30 days if you want to **cancel** the contract.
+
+You'll need to give us 30 days' **notice** .
+
+Are we able to change **packages** ?
+
+If you want a premium package, you can **upgrade** any time.
+
+You can wait for the contract to **expire** .
+### 录音
+What if I want to change packages? 要是我想更换套餐，那怎么办？
+
+What if I want to cancel the contract? 要是我想取消合同，那怎么办？
+
+Can I upgrade any time? 我可以随时升级吗？
+
+Do I need to wait for my contract to expire? 我要等我的合同到期吗？
 ## 语法 许可和义务
+在查看合同细节时，您通常会想知道您被允许做什么。
+ 
+Are we **allowed to** change packages?	允许我们更换套餐吗？
+
+**Can** we cancel the contract?	我们可以取消合同吗？
+
+Are we **able to** upgrade any time? 我们能够随时升级吗？
+
+您可能听到了您的义务，或者想询问关于义务的内容。
+ 
+You **need to** give us 30 days' notice. 您需要提前 30 天通知我们。
+
+You **have to** wait for the contract to expire. 您必须等合同到期。
+
+Do we **need to** give you notice?	我们需要提前通知你吗？
+### 录音
+Can we cancel any time? 我们可以随时取消吗？
+
+Are we allowed to upgrade? 允许我们升级吗？
+
+Do I need to give 14 days' notice? 我需要提前 14 天通知吗？
+
+So, I have to wait a month to change packages? 那么，我必须等一个月才能更换套餐，对吗？
+
+Are we able to change packages? 我们可以更换套餐吗？
+
 ## 最终任务 合同信息
