@@ -166,17 +166,236 @@ If you get a job, you'll make some money. 如果你找到工作，你就会赚�
 I'm not sure. I just can't decide. 我不确定。我就是无法决定。
 
 It doesn't hurt to get more information. 多获得一些信息也无妨。
-## 最终任务 讨论人生选择
 
+## 最终任务 讨论人生选择
 # 3 谈论你的希望与梦想
 ## 词汇 带有-ing的单词
-## 语法 非真实条件句
-## 表达谈论希望与梦想
-## 阅读 阅读有关希望与梦想的文章
-## 最终任务 谈论梦想
+managing 管理  
+unchallenging 没有挑战性的   
+boring 令人厌烦  
+rewarding 很有意义  
+teaching 教学  
+hoping 希望  
+working 工作  
+studying 学习  
 
+看到或听到以 **-ing** 结尾的单词时，有三种可能：它是一个形容词、动名词（以 **-ing** 结尾的名词）或动词进行式。
+
+**Adjectives**  
+My job is unchallenging. 我的工作毫无挑战性。
+
+My work with the Peace Corps was very rewarding. 与和平队共事非常有意义。
+
+**动名词**  
+Working during the day and studying at night isn't easy. 白天工作晚上学习很不容易。
+
+**动词**  	 
+I am studying to become a teacher.	我正在为成为一名教师而学习。
+
+He was working in a bank when he decided to change his career.	决定跳槽时，他正供职于一家银行。
+### 选词填空
+坎蒂正在谈论她的工作和学业。 请把词条移至正确的间隔处。
+
+I've been **working** the same job for two years now, **managing** a coffee shop. It's not very **rewarding** . So last month I started **taking** night classes to become a computer programmer. **Studying** at night isn't easy, but I want a more challenging job. **Becoming** a programmer is hard work, but I'm doing my best. It's exciting!
+### 录音
+Working for the Peace Corps was exciting. 在美国和平队工作令人兴奋。
+
+My job as a teacher is very rewarding. 我的执教生涯非常有意义。
+
+Becoming a lawyer is quite difficult. 想要成为一名律师相当困难。
+
+I'm taking night classes. 我正在上夜校。
+
+I've been working the same job for five years. 同样一份工作我已经做了五年了。
+
+Studying at night is hard. 晚上学习很辛苦。
+## 语法 非真实条件句
+使用非真实条件句说明非真实的未来境况、想象的或不可能发生的事物。在 **if** 引导的分句中使用一般过去时，并在结果分句中使用 **would** + 动词原形。
+
+**If I had** a lot of money, I'd travel around the world. 如果我有很多钱，我就会环游世界。
+
+如果结果分句出现在于 **if** 之前，则无需逗号(,)。
+
+**I'd travel** around the world **if I had** a lot of money. 如果我有很多钱，我就环游世界。
+
+非真实条件句中动词 **be** 的正确一般过去式是 **were**。
+
+**If he were** a teacher, **he'd be** happier. 如果他是教师，他就会更加开心。
+
+**If they were** younger, **they'd travel** around the world. 如果他们再年轻一些，他们就会环游世界。
+
+但是，在俗语中，你将经常听到 **was**。
+
+**I'd be** a basketball player **if I was** taller.	如果我能高一点，我就是篮球运动员了。
+### 选词填空
+I **would** travel around the world if I were rich.
+
+If I **didn't** need the money, I would quit.
+
+If I **were** you, I'd be tired, too.
+
+It **wouldn't** be so rewarding if it were easy.
+
+I'd be happier if I **had** a good job.
+
+If I weren't so short, I **would** be a basketball player.
+## 表达谈论希望与梦想
+Why not change your job? 为什么不换个工作？
+
+It's always been my dream … 这一直是我的梦想……
+
+If I were a teacher, I'd be … 如果我是教师的话，我就……
+
+I need a teaching certificate. 我需要一张教师证。
+
+I'm hoping to get on it. 我希望能参加。
+
+a plan to change your life 改变人生的一项计划
+
+It won't be easy. 这并非易事。
+### 选词填空
+I'm hoping to **start** my own company.
+
+We dream of **getting** married.
+
+He hopes to **graduate** next year.
+
+If I were you, I'd **buy** the sports car.
+
+She hopes that she can **learn** a new language.
+
+I **have** a real plan to change my life.
+### 录音
+If I had a good job, I'd be a lot happier. 如果我有份好工作,我就会开心多了.
+
+I dream of owning my own business. 我梦想拥有自己的事业.
+
+You have a real plan to change your life. 你有一个能够改变自己人生的真正的计划。
+
+I'm hoping to start Spanish classes. 我正期待着西班牙语班开课。
+
+I hope that I can see the world. 我希望能看看这个世界。
+
+His dream is to become a teacher. 他的梦想是成为一名教师。
+## 阅读 阅读有关希望与梦想的文章
+Dear Mom and Dad,
+
+This is a very exciting time for me. I'll be **graduating** next month with my degree in engineering. Dad, I know it's your **dream for** me to get a job with a big engineering company. Honestly, I'm just not sure that's what I want to do. Mom, I know you're **hoping** that Julie and I will get **married**, but it's not the right time. Maybe in a year or two.
+
+My dream **is to see** the world and use my degree to help people. That's why I'm **applying** to the Peace Corps. I hope that I can make a difference in some people's lives. If the Peace Corps accepts me, I'd like to work on water projects. People need clean water.
+
+Well, I guess that's it for now. Thank you both for all your help. Talk to you soon.
+
+Love,
+
+Tim
+
+## 最终任务 谈论梦想
 # 4 谈论职业发展
 ## 词汇 职业发展
+career path 职业道路  
+professional development 职业发展  
+project management 项目管理  
+communication skills 沟通技能  
+organized 有条理的  
+technical background 技术背景  
+courses 课程  
+potential 潜力
+### 选词填空
+I can't hire him. He just doesn't have the technical **background** .
+
+After I graduate, I'm hoping to work in project **management** .
+
+They spend a lot of money on professional **development** .
+
+Will the company pay for training **courses** ?
+
+You need to be more **organized** . You're not efficient enough.
+
+It's never too late to change your career **path** .
+### 录音
+Professional development can help all employees. 职业发展能帮助所有的员工。
+
+Project manager is a challenging position. 项目经理是一个富有挑战性的职位。
+
+He's an efficient and organized employee. 他是一名效率高且做事有条理的员工。
+
+I don't think he's working to his full potential. 我认为他没有发挥出他的全部潜力。
+
+What would you say are your strongest skills? 你认为自己最强的技能是什么？
+
+She has a strong technical background. 她拥有深厚的技术背景。
 ## 语法 使用动词wish
+使用动词 **wish** 表达对事物不理想的遗憾。对于现在的时态，使用动词现在式**wish** + 动词过去式。注意：与动词 **wish**一起时，动词 **be** 的唯一一般过去式是 **were**。
+
+He **wishes** that he **were** more organized.	他希望自己能更有条理。
+
+She **wishes** that she **had** a better technical background.	她希望自己能有更好的技术背景。
+
+你也可以使用 **wish** + 情态动词过去时 **could** 或 **would** + 动词现在时态，用于表达遗憾。
+
+**I wish** (that) **I could speak** French.	我希望自己能说法语。
+
+**I wish** (that) my son **would study** harder. 我希望我儿子学习更努力一点。
+
+对于过去的状况，使用动词现在式 **wish** + 动词过去完成式。
+ 
+Sally **wishes** (that) she **had studied** something different in college.	莎莉懊悔的是要是她在大学里学其他东西就好了。
+
+I **wish** that I **hadn't gotten married** so young. 我要是在这么年轻的时候没有结婚就好了。
+### 选词填空
+He wishes he had **studied** harder.
+
+She wishes she **hadn't** taken the job last year.
+
+Don't you wish you **had** more money?
+
+I wish I **were** taller. I'm too short for basketball.
+
+He wishes he **had gone** to Europe with Ellie last summer.
+
+I wish that I **had taken** the chance to travel when I was younger.
+### 录音
+I wish that I had more time. 我要是能有更多的时间就好了。
+
+They wish that the office were bigger. 他们希望办公室更大点就好了。
+
+He wishes he had studied harder. 他懊悔的是要是他再努力点学习就好了。
+
+I wish I weren't so busy. 我希望我没有这么忙。
+
+She wishes she hadn't taken the job. 她希望自己没有从事这份工作。
 ## 表达 鼓励他人
+That's good. 那很好。
+
+Professional development is important. 职业发展很重要。
+
+You have good communication skills. 你有良好的沟通能力。
+
+You're extremely organized. 你做事极有条理。
+
+It won't be easy. 这并非易事。
+
+You can definitely do it. 你肯定能做。
+
+My pleasure. 我的荣幸。
+
+You have a lot of potential. 你有很大潜力。
+
+I'll help you all I can. 我会尽我所能来帮你。
+### 选词填空
+Generally, your employee review was very positive. You have strong **communication** skills, and you're extremely **organized** . You work very well with the team. One thing: I wish that you had a stronger technical **background** . I think you should take some night classes. Everyone needs to think about professional **development** . The company will pay. It won't be easy, but you can definitely do it. We believe that you have a lot of **potential** and we will do all we can to help you succeed.
+### 录音
+You have strong communication skills. 你有很强的沟通能力。
+
+It's my pleasure. I'll help you all I can. 这是我的荣幸。我会尽我所能地帮助你。
+
+Absolutely. You have a lot of potential. 绝对是这样。你有很大潜力。
+
+Good luck! Go for it! 祝你好运！加油！
+
+You're extremely organized. 你做事非常有条理。
+
+It won't be easy, but you can definitely do it. 这并不容易，但是你肯定能做到。
+
 ## 最终任务 谈论职业发展
