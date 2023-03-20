@@ -159,17 +159,276 @@ Sincerely,
 Galen
 # 2 安排面试时间
 ## 词汇 职位详细信息
-## 表达 电话用语
-## 表达 安排面试
-## 最终任务 安排面试时间
+work hours 工作时间  
+open from 10 till 8 上午10点至晚上8点开放  
+Monday through Saturday 星期一至星期六  
+four days a week 每周四天  
+include some Saturdays 包括部分星期六  
+work on weekends 周末加班  
+overtime policy 加班政策  
+flexible 灵活的
 
+回应招聘广告之后，招聘公司可能会在安排面试前打电话问你一些问题。你也可以借此机会提出一些问题，以确定是否值得自己去面试。此次初步交谈可能会涉及的话题有：
+
+your availability or the start date	你何时有空来上班或开始上班的日期
+
+a full-time or part-time position 做全职还是兼职
+
+working hours 工作时间
+
+compensation and benefits 薪酬与福利
+
+overtime policy	加班政策
+
+job responsibilities 工作职责
+### 选词填空
+LINDA: Hi, Fred. This is Linda Jenkins calling from World Tea.
+
+FRED: Oh, hello. I'm happy to hear from you.
+
+LINDA: Good. Listen: We looked at your **resume** , and we think that you should come in for an **interview** . But first, I'd just like to ask you a couple of questions.
+
+FRED: OK.
+
+LINDA: Would you be **available** to start on April 23rd?
+
+FRED: Why, yes, I think so.
+
+LINDA: Great. And are you more interested in a full-time or **part-time** position?
+
+FRED: Um, well, does the part-time position include **benefits** ?
+
+LINDA: No, I'm sorry.
+
+FRED: Well, I would only be interested in a full-time **position** .
+
+LINDA: OK, then. Let's talk about a good day to have you come in for an interview.
+## 表达 电话用语
+当你致电某个公司时，接电话的前台常常会先报公司的名称。接电话的人可能也会先自报姓名。
+
+Good morning. Marklex Company. How can I help you?	早上好。这里是Marklex公司。有什么需要帮忙的吗？
+
+Hello. Peter Cass speaking.	你好。我是彼得·卡斯。
+
+然后，您会要求与某人交谈或与您打电话的人打招呼。
+ 
+Yes, I'd like to speak with Peter Cass in Human Resources.	嗯，我想找人力资源部的彼得·卡斯。
+
+Oh, hello, Peter. It's Jerry Adamson. 哦，你好，彼得。我是杰里·艾德森。
+
+前台可能会问你是谁。
+ 
+Can I ask who's calling, please? 我能问一下你是哪位吗？
+
+前台可能会请你稍等片刻，或问你是否需要留言。
+
+Hold on a moment. 请稍等。
+
+I'm sorry. Mr. Cass is not available. Would you like to leave a message? 很抱歉，卡斯先生现在没空。你要留言吗？
+ 	 
+当你办完事情以后，前台可能会问你是否还有别的事。
+
+Is there anything else I can help you with?	还有什么我能帮忙的吗？
+### 选词填空
+RECEPTIONIST: Good morning. Citizen Bank. How can I help you?
+
+MS. SMITH: Yes, I'd like to **speak** with Pat Crosby.
+
+RECEPTIONIST: Who's **calling** , please?
+
+MS. SMITH: It's Sandy Smith from Delight Restaurant.
+
+RECEPTIONIST: **Hold** on a moment, please. I'm sorry, Ms. Smith, but Mr. Crosby is not **available** . Would you like to leave a **message** ?
+
+MS. SMITH: Yes. Please tell him that I received the papers he sent me.
+
+RECEPTIONIST: Certainly. Is there **anything** else I can help you with?
+
+MS. SMITH: No, that's it. Thank you.
+
+RECEPTIONIST: You're very welcome. Have a good day.
+### 录音
+I'd like to speak with Peter Cass. 我要找 Peter Cass。
+
+Can I ask who's calling, please? 请问您是哪位？
+
+Hold on a moment. 请稍等。
+
+I'm sorry, but he's not available. 对不起，他现在不在。
+
+Would you like to leave a message? 您想留言吗？
+
+Is there anything else I can help you with? 有什么我可以帮忙的吗？
+## 表达 安排面试
+使用该表达，打电话安排一次面试。
+
+I'm calling to schedule an interview.	我打电话是要安排一次面试。
+
+使用这些表达商定面试时间。
+
+A: When would you like to come in?	你想什么时间来面试？  
+B: How about Thursday afternoon? 星期四下午怎么样？  
+A: I can see you Thursday afternoon at 3. Is that good for you?	我可以在星期四下午3点见你。你方便吗？  
+B: Yes, that works for me.	是的，方便。
+
+安排好预约后，另一方或双方应对时间进行确认。
+
+A: OK. I've got you scheduled for Thursday afternoon at 3. 好的。我将你安排在星期四下午3点。  
+B: Yes, that's correct.	是的，没错。  
+A: Great. We'll see you on Thursday. 很好。我们星期四见。  
+B: Thank you very much.	非常感谢。
+### 录音
+I'm calling to schedule an interview. 我打电话是要安排一场面试。
+
+When would you like to come in? 你想什么时间来面试？
+
+How about Monday afternoon? 星期一下午怎么样？
+
+Is Monday afternoon at 3 good for you? 星期一下午3点你方便吗？
+
+Yes, that works for me. 是的，方便。
+
+I've got you scheduled for Monday afternoon at 3. 我把你安排在星期一下午3点。
+
+## 最终任务 安排面试时间
 # 3 求职面试
 ## 词汇 面试词汇
-## 语法 过去完成时
-## 阅读 面试注意事项
-## 表达 回答面试问题
-## 最终任务 求职面试
+to be honest 老实说  
+that's for sure 那是肯定的。  
+strengths 优势  
+great with people 善于与人相处  
+quick learner 学得很快  
+references 推荐信  
+unreliable 不可靠  
+inflexible 不会变通  
+applicants 应聘者
+### 选词填空
+To be **honest** , I don't have a lot of work experience.
 
+What would you say is one of your biggest **strengths** ?
+
+I don't have a lot of work experience, but I'm a quick **learner**  .
+
+He included three **references** with his resume.
+
+We need someone who isn't so **inflexible** .
+
+I've already interviewed six **applicants** for the position.
+## 语法 过去完成时
+使用过去完成时，表述两件过去事情发生的先后顺序。过去完成时由 **had** + 动词过去分词组成。**Had** 的缩写形式为 **'d**。注意以下例句中事情发生的顺序。
+
+When he arrived at the interview, Mr. Jones **had gone**. 当他到达面试地点时，琼斯先生已经走了。
+
+**I'd sent** my resume before I went to the interview. 我先发了简历，然后去参加面试。
+
+**She'd** already **applied** for the job when she saw the terrible salary.	在看到糟糕的薪水时，她已经申请了那份工作。
+
+句中含有 **before** 或 **after** 之类的时间连接词时，由于时间关系已经很清楚，因此不一定使用过去完成时。在这些情况下，你可以使用一般过去时。
+
+He sent his resume **before** he went to the interview.	去面试前，他先寄送了自己的简历。
+
+He flew to New York **after** he got the job. 他在找到工作后飞去了纽约。
+### 选词填空
+She had applied for 10 jobs **before** she was even offered an interview.
+
+She felt really sad **after** she had failed the interview.
+
+He got the job **after** they had checked his references. The company wanted to be careful.
+
+They interviewed her three times **before** she got the job.
+
+You should send the company your resume **before** you go for an interview.
+
+They went to a nice restaurant to celebrate **after** he got the job.
+### 选词填空
+**After** he had sent out more than 20 resumes, he finally got an interview. **Before** he was interviewed in person, he had two interviews on the phone. **After** he had been interviewed three times, by different managers, he was finally **hired** . After he had worked at the company for six months, he **quit** .
+## 阅读 面试注意事项
+### 文章
+Job interviews are stressful. You want to present yourself in the best possible way. Here is some advice about what to do and what not to do.
+
+Dos:
+- Be on time for the interview – arrive 10 minutes early.
+- Dress professionally.
+- Answer all questions slowly and calmly.
+- Look your interviewer in the eye.
+- Ask for clarification if you need to.
+- Write a thank-you email after the interview.
+
+Don'ts
+- Don't chew gum or smell like smoke.
+- Don't allow your cellphone to ring.
+- Don't say bad things about old jobs.
+- Don't be dishonest.
+- Don't ask about money right away.
+- Don't act nervous.
+## 表达 回答面试问题
+So what are your career goals? 那你的职业目标是什么？
+
+What are you interested in? 你对什么感兴趣？
+
+So, what are some of your strengths? 那么，你的优势有哪些？
+
+I'm great with people. 我善于与人相处。
+
+I'm hardworking. 我很勤奋。
+
+I'm a quick learner. 我学得很快。
+
+在面试中，虽然有些问题可能会出乎你的意料，但有些常规的问题还是可以事先准备好的。这里有一些例子。
+
+A: Could you tell me a little more about your work experience? 你能跟我多介绍一下你的工作经历吗？  
+B: I've been working in the fashion industry for three years. 我在时尚产业工作了三年。
+ 	 	 	 
+A: Why are you interested in this position?	 你为什么对该职位感兴趣？  
+B: I'm interested because it offers a chance to work in an exciting company. 我之所以感兴趣，是因为它提供了在一家令人兴奋的公司工作的机会。
+ 	 	 	 
+A: What are some of your strengths and weaknesses? 你有哪些优点和缺点？  
+B: Well, I'm very hardworking and motivated. Sometimes I get a little too excited – I don't like to wait. 嗯，我工作努力积极。有时有点兴奋过头，我不喜欢等待。
+
+文化点：在被要求介绍缺点时，试着从积极的角度说明自己的缺点。
+
+面试通常包含有关你职业目标的问题。
+
+A: What are your career goals? 你有什么职业目标？  
+B: I'd like to start my own business. 我想成立自己的公司。 	 
+
+A: Please tell me a little bit more about your short-term and your long-term goals. 请稍微跟我说说你的短期目标和长期目标。  
+B: Short term, I'd like to improve my skills. Long term, I'd like to get into management. 短期来说，我想提高自己的能力。长期来说，我想进入管理层。
+ 	 	 	 
+A: Where do you see yourself in, say, five or 10 years' time? 假定五到十年后，你认为自己会做什么？  
+B: I'd like to run my own company. 我想管理自己的公司。
+### 选词填空
+INTERVIEWER: What do you think are some of your strengths and **weaknesses** ?
+
+APPLICANT: Well, one of my biggest strengths is my ability to work with others. I'm a great team **player** .
+
+INTERVIEWER: And weaknesses?
+
+APPLICANT: Well, sometimes I just get too **excited** about things. I want everything to happen quickly.
+
+INTERVIEWER: I see. And why do you want to work for this company?
+
+APPLICANT: Because you're number one. You have no real **competition** that I can see.
+
+INTERVIEWER: And what are your career **goals** – say, in two or three years?
+
+APPLICANT: I see myself in a **management** position.
+### 录音
+Could you tell me a little more about your education? 能再说说你的教育背景吗？
+
+I graduated with a degree in computer programming. 我毕业时获得了计算机编程专业的学位。
+
+Why are you interested in this position? 你为什么对这个职位感兴趣？
+
+I think I have the right skills for the position. 我认为自己具备这个职位所需的技能。
+
+One of my short-term goals is to be a manager. 我的短期目标之一是成为一名管理者。
+
+One of my long-term goals is to have my own company. 我的长期目标之一是创办自己的公司。
+
+Would you be available for a follow-up interview? 你有空参加接下来的面试吗？
+
+## 最终任务 求职面试
 # 4 结束面试
 ## 词汇 面试技巧
 ## 表达 面试问题
