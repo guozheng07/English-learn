@@ -317,12 +317,245 @@ Can I ask you a question? 我能问你一个问题吗？
 问你的经理关于你听到的公司扩张和新经理的传言。 请听音频并录制 正确的回答。
 # 3 处理机密信息
 ## 语法 反身代词
-## 表达 讨论机密信息
-## 最终任务 共享机密信息
+**回指该主题**
+ 	 	 	 
+用反身代词回指句子或从句的主语。反身代词构成形式为：单数代词后加 **-self**，复数代词后加 **-selves**。
+ 	 	 	 
+主语和宾语相同时，应使用反身代词。
 
+I promised **myself** I'd quit smoking. 我向自己发誓说，我会戒烟。
+
+He bought **himself** a new suit. 他给自己买了一套西服。
+
+You'll have to go **yourselves**. I can't come with you. 你们得自己去一趟。我不能跟你去。
+
+你可以用反身代词作为介词宾语。	 
+
+I didn't buy it for you. I bought it **for myself**. 我不是买给你的，我是给自己买的。
+ 	 	 	 
+也可以用反身代词来加强语气。
+ 	 	 	 
+Their friends were sick, so they had to go to the party **by themselves**. 他们的朋友病了，所以他们得独自去参加聚会。
+
+I didn't break it – honest. It stopped working **by itself**. 我没有弄坏它 - 老实说，它是自己不动的。
+
+这是每个代词的反身形式：
+ 	 
+**单数**
+
+I - myself  
+you - yourself  
+she - herself  
+he - himself  
+it - itself
+ 	 
+**复数**
+
+we - ourselves  
+you - yourselves  
+they - themselves
+### 录音
+She plans to make the announcement herself. 她打算自己来进行公布。
+
+I started the rumor myself. 我自己先开始的这个传闻。
+
+I want to hear it from my manager himself. 我想从我的经理本人那里听到它。
+
+I did it by myself. 我自己做的。
+
+We have to keep the news to ourselves. 我们必须要将这个消息保密。
+
+You need to keep the information to yourself. 你需要将这个信息保密。
+## 表达 讨论机密信息
+如果你想告诉某人信息是保密的，用像这样的表达方式：
+
+I'm not supposed to tell anyone. 我本不该告诉任何人。
+
+Nobody knows about it except the boss. 除了老板没有人知道这件事。
+
+This is confidential information. 这是机密信息。
+
+如果你和某人分享了机密信息，但是希望他们保守这个秘密，可以用像这样的表达方式：
+
+Don't tell anybody about this. 别告诉任何人这件事。
+
+Keep this to yourself, would you? 别泄露信息，好吗？
+
+You can't tell anyone, OK?	你不能告诉任何人，好吗？
+
+如果有人拒绝告诉你一件事，你可以放弃或恳求更多的信息。 
+
+A: I'm not supposed to tell anyone.	我不应该告诉任何人。  
+B: OK. Then don't tell me.	好吧。那么不要告诉我。
+ 	 	 
+A: The information's confidential. 	这个信息是保密的。  
+B: But you can tell me, right? Come on.	但你可以告诉我，对吗？来吧。
+ 	 	 
+你甚至可能想转移关于敏感信息的问题。	 
+
+Never mind. It's nothing to worry about. 不要紧。没什么可担心的。
+### 录音
+Never mind. It's nothing to worry about. 不要紧。没什么可担心的。
+
+Keep this to yourself, would you? 别泄露信息，好吗？
+
+I'm not supposed to tell anyone. 我不应该告诉任何人。
+
+This is confidential information. 这是机密信息。
+
+Nobody knows about it except the boss. 除了老板没有人知道这件事。
+
+Don't tell anybody about this. 别告诉任何人这件事。
+## 最终任务 共享机密信息
+一位同事向你提供一些研究结果。她对它的目的有些问题。 请听音频并录制 正确的回答。
 # 4 写一封建议性的邮件
 ## 词汇 办公室和公司问题
+**办公室问题**
+
+以下是一些描述您在办公室可能遇到的问题的方法。
+
+The bathrooms are **out of order**.	卫生间无法使用。
+
+The **company intranet isn't working**.	公司的局域网不好用。
+
+The **phone lines are down**. 电话线停掉了。
+
+The projector in the conference room is **out of action**.	在会议室的投影仪出了故障。
+ 	 	 
+**公司问题**
+ 	 	 
+你的公司可能会遇到更加严重的问题，例如：
+
+Our **databases were hacked**.	我们的数据库被黑客攻击了。
+
+The company lost millions due to a **major product defect**.
+因为重大产品缺陷该公司损失了数百万。
+
+**Customer information** was **stolen**. 客户信息被盗取。
+### 阅读
+To all staff:
+
+I'm writing to inform you of a serious, emergency situation at Fun Inc. We've discovered that our databases have been hacked, and a large amount of customer data has been stolen. We're trying to find out how the hackers got into our system.
+
+This is a very serious situation for us and could affect more than 50% of our customers. We're looking into the situation, so please bear with us while we investigate.
+
+This information is confidential, so you are reminded that passing on this information to non-staff members is strictly prohibited.
+
+Best regards,
+
+Sandra
+### 选词填空
+Our databases were **hacked** .
+
+The bathrooms are out of **order** .
+
+Customer **information** was stolen.
+
+The **phone lines** are down.
+
+The company lost millions due to a major product **defect** .
+
+The company intranet isn't **working** .
+
+The projector is **out of** action.
+### 录音
+The intranet will be down tomorrow morning. 明天早上内部网将会断网。
+
+The new product has a major defect. 新产品有一个重大缺陷。
+
+No customer information was stolen. 没有客户信息被盗取。
+
+Our database was hacked twice last year. 去年我们的数据库遭到黑客攻击两次。
+
+The printer is out of action. 打印机出了故障。
 ## 写作 给出重要信息
+**一封重要邮件或者信件如何开头**
+ 	 	 	 	 
+一封包含重要信息的正式邮件或者信件可以这样开头：
+ 	 	 
+I'm writing to inform you (that) ... 我写信是为了向您通知 …
+ 	 	 
+然后你可以解释要点或问题。
+ 	 	 
+**We've discovered that** a large amount of customer data has been stolen. 我们发现大量客户信息已经被盗。
+ 	 	 
+**It's come to our attention that** one of our products has a major defect. 我们注意到我们的一个产品有一个重大缺陷。
+ 	 	 
+**We've just found out that** the bathrooms are out of order. 我们刚刚发现洗手间无法使用。
+
+这是更多一些报告信息的单词和短语：
+ 	 	 
+Office management **has informed us that** the phone lines are temporarily out of action. 办公室管理部门已经通知我们电话线暂时不好用。
+ 	 	 
+**I'd also like to mention that** some customer information has been stolen. 我也想提一下一些客户信息已经被盗。
+ 	 	 
+**Just letting you know** the bathrooms are out of order until further notice. 只是想让您知道卫生间无法使用请等待通知。
+ 	 	 
+IT **told me that** the intranet server is down today. 信息技术部门告诉我今天局域网的服务器会停止服务。
+ 	 	 
+**I heard Jim say that** the projector is out of action. 我听到吉姆说投影仪出了故障。
+### 选词填空
+把语音留言变成一个正式的邮件。 请选择正确的词。
+Dear colleagues,
+
+I'm **writing** to inform you that we have a few issues in the office this morning. It's **come** to our attention that the bathrooms on this floor are **out of** order until further notice. Additionally, IT **has told** us that the product **intranet** is going to be down for the rest of the day.
 ## 表达 解释一个问题
+在一封关于公司问题的邮件中，增加一段来解释问题有多严重，谁受到了影响，现在正在做什么来修复它是一个好主意。
+ 	 	 
+**描述问题的规模**
+
+It's looking like **a serious issue**.	它看上去像一个严重的问题。
+
+We have **a severe problem**. 我们有一个严重的问题。
+
+It's **a small problem**, and there's **no need for concern**.	它是一个小问题，而且不必要担心。
+ 	 	 
+**说谁受到影响**
+ 	 	 
+**The issue will impact** all of our staff on the second floor.	该问题将影响二楼的所有员工。
+
+It **shouldn't affect anyone** on our team.	它不应该会影响我们团队的任何人。
+
+**说做了什么**
+
+We're **working on a fix** for the problem.	我们正在想办法解决这个问题。
+
+We're **investigating the issue**.	我们正在调查这个问题。
+
+We're **looking into the problem with some urgency**.	我们正在紧急调查这个问题。
+
+An engineer **has been called to fix the issue**.	一个工程师已经被叫去解决这个问题。
+### 阅读
+Dear colleagues,
+
+I'm writing to inform you of an issue in the office this morning. It's come to our attention that our phone lines are not working.
+
+It's a small issue, and there's no need for concern. It shouldn't affect our team. IT is investigating the problem and repairing the broken lines.
 ## 写作 结束一封邮件
+**下几步和感谢**
+ 
+在通知人们一个问题的邮件或者信件的结尾部分，告诉他们接下来要发生什么并感谢他们的理解是一个好主意。
+ 	 	 
+We'll give you an update when we have more information. 当我们有更多信息的时候我们会给您更新的信息。
+ 	 	 
+We expect the issue to be resolved within the next few hours. 我们预计在接下来的几个小时内问题会得到解决。
+ 	 	 
+Thanks for your understanding regarding this matter. 谢谢您对这件事的理解。
+ 	 	 
+Please be patient while we find a solution. 请您在我们解决问题过程中耐心等待。
+ 	 	 
+Please bear with us as we resolve the issue. 在我们解决问题时请您多多担待。
+### 阅读
+Dear colleagues,
+
+I'm writing to inform you of an issue in the office this morning. It's come to our attention that our phone lines are not working.
+
+It's a small issue, and there's no need for concern. It shouldn't affect our team. IT is investigating the problem and repairing the broken lines.
+
+We'll update you with more information before lunchtime. Thanks for your understanding.
+
+Best,
+
+Helen
 ## 最终任务 写一封建议性的邮件
+你的经理给你留了一个电话留言，让你通知团队一件事。写开头段来通知团队问题是什么。写第二段说明问题的严重性以及已经做了些什么。 输入到输入框。 写60-80的词。 在可能的情况下，使用自己的语言。
