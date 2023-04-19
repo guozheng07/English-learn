@@ -149,19 +149,208 @@ I graduated from Beijing University of Posts and Telecommunications. I'm good at
 你的老板文斯将你介绍给了一名新员工 —— 谢丽尔，她刚刚获得了学士学位。与谢丽尔谈论她的教育背景，并回答她提出的关于你的教育背景的问题。 请听音频并录制 正确的回答。 当您看到空白处，请提供您真实的个人信息。
 # 2 明确你的教育目标
 ## 词汇 职业发展
-## 语法 动名词表达
-## 发音 you、and 和 to 的弱读
-## 表达 谈论目标
-## 最终任务 明确你的教育目标
+college counselor 学校顾问  
+internship 实习  
+continuing education 继续教育  
+professional development 职业发展  
+on-the-job training 在职培训
 
+**Professional development 与 continuing education**
+
+**Professional development**是指你在高中毕业后加强教育所建立的技能和知识。使用这些表达来谈论职业发展：
+
+The head teacher **coaches** the other teachers as part of their **professional development**. 校长为其他教师提供辅导，作为他们职业发展的一部分。	 
+
+HR scheduled some **on-the-job training** so we can learn how to use the new software. 人力资源部已经安排了一些在职培训，所以我们可以学习新软件的使用方法。
+ 	 	 	 
+**Continuing education** 是指成人在完成高中后加强教育所需的课程。使用这些表达来谈论继续教育：
+
+Ernie has a design degree, but now he's **taking a night course** in economics at the local college. 欧尼拥有设计学学位，他现在还在本地的大学里上夜校学习经济学。
+
+Maybe I'll **get a certificate online**. 也许我可以通过网络获得一个文凭。
+## 语法 动名词表达
+以介词结尾的表达通常后接动名词 – 词尾为 -ing 的动词。以下是四个后接动名词的表达。你可以用来谈论专业或个人发展。
+
+**think about** + 动名词
+
+I've **thought about doing** some professional development.	我想过要进行一些职业发展。
+ 	 	 
+**interested in** + 动名词
+
+Jan's **interested in coaching** other employees. 简对辅导其他员工很感兴趣。
+ 	 	 
+**plan on** + 动名词
+
+He **plans on getting** his MBA. 他计划攻读工商管理硕士学位。
+ 	 	 
+**look forward to** + 动名词
+
+I **look forward to taking** a night course. 我想去上夜校。
+## 发音 you、and 和 to 的弱读
+在英语口语中，并非每个音都要发出。代词、连词和介词等较不重要的单词常常发短音，所以在倾听时，识别这些弱读的单词就很重要。
+ 
+最常见的三个弱读单词为 **you**、**and** 和 **to**请听以下句子。注意：这三个单词发短音时都采用了相同的音调。
+
+**'You'**
+
+Are **you** taking a night course?
+
+Frank's gonna coach **you**.
+
+**'And'**
+
+I'm so busy with work **and** school.
+
+**And** then I got my bachelor's.
+ 	 
+**'To'**
+
+Liz is planning **to** get a certificate online.
+
+I'd like **to** do some professional development.
+## 表达 谈论目标
+I didn't really have any goals. 我以前真的没什么目标。
+
+I began to think of goals. 我开始考虑自己的目标了。
+
+Well, first I want to … 嗯，首先我要……
+
+My second goal is to … 我的第二个目标是……
+
+And then, I'm interested in … 然后，我有意……
+
+What are your goals? 你有什么目标？
+
+My big objective right now is to … 我现在的一个大目标是……
+### 选词填空
+What are your plans **for** the future?
+
+What are you thinking about doing **in** the future?
+
+My primary **goal** is to take some management courses.
+
+I'm **interested** in going back to school.
+
+I'm **planning** on getting a certificate online.
+### 录音
+What are your career goals? 你的职业目标是什么？
+
+My primary goal is to get a promotion. 我的首要目标是升职。
+
+What are your plans? 你们有什么计划？
+
+I'm interested in taking some night courses. 我想上夜校。
+
+What are you thinking about doing? 你在考虑做什么？
+
+I'm planning on getting a certificate online. 我打算通过网络获得一个证书。
+
+That sounds like a great plan. 这听起来是个很棒的计划，
+## 最终任务 明确你的教育目标
+您在跟一位朋友谈论职业发展与规划。 请听音频并录制 正确的回答。 当您看到空白处，请提供您真实的个人信息。
 # 3 为员工选择培训课程
 ## 词汇 课程的名次
-## 语法 含有疑问词的陈述句
-## 语法 带有 -ever 的疑问词
-## 表达 讨论优点和缺点
-## 最终任务 为员工选择培训课程
+cost 费用  
+flexibility 灵活性  
+location 地点  
+schedule 课程安排  
+online study 在线学习  
+live classes 现场授课  
+live classes 现场授课  
+recommendation 推荐  
+instructor 教员  
+a short course 短期课程
+### 选词填空
+1. The online class is too quiet. I like talking with other students in the **live** class.
 
+2. Your school has a **reputation** for excellence. Everyone says the instructors are the best.
+
+3. The three-month course is too much for my busy **schedule** . Is there a short course that takes less time?
+
+4. You don't need to give me your address. I found your **location** on my mobile phone.
+
+5. Is there any **flexibility** in the schedule? We're so busy on weekends.
+## 语法 含有疑问词的陈述句
+**含有疑问词 + be 的陈述句**
+
+你可以在陈述句中加入疑问词。注意下例中疑问词 **what** 和动词 **be** 的位置。
+
+I've been thinking about **what** the best course for me **is**. 我一直在想什么是最适合我的课程。
+
+在下列含有 **know** 和 **wonder** 的例句中寻找疑问词。注意句子结构和降调。
+
+Bette **knows who** the instructor **is**. 贝蒂知道谁是老师。
+
+I **wonder what** the schedule **is**. 我想知道时间表是怎样的。
+
+I **don't know where** the school **is**. 我不知道学校在哪里。
+
+I **wondered how** good the instructors **were**. 我想知道这些老师有多好。
+## 语法 带有 -ever 的疑问词
+在疑问词后面加上 **-ever** 来谈论时间、地点或事物的无限可能性。
+
+You can study **whenever** you want. 你什么时候想学时都可以学。
+
+I take my notebook **wherever** I go. 无论我去哪里，我都带着我的笔记本。
+
+I'm looking forward to **whatever** the instructor teaches. 无论老师教什么，我都满怀期待。
+
+**Whoever** took this picture is really creative. 不管是谁 拍的这张照片，他真的很有创意。
+
+It's a flexible course. You can study **however** you want.	它是一门灵活的课程，不管你想采用什么方式学习都可以。
+### 选词填空
+MALE: The location of the Wellington school isn't great. It's at 414 Brook Place.
+
+FEMALE: That's pretty far. Well, the instructor could come to our office. He said that he can teach **wherever** we choose.
+
+MALE: OK. Now, does he **ever** teach on the weekends?
+
+FEMALE: **What** ? Oh, no – I don't think so. Not on weekends.
+
+MALE: Too bad. This Wellington course is short, but … hmm. Maybe we should try Bronson's **online course** instead. It is longer, and there's no instructor, but …
+
+FEMALE: Yeah, but … then we can study at the office, at a cafe before work …
+
+MALE: Right. We can study **whenever** we want and wherever we want.
+## 表达 讨论优点和缺点
+The advantages are obvious. 优点很明显。
+
+These classes have their disadvantages. 这类班级也有缺点。
+
+Another disadvantage is that … 另一个缺点是……
+
+One good thing is that … 好的一点是……
+
+And another advantage is that … 另一个优点是……
+### 选词填空
+The obvious **advantage** is that the instructor will teach wherever we want.
+
+The primary **disadvantage** is cost – $ 1,000 a month is way too much!
+
+One **good** thing is that we know what their reputation is.
+
+It's pretty far away. That's a **drawback** .
+
+A **benefit** is that the schedule is flexible.
+
+A **bad** thing is that they don't have online classes.
+### 录音
+
+## 最终任务 为员工选择培训课程
+An obvious disadvantage is the cost. 成本是一个明显的劣势。
+
+A good thing is we can start whenever we choose. 好处是无论我们随时都可以开始上课。
+
+The advantage is that you can study wherever you want. 优点在于你可以在任何地点想学习的时候学习。
+
+The drawback is we don't know their reputation. 不利之处是我们不了解他们的声誉好坏。
+
+There's no live instructor. That's one bad thing. 但是没有面对面的老师，这是一大坏处。
+
+Another benefit is that the schedule is flexible. 其他好处是时间安排很灵活；
 # 4 撰写有关你所在国家的教育的文章
+您在研究对员工的培训。您的上司彼得推荐联合书院的一门在线课程，一名曾在耶鲁大学任教的担任导师。告诉您的同事您对这门课程的了解。 请听音频并录制 正确的回答。
+
 ## 词汇 教育词汇
 ## 表法 谈论典型状况
 ## 表法 就某个问题表明立场
