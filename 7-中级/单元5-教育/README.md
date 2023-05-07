@@ -349,10 +349,75 @@ There's no live instructor. That's one bad thing. 但是没有面对面的老师
 
 Another benefit is that the schedule is flexible. 其他好处是时间安排很灵活；
 # 4 撰写有关你所在国家的教育的文章
-您在研究对员工的培训。您的上司彼得推荐联合书院的一门在线课程，一名曾在耶鲁大学任教的担任导师。告诉您的同事您对这门课程的了解。 请听音频并录制 正确的回答。
-
 ## 词汇 教育词汇
+going back to college 重返大学  
+tests 考试  
+pass 及格  
+failed 不及格  
+gap year 空档年  
+figure out who I was 弄清楚我是谁  
+figure out what I wanted to do 弄清楚我想要做什么
+### 阅读
+**It's Test Time**
+
+It's August, and people are going back to college. They're also taking a lot of English language tests.
+
+"The trend in language education is to give students tests many times a year," said Trevor Burke, City College president. "In the 1990s, we only gave tests once a year."
+
+The tests help the college figure out which students need special language classes, he said.
+
+"If the student passes the test, he can continue in his regular classes." But what happens if the student doesn't pass? What if the student fails?
+
+"If the student fails, there are special classes that can help," Burke said. "Or, sometimes, he can take the test again."
+### 录音
+The newspaper article is about language tests. 报纸这篇文章讨论的是语言考试。
+
+More and more people are going back to college. 越来越多的人正在重返大学。
+
+If students don't pass the test, they fail the grade. 没有通过考试的学生则要留级。
+
+Trends show that students are taking more tests. 有趋势显示学生参加的考试正越来越多。
 ## 表法 谈论典型状况
+你可以用以下表达来谈论典型情况。表达中提及名词时用介词 **for**；表达中提及动词时则用 **to**。
+
+It's **common for** older people to go back to school. 年长者重回学校学习是很常见的。
+
+It's pretty **normal to** start college at 18.	18岁开始上大学是相当正常的现象。
+
+你可以用双重否定来加强语气。
+
+It's **not uncommon for** classes to start at 2 p.m. 在下午2点开始上课并不少见。
+
+It's **not unusual to** study all night before a test. 考试前整夜学习没什么稀奇的。
+### 录音
+It's not unusual for wealthy children to go to college. 富家子弟去读大学的并不少见。
+
+It's not uncommon for classes to start at 9 a.m. 在上午9点开始上课并不少见。
+
+It's the usual story - work all day, study all night. 这是个很平常的经历 – 白天工作，晚上学习。
+
+It's common to go back to school when you're older. 年纪大了再重返学校读书是个普遍现象。
+
+It's pretty normal to study all night before a test. 考试前整夜学习是相当正常的现象。
+
+It's not surprising that college costs are rising. 大学学费正不断上涨，这一点都不奇怪。
 ## 表法 就某个问题表明立场
+Right. 好的。  
+Exactly. 一点不错。  
+I'm totally against that. 我完全反对。  
+I'm all for gap years. 我完全赞成暂时休学几年。  
+I'm in favor of them, too. 我也赞成。
 ## 阅读 美国的教育
+### 阅读 & 选词填空
+I'm **in favor** of technology in education and, in fact, **it's quite common** for US colleges to use technology. **For example**, it's not unusual for students to get degrees online. **I'm not surprised**, because you can study whenever and wherever you want. **Another trend is** that students are buying electronic books, or e-books. I totally support the use of e-readers. You can read them on a mobile device – paper books are too heavy to carry! Also, I think it's wrong that paper books cost more than e-books. It's not unusual to pay $100 for a paper book. I'm **all for technology** in education. I just wish that technology could help me pass Monday's test in math class!
 ## 最总任务 撰写有关你所在国家的教育的文章
+阅读课堂任务。然后在课堂分组讨论时写出自己的答案。记住对于提议要有自己的立场，并给出原因和示例以支持自己的立志。 输入到输入框。 请写 45–70 个单词。 在可能的情况下，使用自己的语言
+
+我们会严肃地对待您的隐私。请勿将关于自己的个人信息（种族、宗教、健康状况等）与别人分享。
+
+Class: Trends in Education
+Professor Wilson
+
+Assignment: Read the proposal below. Then write your opinion, taking a stand. Support your opinion.
+
+Proposal: Our school committee has proposed that the middle and high schools cut physical education and sports classes next year. Instead, students will have classes for test preparation. Students will have three hours of test preparation a week. These test preparation classes will be all year long.
