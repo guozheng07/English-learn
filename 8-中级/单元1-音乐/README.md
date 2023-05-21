@@ -196,13 +196,110 @@ It's a music-streaming app. 这是一个音乐在线收听的应用程序。
 It doesn't do offline listening. 它不能离线收听
 
 ## 表达 我在哪里能获得音乐？
-## 最终任务 谈论音乐行业的趋势
 
+## 最终任务 谈论音乐行业的趋势
 # 3 计划夜晚外出
 ## 词汇 音乐活动
+artist 艺人  
+performing 表演  
+show 演出  
+live jazz 现场爵士乐  
+live band 现场乐队  
+punk rock band 朋克摇滚乐队
+### 录音
+I'm not a big fan of country music. I'm into rock. 我不是很喜欢乡村音乐。 我喜爱摇滚。
+
+It's an instrumental. No voices, just guitar and drums. 这是乐器的表演。 没有人声，只有吉他和鼓。
+
+The electricity went out, so the band played acoustic. 停电了，所以乐队演奏了原声。
+
+I always wanted to be a disc jockey. DJs are cool. 我总是希望成为一名唱片骑士。 DJ 非常酷。
+
+City Music Hall is a great venue for a concert. 城市音乐厅是一个非常适合举办音乐会的场所。
+
+It's a classical orchestra; 85 musicians play in it. 这是一支古典乐队；有 85 名音乐家参与。
+### 选词填空
+The Spiral Elephants are my favorite rock **band** . They're from England.
+
+The Vinyl Horse Music Hall is the best **venue** for music in Massachusetts.
+
+She sings on most of the songs, but there's one **instrumental** . She just plays the piano.
+
+I don't like electric guitar. I much prefer **acoustic** music.
+
+I love going to concerts. In my opinion, **live** music is the best.
+
+The **orchestra** played classical music by Beethoven and Brahms.
 ## 阅读 阅读一份活动日程
+### 阅读
+**LA Weekly**
+
+Music  
+Friday, 12/20
+
+The Greg Miller **Orchestra** celebrates popular **instrumentals**, with the India Orchestra, Blanca Center, 6:30 p.m.
+
+Acoustic Festival comes to six **venues** on High Street, 7 p.m.
+
+Hip-hop artists F. Light perform their latest music to **fans** at Music Hall of London, 8 p.m. **DJ Varna** brings his group Two Horse Garage to Mellon Hall, 9 p.m.
 ## 表达 劝说
+You've been on the couch all day. 你一整天都待在沙发上。
+
+So let's go out and celebrate. 让我们出去玩吧。
+
+You've been inside all day. 你一整天都待在屋里。
+
+You need to get out. 你需要走出去。
+
+It'll be good for you. 这对你有好处。
+
+I'll pay, and I'll drive. 我来付钱，我开车。
+
+Come on. 来吧。
+
+You'll love it. 你会喜欢的。
+
+劝说某人做某事有几种方法。 你可以用这类措辞直接劝说或说服：
+
+Come on! 来吧！
+
+Please!	拜托！
+
+You'll have a great time. 你肯定会玩得开心。
+
+It'll be good for you to get out. 走出去对你有好处。
+
+你可以提供细节，让你的提议更有吸引力。
+
+Tonight he's playing acoustic guitar at a small club. 今晚他将在一家小俱乐部弹原声吉他。
+
+你可以提供一些东西，让你的提议更有吸引力。
+
+I'll buy the tickets. 我来买票。
+
+Look, I'll pay, and I'll drive.	喂，我来付钱，还负责开车。
+ 	 	 
+你可以批评这个人。 但是，除非做得轻松愉快，否则这种方式可能适得其反。
+
+You're such a couch potato.	你真是个懒虫。
+
+Don't be lazy. You need to get out of the house. 不要懒惰。你需要走出门去。
+ 	 	 
+当某人尝试劝说你时，使用此类措辞来回应：
+
+Fine. You've convinced me.	好的。你说服了我。
+
+No, but thanks for inviting me.	不了，不过谢谢你邀请我。
+### 录音
+Come on! You'll love it. 来吧！你会喜欢的。
+
+OK, you've convinced me. Let's get out of here. 好啦，我信你。我们走吧。
+
+Look. I'll pay, and I'll drive. 喂，我来付钱，还负责开车。
+
+No, but thanks for inviting me. 不了，但谢谢你邀请我。
 ## 最终任务 计划夜晚外出 
+现在是星期五晚上，你和好友谢拉在一起。 DJ 瓦尔纳将在当地演出，一同出场的还有一支名叫 Two Horse Garage 的原声乐队。 谢拉是个铁杆歌迷，但她有一点懒。 劝说她和你一起去那家俱乐部。 请听音频并录制 正确的回答。
 # 4 撰写有关一首歌的文章
 ## 词汇 有关音乐的形容词
 ## 表达 说说一首歌
