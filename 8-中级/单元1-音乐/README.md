@@ -379,7 +379,42 @@ There isn't much of a beat.	节拍比较单一。
 The melody is kind of sentimental. 它的旋律有点伤感。
 ### 词汇分组
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/bd55c917-7628-4fc7-b311-bcd46811954d)
+### 录音
+I really love that song. It has a great melody. 我很喜欢那首歌，它的旋律非常优美。
 
+That singer's voice is kind of annoying. 那位歌手的嗓音有点令人讨厌。
 
+The tune is pretty catchy. 这支曲子很好记。
+
+That song always makes me feel sad. 那首歌总让我感觉悲伤。
+
+It's pretty boring. There's not much of a beat. 很单调，没有什么节奏。
 ## 阅读 阅读歌评
+当阅读某人对一首歌的评论时，你可能遇到以下情况：
+ 
+作者会注明这首歌的名称以及歌唱者或歌唱团体。
+ 
+I just heard the new song 'Sent Sentimentally' by The Rough Stones.
+
+作者可能描述旋律、节奏、歌词或歌唱者的声音。
+ 
+The song has a rough, wild sound with a tune that is totally catchy. The singer, Mike Groan, hits some really low notes. They make the song thrilling and edgy. Be careful: Some of the lyrics are kind of offensive.
+
+作者可能谈论这首歌给自己带来的感受。
+ 
+There's not much of a change in mood. It's all rough and edgy. But that's why I like it. It has a wild and exciting feeling.
+
+作者通常会说他们是喜欢还是会推荐这首歌。
+ 
+What a great new song by The Rough Stones! Buy it now!
+### 阅读
+阅读介绍作者刚听到的一首歌的社交帖子。 请选择正确的答案。
+
+I just heard **a song by** Chanti Smith **called** 'Walking on Clouds.' What a beautiful song! First, Chanti sings quiet, low notes. Then **the melody changes**, and she sings the high notes a little louder. She **has a great range** and lightly hits the high notes. You can't really dance to 'Walking on Clouds' because there isn't **much of a beat**. But the song has a relaxing mood with **romantic lyrics**. It made me think about how my boyfriend Logan and I first met. Anyway, you should listen to it. I really enjoyed it.
 ## 最终任务 撰写有关你听过的一首歌的文章
+请听 Josh Woodward 演唱的歌曲 'Home Improvement'。写一封邮件或在社交平台发布内容，介绍这首歌曲。你对歌曲的旋律、歌词和歌手的嗓音有何看法？你推荐这首歌吗？ 输入到输入框。 写一段字数在 100 到 120 左右的文字。 在可能的情况下，使用自己的语言。
+
+我们会严肃地对待您的隐私。请勿将关于自己的个人信息（种族、宗教、健康状况等）与别人分享。
+### 范文
+
+
