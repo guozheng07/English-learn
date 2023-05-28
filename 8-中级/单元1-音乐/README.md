@@ -321,7 +321,64 @@ That song is **offensive**. The lyrics are very **rude**. 那首歌令人不快�
 I like music that's different. You know, a little **edgy**.	我喜欢风格不同的音乐。你知道的，前卫一点的。
 ### 单词配对
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/b0852141-4a8b-47b4-a20e-7ccf10a6e42c)
+### 选词填空
+I like songs about people falling in love. They're so **romantic**  .
 
+The song's **sentimental** and sad. It's about a sweet, old man who goes back to the place where he was born.
+
+Wow. This music's **annoying** . The electric guitar's driving me crazy.
+
+His voice is pretty **rough** . He sounds kind of wild.
+
+I love Clang's music. It's all so **edgy** . They have a totally original（原创的） sound.
+
+How rude! The lyrics are so **offensive** .
 ## 表达 说说一首歌
+I think you have an amazing range. 我认为你的音域很出色。
+
+I liked the change in pace and mood. 我喜欢节奏和情绪变化。
+
+There wasn't much of a melody. 我是说，旋律有点单调。
+
+And it had kind of an annoying beat. 而且节拍比较惹人厌烦。
+
+你可用几种方法描述一首歌曲。你可以谈论歌手的 **voice**（嗓音）：
+
+She can hit some really high notes.	她可以唱出一些真正的高音。
+
+The singer doesn't have much of a range.	这位歌唱者的音域不广。
+
+你可以谈论歌曲的 **melody**（旋律）或 **tune**（曲调）：
+
+The song has kind of a sentimental melody. 这首歌的旋律很感伤。
+
+The tune is pretty catchy – I can't get it out of my head. 这个调子非常引人入胜 – 它在我脑海里挥之不去。
+
+你可以谈论歌曲的 **rhythm**（节奏）：
+
+You can really dance to it.	这首歌真让人忍不住手舞足蹈。
+
+There isn't much of a beat.	节拍比较单一。
+ 	 
+你可以谈论这首歌的 **lyrics** （歌词）：
+
+I love this song! The lyrics are so romantic! 我太爱这首歌了！它的歌词非常浪漫！
+
+Ugh. Those lyrics are really offensive.	喔唷，那些歌词令人非常不舒服。
+
+你也可以谈论歌曲的 **feeling**（情绪）或 **mood**（氛围）：
+
+It makes me feel relaxed. 它让我觉得很放松。
+
+I like how the mood changes. First, it's edgy, then it's romantic.	我喜欢其中的情绪变化。 最开始有一点急躁，后来变得浪漫。
+ 	 
+使用 **not much of a** 表示某事不怎么好，使用 **kind of a** 表示 'slightly'。记住，**a kind of** 意为 'a type of'。
+ 
+There isn't much of a beat.	节拍比较单一。
+
+The melody is kind of sentimental. 它的旋律有点伤感。
+### 词汇分组
+
+
 ## 阅读 阅读歌评
 ## 最终任务 撰写有关你听过的一首歌的文章
