@@ -302,6 +302,25 @@ No, but thanks for inviting me. 不了，但谢谢你邀请我。
 现在是星期五晚上，你和好友谢拉在一起。 DJ 瓦尔纳将在当地演出，一同出场的还有一支名叫 Two Horse Garage 的原声乐队。 谢拉是个铁杆歌迷，但她有一点懒。 劝说她和你一起去那家俱乐部。 请听音频并录制 正确的回答。
 # 4 撰写有关一首歌的文章
 ## 词汇 有关音乐的形容词
+sentimental 感伤  
+romantic 浪漫  
+annoying 恼人
+
+你可能对音乐有很强的看法。以下是一些用于描述音乐的常用形容词。
+
+My mother loves listening to **sad**, **sentimental** music. 我母亲喜欢听伤感的音乐。
+
+It's our wedding anniversary. Let's listen to something **romantic**. 今天是我们的结婚纪念日。我们听点浪漫一点的歌曲。
+
+Can you turn down the radio? That song is so **annoying**. 你能把收音机音量调小吗？那首歌让人讨厌。
+
+Punk music isn't for everybody. It can be very **rough**. 朋克音乐不是每个人都喜欢，可能会非常难听。
+
+That song is **offensive**. The lyrics are very **rude**. 那首歌令人不快，它的歌词非常粗鄙。
+
+I like music that's different. You know, a little **edgy**.	我喜欢风格不同的音乐。你知道的，前卫一点的。
+### 单词配对
+
 ## 表达 说说一首歌
 ## 阅读 阅读歌评
 ## 最终任务 撰写有关你听过的一首歌的文章
