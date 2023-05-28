@@ -320,6 +320,7 @@ That song is **offensive**. The lyrics are very **rude**. 那首歌令人不快�
 
 I like music that's different. You know, a little **edgy**.	我喜欢风格不同的音乐。你知道的，前卫一点的。
 ### 单词配对
+![image](https://github.com/guozheng07/English-learn/assets/42236890/b0852141-4a8b-47b4-a20e-7ccf10a6e42c)
 
 ## 表达 说说一首歌
 ## 阅读 阅读歌评
