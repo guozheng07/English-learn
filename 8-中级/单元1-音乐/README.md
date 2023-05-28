@@ -416,5 +416,5 @@ I just heard **a song by** Chanti Smith **called** 'Walking on Clouds.' What a b
 
 我们会严肃地对待您的隐私。请勿将关于自己的个人信息（种族、宗教、健康状况等）与别人分享。
 ### 范文
-
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/3a28d959-08f1-4bd7-9f94-4ef1434028f9)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/af7095f7-d1a3-48c4-a83a-4365e396f623)
