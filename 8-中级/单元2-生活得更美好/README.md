@@ -116,9 +116,8 @@ BRETT: That **works for me** .
 SADIE: Perfect! I'm excited.
 ### 断句匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/42b4d10f-725f-4b93-9d6a-9b4061c54d21)
-
-
 ## 最终任务 与私人训练师交谈
+你正和私人训练师谈论 健身。 谈论你的健身目标，并安排时间与他见面。 当您看到空白处，请提供您真实的个人信息。
 # 2 提供有关生活方式的建议
 ## 词汇 用于健康习惯得搭配
 ## 语法 表示义务的情态动词
