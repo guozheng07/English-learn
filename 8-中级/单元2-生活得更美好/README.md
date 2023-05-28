@@ -47,7 +47,7 @@ I'**m** a little **out of shape**.	我身体有点不好。
 ### 词汇分组
 根据各个短语通常是与 get 或是 do 搭配使用，对短语分组。 移动单词到正确的动词搭配。
 
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/d90a7ffe-dbca-4cc5-ab56-c0abcb348654)
 
 ## 语法 表达可能性的情态动词
 ## 阅读 法国悖论
