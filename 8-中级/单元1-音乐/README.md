@@ -378,6 +378,7 @@ There isn't much of a beat.	节拍比较单一。
 
 The melody is kind of sentimental. 它的旋律有点伤感。
 ### 词汇分组
+![image](https://github.com/guozheng07/English-learn/assets/42236890/bd55c917-7628-4fc7-b311-bcd46811954d)
 
 
 ## 阅读 阅读歌评
