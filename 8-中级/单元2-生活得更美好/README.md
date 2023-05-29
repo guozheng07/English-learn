@@ -120,6 +120,43 @@ SADIE: Perfect! I'm excited.
 你正和私人训练师谈论 健身。 谈论你的健身目标，并安排时间与他见面。 当您看到空白处，请提供您真实的个人信息。
 # 2 提供有关生活方式的建议
 ## 词汇 用于健康习惯得搭配
+stay motivated 保持活力  
+lifestyle change 生活方式改变  
+exercise every day 每天锻炼  
+eat more healthily 吃得更健康  
+drink more glasses of water 喝更多的水  
+crave a nice, big, juicy cheeseburger 对美味多汁的芝士大汉堡非常嘴馋  
+Keep up the good work. 再接再厉。  
+taking a break 休息一下
+
+使用类似这些搭配来谈论一种健康的生活方式。
+
+Don't take everything so seriously.	凡事切勿过于认真。
+
+Everything in moderation. 凡事切勿过度。
+
+Maintain a healthy work-life balance. 工作和生活要保持健康的平衡。
+
+Make a lifestyle change. 改变生活方式。
+
+Stay motivated.	保持积极性。
+
+Spend quality time with family.	与家人共度美好的时光。
+
+使用类似这些搭配来谈论健康的身体习惯。
+
+Exercise every day.	每天运动。
+
+Eat more healthily.	吃得更健康。
+
+Don't eat everything you crave.	不要想吃什么就吃什么。
+
+Avoid fatty and salty foods. 不吃高脂肪和高盐分的食物。
+
+Get enough sleep. 充足睡眠。
+
+Drink lots of water. 多喝水。
+
 ## 语法 表示义务的情态动词
 ## 表达 谈论改变
 ## 表达 提供建议
