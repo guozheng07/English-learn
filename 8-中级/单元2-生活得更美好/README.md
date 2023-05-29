@@ -206,6 +206,8 @@ I'm making some changes for the better. 我要越变越好。
 I've waited long enough. The time is now. 我已等待太久。 时不我待。
 
 It's something I've got to do for myself. 我必须为自己做一些事。
+### 词语匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/12f1b77e-77b2-4cec-b006-2d0af1131a34)
 
 ## 表达 提供建议
 ## 最终任务 提供有关生活方式的建议
