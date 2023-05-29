@@ -208,9 +208,56 @@ I've waited long enough. The time is now. 我已等待太久。 时不我待。
 It's something I've got to do for myself. 我必须为自己做一些事。
 ### 词语匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/12f1b77e-77b2-4cec-b006-2d0af1131a34)
+### 选词填空
+Make some **changes** in your lifestyle.
 
+You mustn't **wait** . The time is now.
+
+Make a change for the **better** .
+
+Why wait? It's **time** for a change.
+
+A change of **lifestyle** is what you need.
+
+Do it for **yourself** – nobody else.
 ## 表达 提供建议
+您可以使用多种方式提供建议。 它可以是弱，中等或强。
+
+**微弱的建议**
+
+What I do is go jogging in the morning.	我的做法是在早晨慢跑。
+
+It's a good idea to make changes slowly. 慢慢地改变是个好主意。
+
+**温和建议**
+ 
+Why don't you exercise more? 你为什么不多运动一下呢？
+
+You should eat healthier food.	你应当吃得更健康。
+
+You might want to go to the gym after work.	你不妨下班后去健身房。
+
+**强烈建议**
+
+You had better make some changes in your life. 你最好改变一下自己的生活。
+
+He has to stop smoking.	他必须戒烟。
+
+You must get some sleep! 你必须睡一会觉！
+### 录音
+You'd better make some changes soon. 你最好尽快做出一些改变。
+
+You should start an exercise routine. 你应当开始进行日常锻炼。
+
+Why don't you try exercising once in a while? 你为什么不尝试偶尔锻炼一下？
+
+You must find a way to reduce your stress. 你必须找到缓解压力的办法。
+
+You've got to stop eating so much bad food. 你必须戒掉这些垃圾食品。
+
+You have to think about making some changes. 你必须考虑做出一些改变。
 ## 最终任务 提供有关生活方式的建议
+你的同事 Jane 看起来焦虑不安。问她是否无恙，倾听她的问题，向她提出明智而贴心的建议。 请听音频并录制 正确的回答。
 # 3 讨论工作场所压力
 ## 词汇 健康问题
 ## 表达 谈论因果
