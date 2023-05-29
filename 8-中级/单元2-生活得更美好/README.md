@@ -157,6 +157,9 @@ Get enough sleep. 充足睡眠。
 
 Drink lots of water. 多喝水。
 
+### 词语匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/3d2ad1f7-9aa8-40b9-a52e-0b9f4583223f)
+
 ## 语法 表示义务的情态动词
 ## 表达 谈论改变
 ## 表达 提供建议
