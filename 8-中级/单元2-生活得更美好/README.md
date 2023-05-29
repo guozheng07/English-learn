@@ -160,9 +160,53 @@ Drink lots of water. 多喝水。
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/3d2ad1f7-9aa8-40b9-a52e-0b9f4583223f)
 ### 词汇分组
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/62221c71-f5e3-4398-9c16-767b4572e6ed)
-
 ## 语法 表示义务的情态动词
+**'Must' 与 'have to'**
+ 
+用情态动词 **have to** 和 **must** 表达义务。 注意，在两者后都使用动词原形。
+
+The doctor says I **have to** stop smoking. My health isn't good. 医生说我必须戒烟。 我的健康状况不佳。
+
+I **must change** my lifestyle. I need to get fit. 我必须改变生活方式。 我需要让身体变得健康。
+
+**Have to** 可用 **have got to** 代替。
+
+I'**ve got to** exercise more. I'm gaining a lot of weight.	我必须多锻炼。 我长胖了不少。
+
+**have got to** 没有否定形式，要使用 **don't have to**。
+
+**'Mustn't' 与 'don't have to'**
+ 
+否定形式 **mustn't** 和 **don't have to** 含义略有不同。 **Mustn't** 表示某个观点非常糟糕或不允许。 **Don't have to** 表示你不必做某事。
+ 
+The doctor told her she **mustn't eat** so much fatty food.	医生告诉她，她绝对不能吃这么多油腻的食物。
+
+He's so fit that he **doesn't have to watch** what he eats.	他非常健康，因此不必注意饮食。
+
+**must** 没有过去式，要使用 **had to**。
+ 
+Last year I **had to** go on a diet. I was overweight.	去年我必须节食。 我超重了。
+### 选词填空
+I saw the doctor yesterday. She said I **have** to change my lifestyle. I don't **have to** lose weight, but I have **to** do some cardiovascular exercise for my heart. I agree with the doctor. I've **got to do** this for myself. Which means I really **must** stop smoking, and I **mustn't** drink so much alcohol.
 ## 表达 谈论改变
+fourteen stone 十四英石  
+It's time for a change. 是时候做出改变了。  
+I've thought about it. 我想过了。  
+slug 鼻涕虫  
+It's time for a change of lifestyle. 是时候改变生活方式了。  
+I'm making a change. 我要改变。  
+I'm getting fit! 我要强身健体！
+### 录音
+I've thought about it. It's time for a change. 我想过了。 是时候做出改变了。
+
+It's time for a change of lifestyle. 是时候改变生活方式了。
+
+I'm making some changes for the better. 我要越变越好。
+
+I've waited long enough. The time is now. 我已等待太久。 时不我待。
+
+It's something I've got to do for myself. 我必须为自己做一些事。
+
 ## 表达 提供建议
 ## 最终任务 提供有关生活方式的建议
 # 3 讨论工作场所压力
