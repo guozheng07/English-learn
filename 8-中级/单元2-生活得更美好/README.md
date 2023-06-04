@@ -297,7 +297,7 @@ She's **depressed** all the time. / She's suffering from **depression**. 她总�
 ### 词语填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/cfea2f5f-91a4-44b0-9855-7e9a815009e1)
 ### 词语匹配
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/6cb79c6b-680e-432e-9462-10c3628e2f1c)
 
 ## 表达 谈论因果
 ## 阅读 压力及其对我们生活的影响
