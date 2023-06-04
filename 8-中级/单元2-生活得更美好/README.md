@@ -294,8 +294,10 @@ He's **exhausted**. / He's suffering from **exhaustion**. 他非常疲劳。 / �
 I have a lot of **stress** in my life. / I'm **stressed** out. 我生活中有很多压力。 / 我压力重重。
 
 She's **depressed** all the time. / She's suffering from **depression**. 她总是很抑郁。 / 她患有抑郁症。
-### 词语匹配
+### 词语填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/cfea2f5f-91a4-44b0-9855-7e9a815009e1)
+### 词语匹配
+
 
 ## 表达 谈论因果
 ## 阅读 压力及其对我们生活的影响
