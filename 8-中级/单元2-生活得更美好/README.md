@@ -462,3 +462,17 @@ Thanks!
 
 Jessica
 ### 回复邮件（标准答案）
+From: efstudent@bigcompany.com  
+To: jessica@useremail.com  
+Subject: Your questions about the company
+ 
+Hi, Jessica.
+ 
+Thanks for your email. I've provided answers to all of your questions.
+
+The answer to your first question about the environment is that it's a pretty serious work atmosphere. All employees have to wear business attire every day, and everyone has their own cubicle.
+In answer to your final question about work-life balance, most people here work 40 hours a week, more or less.  I get about three weeks' vacation each year. And yes, people here do socialize together sometimes. The area around the office is great for eating and shopping, and there are plenty of places to have lunch.
+
+See you soon!
+ 
+Jessica
