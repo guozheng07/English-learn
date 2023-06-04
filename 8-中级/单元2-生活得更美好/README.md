@@ -352,7 +352,113 @@ Poor diet and lack of exercise can lead to **diabetes**, or **your body's inabil
 你正和医生谈论一名男性家庭成员， 这位家庭成员允许你讨论他的健康情况。 请听音频并录制 正确的回答。 当您看到空白处，请提供您真实的个人信息。
 # 4 描述办公室文化
 ## 表达 提供近似信息
+or so 等等  
+more or less 或多或少  
+around 大约
+
+**提供近似信息**
+ 
+用此类表达来提供近似信息。 请注意此类表达在各个句子中的位置。
+ 
+I work 50 hours **or so** a week. 我每周工作 50 来个小时。
+
+I work 50 hours a week, **more or less**. 我每周工作 50 个小时左右。
+
+I work **around** 50 hours a week. 我每周工作大约 50 个小时。
+
+I work **approximately** 50 hours a week. 我每周大概工作 50 个小时。
+
+I work **about** 50 hours a week. 我每周大约工作 50 个小时。
+
+I work 50 hours a week, **give or take**. 我每周 50 个小时，或多或少。
+### 选词填空
+So, this is my exercise routine. I've been doing it for **about** a year, and I do it eight times **or so** a month. I jog to the gym for 20 minutes, **give or take** . At the gym, I weightlift **approximately** 100 pounds **around** 30 times. After that I swim for 30 minutes, **more or less** .
 ## 阅读 办公室文化
+My office is a pretty **casual** place. There are **approximately** 25 employees. Most people work 40 hours a week, give or take.  We are all friends, and we spend time together **outside** the office. We go out to dinner or for drinks two times or so a month. We also have two **managers**. One is young and relaxed. The other is a little bit older and is **stressed out** sometimes. I take about three weeks' **vacation** each year. Last year I went to Hawaii with another employee. We had a lot of fun.
 ## 阅读 描述办公室文化
+**办公室文化**
+
+一种描述办公室文化的方式是谈论办公室环境和你的同事。
+
+The office is very open, with separate meeting rooms. 办公室是非常开放的，有独立的会议室。  
+Everyone has their own cubicle.	每个人都有自己的小隔间。  
+There are approximately 50 employees. 大约有50名员工。
+ 	 
+另一种方法是描述企业文化和对社交活动的态度。	
+
+It's a pretty formal work atmosphere. 这是一个非常正式的工作氛围。  
+The office is a pretty casual place. 办公室是一个非常休闲的地方。  
+All employees are expected to wear business attire every day. 所有员工每天都要穿职业装。  
+People are friendly and do things together outside work. 人们很友好并且下班后也一起活动。  
+There are company-organized sports events. 有公司组织的体育活动。
+### 阅读
+**Sizzlr**
+
+What's it like to work here?
+
+The Sizzlr office is a pretty casual place. There are approximately 25 employees. Most people here work 40 hours a week. We're all friends, and we like to spend time together outside the office. We go out to dinner two times or so a month. There's also the CEO. He's young and relaxed. Then there's the CFO. He's a little bit older and is under lots of pressure, but he still finds time for fun. I get about three weeks' vacation per year. Last year I went to Hawaii with some other colleagues. It was amazing!
 ## 写作 回复问题
+### 请求邮件
+Hi, Jack.
+
+I'm really looking forward to joining the team! I have some questions about the company culture at Big Company.
+
+First of all, I'd like to know something about the office environment. Is it an open office? Do people sit in separate offices?
+
+Can you also tell me something about the local area? What restaurants and cafes are around, and what lunch options do we have?
+
+Finally, what's the work-life balance like? Are people overworked? Is it a relaxed company culture or very serious? I want to be prepared!
+
+Thanks!
+
+Nathan
+### 在邮件中回复问题
+在邮件中回复问题时，你可以在开始提及问的问题和你已经提供的答案。
+
+Thanks for sending me your questions. 谢谢你发给我你的问题。  
+I've provided answers to your questions below. 下面是我提供的给你问题的答案。
+
+然后，按顺序回答问题。参阅每个具体的问题。
+ 
+**In answer to your first question**, HR deals with the bonus system.	回答你的第一个问题，人力资源处理奖金制度。  
+**The answer to your question about** holidays is that they increase by one day per year. 回答你的关于假期的问题，假期每年增加一天。  
+**Addressing your last question**, pay is decided by your manager.	回答你的最后一个问题，工资由你的经理来定。
+
+使用像这样的短语来引入一个主题：
+
+**Here are some details about** our company culture. 这是关于我们的企业文化的一些细节。  
+**Regarding** our contract, it's divided into two sections.	至于我们的合同，它分为两部分。
+### 答复邮件
+Hi, Nathan.
+
+Thanks for your email. I've **provided answers** to all of your questions.
+
+The answer to **your first question** about the environment is that it's a pretty serious work atmosphere. All employees have to wear business attire every day, and everyone has their own cubicle.
+
+Second, here are **some details** about the local area: The area around the office is great for eating and shopping, and there are plenty of places to have lunch and socialize.
+
+In answer to your final question about **work-life balance** , most people here work 40 hours a week, more or less.  I get about three weeks' vacation each year.
+
+Thanks.
+
+Jack
 ## 最终任务 公司文化
+你将要回复一个很快就要来的新同事的邮件。 Type in the input box. Write 100-120 words. 在可能的情况下，使用自己的语言。
+
+我们会严肃地对待您的隐私。请勿将关于自己的个人信息（种族、宗教、健康状况等）与别人分享。
+
+### 请求邮件
+**Questions about the company**
+
+Hi, there.
+
+I'm so excited about coming to work at your company! But I have a few questions about the office and the culture before I start.
+
+Please give me some details about the general company culture and the office environment, so I know what to expect when I arrive.
+
+I'd like to know about work-life balance. What are the working hours? Is the atmosphere serious or fun? I'd also like to know about the team. How many people do we have? What about social events? Do employees go out and have fun together?
+
+Thanks!
+
+Jessica
+### 回复邮件（标准答案）
