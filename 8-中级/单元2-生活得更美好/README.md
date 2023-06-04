@@ -298,10 +298,58 @@ She's **depressed** all the time. / She's suffering from **depression**. 她总�
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/cfea2f5f-91a4-44b0-9855-7e9a815009e1)
 ### 词语匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/6cb79c6b-680e-432e-9462-10c3628e2f1c)
-
 ## 表达 谈论因果
+the result of ......的结果
+
+can lead to 可导致
+
+can cause 可造成
+
+one effect of 的一个后果
+
+**谈论因果**
+
+用此类表达来谈论因果：
+
+Stress **leads to** many other physical problems. 压力会导致其他多种身体疾病。
+
+Poor diet and lack of exercise can **cause** high cholesterol.	不良饮食和缺乏锻炼可能导致高胆固醇。
+
+Very often, overwork and fatigue **result in** anxiety.	工作过度和疲劳经常导致焦虑。
+
+Insomnia **can be caused by** many different things. 失眠可能是由多种不同因素引起。
+
+名词 **effect** 与动词 **affect** 经常被混淆。 请看以下例子：
+
+The **effect** of his insomnia was poor performance at work. 他失眠的影响是在工作中表现不佳。
+
+His insomnia **affected** his performance at work.	他的失眠影响到自己的工作表现。
+### 选词填空
+Eating a lot of fatty foods can **result** in high cholesterol.
+
+Depression can **affect** every part of your life.
+
+Lack of exercise can **lead** to health problems.
+
+Overwork **causes** anxiety in many people.
+
+The **effect** of the exercise routine was weight loss and lower cholesterol.
+
+My insomnia was **caused** by stress.
 ## 阅读 压力及其对我们生活的影响
-## 最终任务 讨论健康问题 
+Everyone has stress in their lives. Stress is the way our body reacts to what is happening in and around us. Eustress, or good stress, can help people work to their potential and feel good about themselves. Think about a time when your boss told you what a good job you were doing, or you were excited playing a game. That is eustress. Sometimes it is called positive stress.
+
+On the other hand, distress, or bad stress, is not a good thing. When stress becomes too much for a person to deal with, it can cause problems. The problems can be physical or mental. Stress can result in problems like insomnia, headaches, depression and anxiety. Obviously, we want as much eustress, and as little distress, in our lives as possible.
+
+**内部定义**
+ 
+在文章中遇到不认识的词语时，你有时可以通过紧跟其后的信息来猜出它的含义。 这被称为内部定义。 内部定义紧跟在难以理解的词语之后，以逗号分隔。
+ 
+Poor diet and lack of exercise can lead to **diabetes**, or **your body's inability to produce insulin**. 不良饮食和缺乏锻炼可能导致糖尿病，或者说你的身体无法产生胰岛素。
+ 
+**Migraines**, or **very severe headaches**, can be caused by too much stress. 偏头痛，或者说非常严重的头痛，可能是因为压力过多造成。
+## 最终任务 讨论健康问题
+你正和医生谈论一名男性家庭成员， 这位家庭成员允许你讨论他的健康情况。 请听音频并录制 正确的回答。 当您看到空白处，请提供您真实的个人信息。
 # 4 描述办公室文化
 ## 表达 提供近似信息
 ## 阅读 办公室文化
