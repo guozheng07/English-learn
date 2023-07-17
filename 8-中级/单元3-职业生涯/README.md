@@ -209,7 +209,7 @@ JAMES: Well, I think you should do it. Maybe I could help.
 OLIVIA: Really? Thanks! **It'll be easier** if you help.
 ## 表达 谈论计划和打算
 ### 听力
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/d7c796f5-51c0-4381-adc7-7791ec714a0a)
 
 ## 最终任务 谈论职业计划
 # 3 讨论职业计划
