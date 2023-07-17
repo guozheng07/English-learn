@@ -163,6 +163,12 @@ If we plant more trees ... 如果我们种更多的树…
 If my company could build one city ... 如果我的公司能建造一座城市……
 
 ... we'd have a city in every country. ……我们就会在每个国家都有一座城市。
+
+I've decided to study law. 我决定攻读法律。
+
+What do you plan to do? 你打算干什么？
+
+What are your plans? 你们有什么计划？
 ### 真实和非真实条件句
 用真实条件句表达真实的可能性。 在 **if** 从句中使用 **if + 现在时**，并在结果从句中使用 **will** 或 **can** 等情态动词。
 
@@ -210,8 +216,18 @@ OLIVIA: Really? Thanks! **It'll be easier** if you help.
 ## 表达 谈论计划和打算
 ### 听力
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/d7c796f5-51c0-4381-adc7-7791ec714a0a)
+### 录音
+I want to learn more about management. 我希望学习更多管理方面的知识。
 
+My intention is to open my own business. 我想自己创业。
+
+What's next? 接下来呢？
+
+I'm going to be a supervisor. 我将成为一名主管。
+
+I intend to work as a lawyer at a big law firm. 我打算在一家大型律师事务所从事律师工作。
 ## 最终任务 谈论职业计划
+你正和一个朋友谈论她的职业计划。 也告诉她你的职业计划。? 当您看到空白处，请提供您真实的个人信息。
 # 3 讨论职业计划
 ## 词汇 关于职业的形容词
 ## 语法 虚拟语气条件句
