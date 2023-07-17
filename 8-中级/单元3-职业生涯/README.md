@@ -55,6 +55,7 @@ I was making a lot of money **while** I was living in Korea.
 
 **While** I was studying to be a lawyer, I worked for six months in a restaurant.
 ### 断句匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/844abc93-94ce-4cd7-af18-6c8ca4b451bc)
 
 ## 语法 正在进行和已经完成的动作
 ## 最终任务 联络更新会议
