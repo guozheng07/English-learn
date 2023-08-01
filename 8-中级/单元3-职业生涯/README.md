@@ -346,6 +346,36 @@ This could be the chance you've been waiting for. 这也许是你一直在等待
 您朋友刚做了一个很大的决定，尝试让他重新考虑，或者至少了解一下后果。 请听音频并录制 正确的回答。
 # 4 撰写有关你的职业计划的文章
 ## 词汇 工作和行业术语
+**工作**
+ 	 
+为了避免在个人陈述中重复，你可以使用这些job的同义词。
+ 	 
+I am looking for a **role** in sales. 我在找一个销售职位。  
+We have a **post** open in management. 我们有一个管理岗位空缺。  
+I am interested in a **position** in accounts. 我对会计职位感兴趣。
+ 	 
+**目标**
+ 	 
+当描述你的目标时，你可以在他们的时间框架中谈论他们。
+ 	 
+My **long-term** goal is to move into management. 我的长期目标是进入管理层。  
+My **short-term** goal is to gain more experience. 我的短期目标是获得更多的经验。
+
+**行业**
+ 	 
+你可能想谈论你所在的或者想进入的industry (行业) 。
+ 	 
+I find working in the **science industry** really engaging.	我发现做科学这一行是很有意思的。  
+The **green sector** is really growing, and that's where I want to be.	绿色产业正在增长，而且那也是我想要进入的。
+ 	 
+**技能**
+ 	 
+你可以用像这样的词汇来描述你能做的或者想提高的方面。
+ 	 
+I want to improve my **proficiency** in German.	我想提高我的德语流利度。  
+I have a large **skill set** in many different **disciplines**.	我有能用在很多不同学科领域的许多技能。
+### 单词匹配
+ 
 ## 语法 未来动词
 ## 写作 个人陈述
 ## 最终任务 发布个人资料
