@@ -376,7 +376,109 @@ I want to improve my **proficiency** in German.	我想提高我的德语流利�
 I have a large **skill set** in many different **disciplines**.	我有能用在很多不同学科领域的许多技能。
 ### 单词匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/49ad2acc-7078-41bd-93b9-ec9774063563)
- 
+### 选词填空
+I'm looking for a job in the science or technology **sectors**（goals、terms） .
+
+I've been working in the education **industry**（skill、role）for 10 years.
+
+I have a strong **skill set**（industry、sector）in many disciplines.
+
+My **short-term**（post、skill set）goal is to find a position in sales.
+
+I would like to improve my **proficiency**（sector、goals） in software development.
+
+I'd like to apply for the **post**（goal、skill）of sales assistant.
+### 阅读
+**What you need in industry today**
+
+by Olly Adams
+
+Different industries, from technology to education, require different skill sets. But if you're good at computing, presentations, communication and management, you'll be able to find work in many disciplines. For example, sales, operations and marketing departments are often very happy to give posts to people who show high levels of proficiency in the areas mentioned above.
+
+Of course, if your long-term goal is to move up in your company, then you'll need to gain experience in the industry and build knowledge of the sector you're working in.
+### 录音
+Do you have any long-term goals? 你有长期目标吗？
+
+What skill sets are important in that industry? 在那个行业哪些技能是重要的?
+
+His short-term goal is to gain experience. 他的短期目标是获得经验。
+
+What is your position in the company? 你在公司的职位是什么？
+
+They have a post open in accounting. 他们在会计方面有一个空缺的职位。
+
+I'd like to improve my proficiency in that discipline. 我想提高我在那个领域的能力。
+
+The financial sector is doing very well. 金融行业做得很好。
+
+She's looking for a role in management. 她在找一个管理方面的职位。
 ## 语法 未来动词
+**动词＋不定式**
+ 	 
+许多指示未来的动词采用这个模式：动词＋不定式。一些你可能知道的例子是**plan, intend, want, hope, expect, look, aim** 和 **would like**。
+ 	 
+I **aim to move up** in the industry. 我的目标是在行业中升职。
+
+I **expect to spend** five years in this post.	我准备在这个职位呆五年时间。
+
+I **hope to move into** senior management. 我希望进入高级管理层。
+
+I **would like to gain** more experience in this discipline. 我想在这方面获得更多的经验。
+
+I **am looking to increase** my proficiency in this area. 我希望增加我在这个领域的能力。
+
+I **am planning to start my own business**.	我打算开始自己办公司。
+### 阅读 个人陈述
+**Paige Williams**
+
+Product Designer
+
+I am currently employed as a product designer, and my long-term career goals are to move into product management and move up in the publishing industry. I am aiming to become a senior manager within a large company or start my own business in the publishing sector.
+
+I am looking to spend the next five years developing my product design skill set, as well as increase my proficiency in another language. I expect to achieve a senior management post within 10 years.
+### 录音
+She hopes to move into management. 她希望进入管理层。
+
+I expect to improve my skill set. 我希望能提高自己的技能。
+
+I am looking to increase my proficiency. 我想提高我的能力。
+
+He is planning to leave the company. 他打算离开这个公司。
+
+She'd like to gain more experience. 她想获得更多的经验。
+
+He aims to move up in the company. 他的目标是在公司中得到晋升。
 ## 写作 个人陈述
+**写你的个人陈述**
+
+当写个人陈述时，先写你的工作职位，或者描述你做的工作是个好主意。
+ 	 
+**I am currently employed as** a laboratory technician.	我目前的工作是实验室技术员。
+ 	 
+清楚地说明你的目标。开始说你的短期目标，然后概要说出你长期的目标。
+ 	 
+**Short term, I am aiming to** work at a large, multinational company.	短期来看，我的目标是在一个大型的，跨国公司工作。  
+**My long-term career goal is to** become an executive.	我的长期职业目标是成为一名执行官。
+ 	 
+**时间表**
+ 	 
+如果你想设定预期多久你能实现你的目标，另起一段，从最早的目标开始。
+ 	 
+**I am looking to spend the next five years** developing my product-design skill set.	我希望在接下来的五年时间内改善我的产品设计技能。  
+**I expect to achieve** a senior management post **within 10 years**. 我希望在10年内升到高级管理职位。
+
+**提高**
+ 	 
+你还可以包含一些关于你要提高哪些技能，或者在实现你的目标的过程中你希望做些什么的信息。
+ 	 
+**I aim to** increase my proficiency with design software.  我的目标是提高我的使用设计软件的能力。
+### 选词填空
+**WORKERS.NET**
+ 
+I am an experienced retail manager aiming to get a **role** at a multinational company in the supermarket **sector** in the short term. My **long-term** career goals are to run a large electronics store and to **become** a national manager. 
+ 
+Within the next two years, I **am looking to** develop my skill set and competence in logistics, retail management and negotiations. I expect **to achieve** a post at a large supermarket chain within three years.
 ## 最终任务 发布个人资料
+为一个职业网站写一份个人陈述。给出你的职位头衔并描述你的长期和短期职业计划。说出你的职业目标和发展计划的时间框架。 Write 80-100 words. 输入到输入框。 在可能的情况下，使用自己的语言。
+
+我们会严肃地对待您的隐私。请勿将关于自己的个人信息（种族、宗教、健康状况等）与别人分享。
