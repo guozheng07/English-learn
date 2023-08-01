@@ -375,6 +375,7 @@ The **green sector** is really growing, and that's where I want to be.	绿色产
 I want to improve my **proficiency** in German.	我想提高我的德语流利度。  
 I have a large **skill set** in many different **disciplines**.	我有能用在很多不同学科领域的许多技能。
 ### 单词匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/49ad2acc-7078-41bd-93b9-ec9774063563)
  
 ## 语法 未来动词
 ## 写作 个人陈述
