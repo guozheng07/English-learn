@@ -332,8 +332,18 @@ If we'd had more time, we **would have built** a project website, too.
 ## 表达 鼓励和劝阻
 ### 表达分组
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/f1de7cd2-403e-444e-8b72-01fd47f12c10)
+### 录音
+If I were you, I'd do it. 如果我是你，我就会这样做。
 
+Seriously? Aren't you being a little foolish? 真的吗？ 你是不是有点犯傻？
+
+I'm not so sure you should do it. 我不确定你是否应该这样做。
+
+Of course, you can do it. Go for it! 当然，你能行。 加油！
+
+This could be the chance you've been waiting for. 这也许是你一直在等待的机会。
 ## 最终任务 提供有关职业的建议
+您朋友刚做了一个很大的决定，尝试让他重新考虑，或者至少了解一下后果。 请听音频并录制 正确的回答。
 # 4 撰写有关你的职业计划的文章
 ## 词汇 工作和行业术语
 ## 语法 未来动词
