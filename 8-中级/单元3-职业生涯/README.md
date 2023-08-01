@@ -331,6 +331,7 @@ If we'd had more time, we **would have built** a project website, too.
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/135a8e71-55eb-4f64-8ced-2811d8addd0c)
 ## 表达 鼓励和劝阻
 ### 表达分组
+![image](https://github.com/guozheng07/English-learn/assets/42236890/f1de7cd2-403e-444e-8b72-01fd47f12c10)
 
 ## 最终任务 提供有关职业的建议
 # 4 撰写有关你的职业计划的文章
