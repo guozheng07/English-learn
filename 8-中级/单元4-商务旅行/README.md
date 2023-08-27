@@ -129,6 +129,11 @@ massage 按摩
 spa 水疗  
 Jacuzzi 按摩浴缸  
 fax machine 传真机
+### 图文匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/e06355b1-552d-4188-b677-7728b2ac71e9)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/8553f795-32a7-48e0-8a12-502c72cc63c2)
+
+
 ## 口语 确认：语调和附加疑问句
 ## 表达 用肯定语回答
 ## 最终任务 预定酒店
