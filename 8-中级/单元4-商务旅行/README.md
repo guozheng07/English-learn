@@ -120,6 +120,15 @@ Don't worry. Everything's going to be all right. 别担心。 一切都会没事
 你公司的一家供货商发生延误。 你的同事凯伦本打算去他们的办公处，但临时有事，换你前往。 让你的老板放心，你能够应对这件事。 请听音频并录制 正确的回答。
 # 2 预定酒店
 ## 词汇 酒店康乐设施
+five-star resort 五星级度假酒店  
+deluxe suite 豪华套房  
+DVD player DVD 播放机  
+mini-bar 迷你吧  
+panoramic view 全景  
+massage 按摩  
+spa 水疗  
+Jacuzzi 按摩浴缸  
+fax machine 传真机
 ## 口语 确认：语调和附加疑问句
 ## 表达 用肯定语回答
 ## 最终任务 预定酒店
