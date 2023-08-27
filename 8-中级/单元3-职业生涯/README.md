@@ -1,4 +1,4 @@
-![image](https://github.com/guozheng07/English-learn/assets/42236890/274ddb47-bec0-4f48-b617-9669985ba635)# 1 谈论你最近的工作
+# 1 谈论你最近的工作
 ## 词汇 描述工作
 ## 描述工作的形容词
 让我们来看一下可以用来描述工作，项目和客户的形容词。用**enjoyable** 和 **engaging**来描述你觉得有意思的工作或者项目。
