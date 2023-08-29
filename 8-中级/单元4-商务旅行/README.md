@@ -239,6 +239,48 @@ This is the Hotel Royal, right? 这是皇家酒店，对吧？
 你正打电话到皇家酒店预订客房。 当您看到空白处，请提供您真实的个人信息。
 # 3 安排会议
 ## 语法 间接宾语
+英语中最常见的句子结构是主谓宾。
+
+主语	谓语	宾语
+
+Jack    sent   a postcard.
+
+在此句子中，a postcard 是直接宾语，因为它是谓语动词动作的接受者（由杰克寄出）。
+
+有时，名词或代词并不是动词动作的接受者，而是直接宾语的接受者。 这被称为间接宾语。
+
+主语	谓语	间接宾语	直接宾语
+
+Jack   sent	   his wife	  a postcard.
+
+在本句中，his wife 是间接宾语，因为她是直接宾语的接受者 (a postcard)。注意，该间接宾语位于动词和直接宾语之间。
+
+你也可以使用介词 to 和 for，在直接宾语后接间接宾语。
+
+主语	谓语	直接宾语	   间接宾语
+
+Jack   sent	   a postcard	to his wife.
+
+Jack   bought  a gift	    for his wife.
+
+以下是间接宾语的更多示例：
+
+I had to give the hotel my credit card number. 我必须向酒店提供信用卡号码。
+
+I showed the clerk my passport. 我向工作人员出示了护照。
+
+I showed my passport to the clerk. 我给那位接待员看了我的护照。
+
+The hotel gave my company a discount. 酒店向我公司提供了折扣。
+
+当代词代替间接宾语时，我们称之为间接宾语代词。
+
+The hotel sent **me** a confirmation email. 酒店给我发了一封确认电子邮件。
+
+The clerk gave **her** the bill. 工作人员把账单交给她。
+
+The clerk gave the bill to **her**. 那位接待员把账单给了她。
+
 ## 表达 表达紧急和重要
 ## 表达 安排会议的时间
 ## 最终任务 安排与客户举行会议的时间
