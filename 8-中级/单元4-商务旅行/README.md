@@ -243,7 +243,7 @@ This is the Hotel Royal, right? 这是皇家酒店，对吧？
 
 主语	谓语	宾语
 
-Jack    sent   a postcard.
+Jack   sent   a postcard.
 
 在此句子中，a postcard 是直接宾语，因为它是谓语动词动作的接受者（由杰克寄出）。
 
@@ -280,9 +280,73 @@ The hotel sent **me** a confirmation email. 酒店给我发了一封确认电子
 The clerk gave **her** the bill. 工作人员把账单交给她。
 
 The clerk gave the bill to **her**. 那位接待员把账单给了她。
-
 ## 表达 表达紧急和重要
+It's absolutely critical that we meet. 我们绝对有必要见面。
+
+It's vital that we sit down together. 我们务必坐下来谈谈。
+
+It's essential we get an understanding. 我们必须取得谅解。
+
+We need to meet as soon as possible. 我们需要尽快见面。
+
+用此类表达来表达紧急：
+
+**It's crucial** that we find a solution. 我们务必找到解决办法。
+
+**It's urgent** the company find a buyer. 公司急需找到一名买家。
+
+**It's essential** that he attend the meeting. 他必须出席会议。
+
+**It's vital** no one discuss this information.	任何人不得谈论此信息。
+
+**It's critical** that we meet the deadline. 我们必须按时完成。
+
+**It's imperative** all staff understand the situation.	所有员工必须明白这一形势。
+
+这些非常正式的表达通常后接动词原形。注意在这些例子中，并未遵循主谓一致原则：动词 **attend** 和 **report** 结尾并未后接 s。在此种强烈或情感的动词之后，第二个动词采用称为虚拟式的特殊形式。
+
+It's essential that **he attend** the meeting. 他必须出席会议。
+
+It's vital **she report** to us immediately. 她必须立即向我们报告。
+
+用副词 **absolutely** 来加强紧迫感：
+
+It's **absolutely** critical that we meet the deadline.	我们绝对必须按时完成。
+
+It's **absolutely** crucial we find a solution.	我们绝对必须找到解决办法。
+
+语言注释： 谨慎使用 **absolutely、completely** 和 **totally** 等修饰语；如果情况并非如你的用语那样紧急，你可能被责怪夸大事实。
+### 录音
+It's imperative we meet the deadline. 我们必须按时完成。
+
+It's urgent that we give a response. 我们急需作出答复。
+
+It's critical that we cut costs. 我们必须降低成本。
+
+It's absolutely essential that he understand. 关键是他必须理解。
+
+It's absolutely vital that she agree. 关键是她必须同意。
+
+It's crucial they attend the meeting. 他们必须出席会议。
+### 选词填空
+Thank you all for coming today. First, let me say that it is **absolutely essential** that nothing I discuss here today go outside this room. That said, I think you all understand how **urgent** it is that we find a solution to the problem of our decreasing market share. It's **imperative** that we increase sales in the fastest-growing region for our products – Asia. Because of this, we have decided to purchase our biggest competitor. It's **vital** that this deal be successful. We have the financial strength, and it's **crucial** that we take advantage of this opportunity.
 ## 表达 安排会议的时间
+When are you free today? 你今天什么时候有空？
+
+Let me just check my calendar. 让我查看一下日程。
+
+I'm booked all day. 我一整天都有安排。
+
+Today just doesn't work. 今天根本不行。
+
+What day would suit you? 哪一天适合你？
+
+Can you do 8 o'clock? 8 点你能行吗？
+
+I'll be there at 8. 我 8 点到。
+
+I look forward to seeing you tomorrow. 期待明天与你见面。
+### 断句匹配
 ## 最终任务 安排与客户举行会议的时间
 # 4 做一个会议总结
 ## 词汇 商务习语和表达
