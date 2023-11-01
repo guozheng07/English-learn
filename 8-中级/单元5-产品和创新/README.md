@@ -192,8 +192,24 @@ B: Sure. 当然。
 A: OK. Here's your receipt. Have a nice day! 可以。 这是你的收据。祝你愉快！
 ### 词条排序
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/9f015df0-5a6a-4239-8cc6-a39bb90f02ff)
+### 录音
+What's your return policy? 你们的退货政策是怎么规定的？
 
+You can return anything within 14 days. 所有东西十四天内均可退货。
+
+With tax, that comes to one hundred and ten dollars. 含税总共 110 美元。
+
+How would you like to pay? 您想怎样支付？
+
+I'll use my credit card. 我要刷信用卡。
+
+Go ahead and slide your card. 请刷您的信用卡。
+
+Should I press 'OK'? 我应该按 'OK' 吗？
+
+Yes, and please sign here. 对，请在此签名。
 ## 最终任务 购买产品
+你在百货公司给一位朋友购买 T 恤衫，并准备前往收银台付款。 请听音频并录制 正确的回答。
 # 3 写出关于产品创新的想法
 ## 词汇 名词、动词和形容词
 ## 语法 将来进行时
