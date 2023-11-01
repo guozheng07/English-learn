@@ -191,6 +191,7 @@ A: Could you sign here, please?	你能在这儿签字吗？
 B: Sure. 当然。  
 A: OK. Here's your receipt. Have a nice day! 可以。 这是你的收据。祝你愉快！
 ### 词条排序
+![image](https://github.com/guozheng07/English-learn/assets/42236890/9f015df0-5a6a-4239-8cc6-a39bb90f02ff)
 
 ## 最终任务 购买产品
 # 3 写出关于产品创新的想法
