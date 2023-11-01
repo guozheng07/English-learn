@@ -235,6 +235,8 @@ Can you describe how the new touch screen works? 你能不能描述新的触摸�
 Texting revolutionized the way we communicate. 发短信彻底颠覆了我们的通讯方式。
 
 This amazing application organizes your photos for you. 这款神奇的应用程序能为你整理照片。
+### 单词分组
+![image](https://github.com/guozheng07/English-learn/assets/42236890/bd29022f-de66-4271-b009-6768c97f2695)
 
 ## 语法 将来进行时
 ## 表达 表达忧虑和担心
