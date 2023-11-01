@@ -253,11 +253,97 @@ Stop wasting time in your car. Multi-Drive, our latest hands-free invention, wil
 Be more productive. Go to work before you get to work!
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/06e86768-0f15-4e0f-950e-49c40a1ffdb4)
-
-
 ## 语法 将来进行时
+Frank thinks he'**ll be designing** skyscrapers someday. 弗兰克认为有一天他会设计摩天大厦。s
+
+Oscar thinks someday robot **will br helping** humankind. 奥斯卡认为有一天机器人会成为人类的帮手。
+
+用将来进行时来谈论将在未来一段时间内持续的事件。 用 **will be** 和动词 + **ing** 构成将来进行时。 用它谈论你预计将会发生的事情。
+
+People **will be using** their smartphones for everything. 人们在一切活动中都会使用智能手机。
+
+They'**ll be producing** smartphones that you can wear like a ring.	他们会生产出像戒指一样佩戴的智能手机。
+
+A: **Will** you still **be working** here in 20 years? 20 年后你还会在这里工作吗？  
+B: Yes, but I'**ll be running** the company. 会的，但到时我已成为公司负责人。
+### 选词填空
+INVENTOR: Everything is changing. Technology is **revolutionizing** our work and entertainment.  
+JUDY: What's she talking about?  
+MAC: I'm not really sure. Something about how **they'll** soon be producing notebooks that are as thin as a piece of paper?  
+JUDY: I'm not interested. I'm happy with my old desktop computer.  
+MAC: Shhh! Let's listen to what she's saying.  
+INVENTOR: No more monitors. We'll be **using** our hands, the wall, a desk – anything flat – as a **touch screen** .  
+JUDY: Huh?  
+MAC: Wow. I think that she means we'll **be** taking anything flat and using it as a computer monitor. Like, we could see a video game and a keyboard on a wall and press the keys to play the game.  
+JUDY: Scary! I don't want to play a video game or call somebody on my hand.  
+MAC: But you will. Everyone will be **doing** it someday.  
+INVENTOR: Yes, ladies and gentlemen! This is the future.
 ## 表达 表达忧虑和担心
+Are we ready for it? 我们是否准备好了？
+
+I can see why you're worried. 我能明白你为何担忧。
+
+I have some concerns about ... 我确实有点担心……
+
+We're in danger of ... 我们面临……的危险
+
+Do you think they're concerned about ...? 你认为他们担忧的是……？
+
+使用 **worry** 和 **concern**，谈论可能发生的不好的事情。
+
+**'Worry' 和 'concern' 搭配 'that'：当句子后面的部分是独立分句（可独立成句的名词和动词短语）时，使用 that。**
+
+I'm **worried that** we'll fall behind the competition.	我担心我们会在这场比赛中落后。
+
+I'm **concerned that** we won't be able to compete.	我担心我们没有竞争的实力。
+
+**'Worry' 和 'concern' 搭配 'about'：当句子后面的部分是名词或动名词 (verb + ing) 时，使用 about。** 注意，在这些例子中，concerned 是形容词，concerns 是名词。
+
+I'm **worried about** the competition. 我很担心这场比赛。
+
+I'm **concerned about** losing so much money. 我很担心会损失很多钱。
+
+I have some serious **concerns about** the deal. 我非常担心这笔生意。
+
+你还可以使用表达 **in danger of** 表示担心。**In danger of 始终后接动名词或动名词短语**。
+
+We're **in danger of falling** behind the competition. 这场比赛我们可能会落后。
+
+使用下面的问题询问他人的担心。
+
+What are you concerned about? 你担心什么？
+
+Are you worried that we'll fail? 你担心我们会失败吗？
+
+如果想对某人的担心表示同感，你可以使用这一表达。
+ 
+I can see why you're worried about that. 我能明白你担心这个的原因。
+### 选词填空
+DAN: You look worried.  
+COURTNEY: I am. I'm very worried.  
+DAN: What are you **worried about** ?  
+COURTNEY: I'm concerned that we don't offer a mobile banking application.  
+DAN: I can see why you're **concerned** . All the other banks in the area have one.  
+COURTNEY: I know. I'm **worried that** we're falling behind them. It's driving me crazy.  
+DAN: Yeah. So many problems. I'm also worried that the online banking product isn't doing very well.  
+COURTNEY: What do you mean?  
+DAN: Well, I have some serious **concerns about** design. Our online banking product looks like it was made in 1990.
+### 录音
+I have some serious concerns about innovation. 我对创新确实有点担心。
+
+Are we ready for the future? 我们是否能未雨绸缪？
+
+I can see why you're worried about it. 我能明白你为何担忧。
+
+Are you concerned that we'll lose business? 你是不是担心我们会失去业务？
+
+We're in danger of losing customers. 我们面临客户流失的危险。
+
+I'm a little worried that we're falling behind. 我有些担心我们会落后。
 ## 最终任务 写出您对于将来的担忧
+您要给公司写封电子邮件，谈谈您对于公司将来的一些担忧。想想您公司面临的挑战，或者其他一般性的问题。给老板写封电子邮件，描述两个挑战和解决办法。 输入到输入框。 请写 75–130 个单词。 在可能的情况下，使用自己的语言。
+
+我们会严肃地对待您的隐私。请勿将关于自己的个人信息（种族、宗教、健康状况等）与别人分享。
 # 4 创新思维
 ## 表达 描述效果
 ## 语法 背景信息
