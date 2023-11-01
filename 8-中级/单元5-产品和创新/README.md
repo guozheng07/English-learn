@@ -237,6 +237,22 @@ Texting revolutionized the way we communicate. 发短信彻底颠覆了我们的
 This amazing application organizes your photos for you. 这款神奇的应用程序能为你整理照片。
 ### 单词分组
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/bd29022f-de66-4271-b009-6768c97f2695)
+### 阅读
+**Multi-Drive**
+
+Plan your day.
+
+Get your email.
+
+Send texts.
+
+Get organized while you're in your car.
+
+Stop wasting time in your car. Multi-Drive, our latest hands-free invention, will revolutionize the way you work – and get to work. Use any smartphone with the Multi-Drive system. Now you can work safely and successfully outside your office. Want to organize your schedule? Tell Multi-Drive. Need that important email from your boss? Let Multi-Drive read it to you. Text messages? Speak and send them with Multi-Drive.
+
+Be more productive. Go to work before you get to work!
+### 选词填空
+
 
 ## 语法 将来进行时
 ## 表达 表达忧虑和担心
