@@ -212,6 +212,30 @@ Yes, and please sign here. 对，请在此签名。
 你在百货公司给一位朋友购买 T 恤衫，并准备前往收银台付款。 请听音频并录制 正确的回答。
 # 3 写出关于产品创新的想法
 ## 词汇 名词、动词和形容词
+revolution 革命  
+developed 开发  
+competition 竞争  
+mobile applications 移动应用程序  
+developer 开发人员  
+invented 发明  
+app 应用  
+competitor 竞争对手  
+discussion 讨论
+### 录音
+His latest invention is a tiny phone worn like a ring. 他的最新发明是一款形似戒指的微型手机。
+
+The competition is catching up to us. 竞争对手正在赶上我们。
+
+We had a heated discussion about production. 我们就生产进行了热烈的讨论。
+
+The smartphone was an amazing development. 智能手机的发展让人吃惊。
+
+Can you describe how the new touch screen works? 你能不能描述新的触摸屏如何工作？
+
+Texting revolutionized the way we communicate. 发短信彻底颠覆了我们的通讯方式。
+
+This amazing application organizes your photos for you. 这款神奇的应用程序能为你整理照片。
+
 ## 语法 将来进行时
 ## 表达 表达忧虑和担心
 ## 最终任务 写出您对于将来的担忧
