@@ -252,6 +252,7 @@ Stop wasting time in your car. Multi-Drive, our latest hands-free invention, wil
 
 Be more productive. Go to work before you get to work!
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/06e86768-0f15-4e0f-950e-49c40a1ffdb4)
 
 
 ## 语法 将来进行时
