@@ -79,8 +79,20 @@ They **warmed** to him.	他们开始喜欢上了他。
 Lars is a **funny** guy. A little **quiet in the beginning**, **but** when he warms to people, **he's really fun to be with**. 拉斯是个有趣的家伙。刚开始有点安静，但是当他开始逐渐与人相处融洽后， 他真是一个开心果。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/47013945-097b-444b-b7e4-84dda4018def)
+### 录音
+I didn't like him at first, but I warmed to him. 刚开始我不喜欢他，但是我逐渐喜欢上他了。
 
+He's easy to talk to and gets on well with people. 他很容易沟通而且和人相处得融洽。
+
+He doesn't get along with other teams too well. 他和其他团队相处得不太好。
+
+She can come across as a bit cold sometimes. 有时她有点距离感。
+
+She's very quiet and mostly keeps to herself. 她很安静并且基本不和人交往。
+
+He puts people off when he's so aggressive. 当他如此咄咄逼人时，他把人都吓跑了。
 ## 最终任务 描述人物
+你在一个聚会上。一位同事正在问有关你的朋友，冈特和亚历克斯的事。 请听音频并录制 正确的回答。
 # 2 描述团队默契
 ## 语法 给出印象
 ## 词汇 报告动词
