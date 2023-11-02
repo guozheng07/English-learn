@@ -78,6 +78,7 @@ They **warmed** to him.	他们开始喜欢上了他。
 
 Lars is a **funny** guy. A little **quiet in the beginning**, **but** when he warms to people, **he's really fun to be with**. 拉斯是个有趣的家伙。刚开始有点安静，但是当他开始逐渐与人相处融洽后， 他真是一个开心果。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/c57046af-59bf-4c1c-8bf4-b7fe150584a8)
 
 ## 最终任务 描述人物
 # 2 描述团队默契
