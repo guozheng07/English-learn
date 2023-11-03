@@ -270,6 +270,85 @@ A taxi? Umm, sure. 出租车？嗯，好的。
 白天，你和同事们在你们的办公室进行了各种话题的对话。 请听音频并录制 正确的回答。
 # 4 使用正确的语气
 ## 表达 正式
+**正式的不同程度**
+ 	 	 
+对于你熟悉的人，你可能会问很直接的问题。
+
+**Where's** tomorrow's meeting?	明天的会议在哪里？
+ 	 	 
+对于需要更正式地称呼某人，你可以使用像**I was wondering** 这样的短语来引入问题而不是直接问问题。在这种句子中注意到助动词会最后出现。 	 
+
+**I was wondering where** tomorrow's meeting **will be**. 我想知道明天的会议在哪里。
+ 	 	 
+您可以使用其他短语来更有礼貌的表达。而不是简单的**Hey**，你可能会使用这样的短语引起别人的注意： 
+
+Sorry to disturb you. 对不起打扰您了。
+
+像**Do we need to come**?这样的短语可以用这个来替换：
+
+Is it necessary to attend? 一定要来吗？
+ 	 	 
+当朋友要求你做某事时，你可能会回答**No problem**，而在更正式的情况下，你可能会添加更多的单词。	 
+
+**No problem at all**. I'll do that straight away. 完全没问题。我马上就去做。
+ 	 	 
+这是一些其他的你可以在正式场合用的短语。
+
+**I'm afraid** that's **not possible**.	恐怕那是不可能的。
+
+**Could you possibly tell me** when you'd be **available**?	你能不能告诉我你什么时候有空？
+
+**Would it be possible to** get me an estimate?	能不能估计一下？
+### 单词排序
+I'm afraid that's not possible.
+
+I was wondering where the meeting is.
+
+Could you tell me when you're available?
+
+Would it be possible to meet now?
+
+Is it necessary to attend the meeting?
+### 录音
+Sorry to disturb you. Are you available now? 对不起打扰您了。您现在有空吗？
+
+I'm afraid it won't be possible to do that. 恐怕那是不可能的。
+
+Would it be possible to change the time? 是否可以更改时间？
+
+Is it absolutely necessary to attend the meeting? 出席会议是绝对必要的吗？
+
+I was wondering whether you'd made a decision yet. 我想知道您是否已经做好决定了。
 ## 表达 短语动词和成语
+**一般来说，短语动词显得比较不正式**。例如，你可以问别人是否可以**come to a meeting**。但更正式的说法是**attend a meeting**。下面看一些更多的例子。
+ 	 	 
+这是非正式和正式的讨论推迟会议的方式。	 
+
+We have to **put off** the meeting.	我们不得不推迟会议。
+
+It's necessary to **postpone** the meeting.	有必要推迟会议。
+ 	 	 
+这是非正式的和正式的谈论看待选项的方式。
+
+We'll **look into** all the alternatives. 我们会调查所有的选择。
+
+We'll **investigate** all the alternatives.	我们会调查所有的选择。
+
+这是非正式的和正式的讨论处理问题的方式。
+ 	 	 
+We need to **deal with** this issue. 我们需要处理这个问题。
+
+We need to **resolve** this issue. 我们需要解决这个问题。
+ 	 	 
+**同样，含有大量成语的语言通常比较不正式**。请看例子。第一个意味着你很忙，第二个说的是令人讨厌的或者困难的事，第三个是一个很好的感谢别人帮助的方式。
+ 	 	 
+I'm rushed off my feet!	我很忙！
+
+It's a pain in the neck. 真烦人。
+
+Thanks so much. You're a star! 太感谢了。你是个明星！
+### 选词填空
+
+
 ## 阅读 更新邮件
 ## 最终任务 一封正式的电子邮件
