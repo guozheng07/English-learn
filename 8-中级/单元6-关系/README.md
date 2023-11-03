@@ -378,5 +378,5 @@ Thanks so much!
 
 Chris
 ### 词语匹配
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/2ae1bdb2-5273-4e0a-86e5-ac0095f68793)
 ## 最终任务 一封正式的电子邮件
