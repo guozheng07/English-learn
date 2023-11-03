@@ -380,3 +380,12 @@ Chris
 ### 词语匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/2ae1bdb2-5273-4e0a-86e5-ac0095f68793)
 ## 最终任务 一封正式的电子邮件
+阅读你需要和你的老板讨论的问题列表。然后只写给你的老板的电子邮件的主体部分。你并不需要写地址，问候或结束语。使用正式的语气。 输入到输入框。 Write 80-100 words. 在可能的情况下，使用自己的语言。
+
+There's a big conference in Denver next month and I'm wondering if you're going. It's about telecommunications and could help us with our upcoming discussions about new products.
+ 
+If you are going, should we postpone the company meeting until you have returned? I recommend that we do delay it as you can explain what you learned at the conference to the developers.
+ 
+Finally, Karen is leaving in two months and we really need to hire someone for her position. Who is researching a replacement for her?
+ 
+I'd really appreciate it if you could get back to me in the next week.
