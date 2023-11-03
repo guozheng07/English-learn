@@ -348,7 +348,7 @@ It's a pain in the neck. 真烦人。
 
 Thanks so much. You're a star! 太感谢了。你是个明星！
 ### 选词填空
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/0010413a-d6cb-407f-9e5f-3daa8e441d6f)
 
 ## 阅读 更新邮件
 ## 最终任务 一封正式的电子邮件
