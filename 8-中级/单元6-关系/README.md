@@ -349,6 +349,34 @@ It's a pain in the neck. 真烦人。
 Thanks so much. You're a star! 太感谢了。你是个明星！
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/0010413a-d6cb-407f-9e5f-3daa8e441d6f)
+### 录音
+It's necessary to postpone the meeting. 有必要推迟会议。
 
+We'll investigate all the alternatives. 我们会调查所有的可能。
+
+We need to deal with this issue. 我们需要解决这个问题。
+
+We have to put off the meeting. 我们不得不推迟会议。
+
+We'll look into all the alternatives. 我们会调查所有的选择。
+
+We need to resolve this issue. 我们需要解决这个问题。
 ## 阅读 更新邮件
+### 阅读
+Hi, Sharon.
+
+I'm sorry to disturb you while you're on vacation, but there are a few issues I need to resolve as quickly as possible.
+
+Can we postpone the meeting with our new client, Jacoby, until your return? They want to meet with you in person.
+
+- Do I need to deal with the insurance problem, or will you handle that? Nobody knows about it yet.
+- Kurt Tong is looking into the problems with our supplier. Could you possibly let me know if you have a replacement in mind?
+
+I'd really appreciate it if you could get back to me in the next day or two.
+
+Thanks so much!
+
+Chris
+### 词语匹配
+
 ## 最终任务 一封正式的电子邮件
