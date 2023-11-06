@@ -31,6 +31,10 @@ A: Is William **vegan**?	威廉是纯素食者吗？
 B: No, he's a **vegetarian**. He eats cheese. 不是，他是素食者。 他吃奶酪。
 ### 单词配对
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/90ff3f3b-789f-4cf3-bb81-4e54d3adc791)
+### 阅读
+看餐厅的特色菜牌。 请选择正确的答案。
+
+
 
 ## 阅读 代词指代
 ## 表达 预定餐厅
