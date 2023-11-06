@@ -112,9 +112,98 @@ oil and vinegar 油和醋
 ### 词图匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/05717391-53db-47d8-a553-8ec60af67386)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/6ceb4c48-c430-437f-aeee-e7842d8d04e8)
-
 ## 语法 量词
+可以用装食物的容器来说明食物的数量。 在表示不可数名词（如 **water** 或 **bread**）的数量时，由于它们没有复数形式，因此 **a bottle of** 和 **a package of** 等量词特别有用。
+
+**用 a bottle of 或 a liter of 来说明某些液体的数量**。
+
+A: I'd like a T-bone steak and **a bottle of** sparkling mineral **water**.	我想要一份 T 骨牛排和一瓶发泡矿泉水。
+ 	 
+B: Certainly. A T-bone, and would you like **a liter of** sparkling mineral **water** or just a small bottle? 行。 一份 T 骨牛排，你想要一升发泡矿泉水还是只是一小瓶？
+
+**用 a package of 来说明某些固体的数量**。
+
+We didn't have dessert at the restaurant, so after dinner we bought **a package of cookies**. 我们在餐厅没有吃甜点，所以吃完饭后，我们买了一袋饼干。
+ 	 
+**用 a carton of 来说明某些液体和固体的数量**。
+
+You're still thirsty? I think you've had **a carton of milk** already. 你还渴吗？ 我觉得你已经喝了一盒牛奶了。
+ 	 
+They brought out four huge **cartons of ice cream** and let us choose what we wanted. 他们拿出来四大盒冰淇淋，让我们选自己想要的。
+
+**用 a loaf of 说明成块烘焙的面包的数量**。
+
+She served **a loaf of bread** hot from the oven. 她端上来一块刚刚出炉的热面包。
+
+另一个有用的量词是 **a dozen**。 它指的是12个。
+
+The chef puts **a dozen** fresh, local eggs in each quiche.	厨师在每个乳蛋饼中放了12只新鲜的本地鸡蛋。
+
+We'd like **a dozen** oysters, please. 我们想要12只牡蛎。
+### 录音
+Can you buy me a loaf of fresh bread at the bakery? 你能帮我在面包店买一块面包吗？
+
+I was so thirsty, I drank a whole carton of milk. 我太渴了，所以喝了一整盒牛奶。
+
+I'll have a liter of sparkling mineral water, please. 我想要一升发泡矿泉水，谢谢。
+
+I'd like a dozen oysters to start with. 我想先来12只牡蛎。
+
+We ate a package of cookies and watched TV. 我们吃了一袋曲奇，还看了电视。
 ## 表达 点餐
+We'll take a dozen oysters. 我们想要12只牡蛎。
+
+How fresh are they? 有多新鲜？
+
+Are they grown locally? 是本地种植的吗？
+
+And how would you like your steak? 你的牛排要几分熟？
+
+Medium rare, please. 三分熟，谢谢。
+
+That comes with the house salad. 配菜有招牌沙拉。
+
+What kind of dressing would you like? 你想要哪种调料？
+
+在一些国家，服务员在为你点餐之前先进行自我介绍是很常见的现象。
+
+A: Hi. I'm Casey. May I take your order? 你好。 我是凯西。 我可以帮你点餐吗？  
+B: Yes, please. I'd like the lasagna. 好的，谢谢。 我想要烤宽面条。
+ 	 	 
+A: Have you all decided? 你已经全部想好了吗？  
+B: We're going to have a dozen oysters to start, please. 我们想先点十二只牡蛎，谢谢。
+ 	 	 
+A: And for your main course? 那你的主菜呢？  
+B: I'm going to have the T-bone steak. 我想点 T 骨牛排。
+
+服务员可能会问你想要怎样的食物烹饪方式。
+
+A: How would you like your steak? 你的牛排要几分熟？  
+B: Medium rare, please.	三分熟，谢谢。
+ 	 	 
+A: What kind of potato – mashed, baked or french fries?	什么样的土豆 - 用来做土豆泥，烤或炸薯条？  
+B: I'll take mashed, thanks. 我想要土豆泥，谢谢。
+
+你可能还想问一些与食物相关的问题。
+
+Are the oysters fresh? 牡蛎新鲜吗？
+
+Do you have any local red wine?	你们有当地的红葡萄酒吗？
+
+What does the lasagna come with? 烤宽面条有什么配菜？
+ 	 	 
+下列这些类目将描述你想要你的牛排如何被烹饪？
+
+well done 全熟
+
+medium well	七分熟
+
+medium 五分熟
+
+medium rare	三分熟
+
+rare 一分熟
+### 句子匹配
 ## 阅读 在餐厅用餐
 ## 最终任务 点餐
 # 3 用餐时礼貌交谈
