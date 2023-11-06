@@ -204,6 +204,8 @@ medium rare	三分熟
 
 rare 一分熟
 ### 句子匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/f5dcddc0-8aa9-4dbd-9d18-df9ab81ba291)
+
 ## 阅读 在餐厅用餐
 ## 最终任务 点餐
 # 3 用餐时礼貌交谈
