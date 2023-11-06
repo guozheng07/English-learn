@@ -109,6 +109,8 @@ T-bone steak T 骨牛排
 Mashed, baked or french fries? 是土豆泥，烤土豆还是法式炸薯条？  
 dressing 调料  
 oil and vinegar 油和醋
+### 词图匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/33bab2af-1c9e-437d-b319-9a72f7af78ad)
 ## 语法 量词
 ## 表达 点餐
 ## 阅读 在餐厅用餐
