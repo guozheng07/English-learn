@@ -226,6 +226,8 @@ Your server will also ask you a lot of questions about your order – questions 
 After you've eaten, you may still have some food on your plate. That's fine. Your server might ask 'Would you like to take that home with you?' If you do want to take the food home to eat later, the server will put the food in a package 'to go.'
 
 Finally, it's important to give your server a tip before you leave. Servers usually expect a tip that is at least 15 percent of the bill, but customers sometimes leave a 20 percent tip for excellent service.
+### 句子匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/b749e742-2267-4739-932c-155dd210e86a)
 
 ## 最终任务 点餐
 # 3 用餐时礼貌交谈
