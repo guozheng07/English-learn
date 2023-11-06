@@ -1,5 +1,35 @@
 # 1 预定晚餐
 ## 词汇 有关健康天然饮食的形容词
+picky 挑剔的  
+vegetarian 素食者  
+vegan 纯素食者  
+organic 有机的  
+grown locally 本地种植的  
+wild 野生的  
+free range 放养的  
+fat-free 脱脂的
+
+请使用与以下词语类似的形容词来谈论健康、天然、负责任地生产的食品：
+
+A: Would you like some fruit? 要来点水果吗？  
+B: No, thanks. I'm on a **low-carb diet**. 不要了，谢谢。 我在吃低碳水化合物膳食。	 
+
+I'd like a salad dressing with no oil. And do you have any fat-free or **low-fat** milk? 我想要没放油的沙拉酱调料。 你们有脱脂或低脂牛奶吗？
+ 	 
+A: Do you grow **organic** vegetables? 你们种有机蔬菜吗？  
+B: Yes, we do.	是的。
+
+Good Eats buys everything from **local** farms.	“美食”餐厅的每一道食材都来自本地农场。	 
+
+This crab is **wild**, from the Atlantic Ocean.	这是来自大西洋的野生螃蟹。
+
+**素食者和纯素食者**
+
+Vegetarians（素食者）不吃肉或鱼，而vegans（纯素食者）不吃肉，鱼，乳制品或鸡蛋。 vegetarian和vegan都可以用作形容词或名词。
+
+A: Is William **vegan**?	威廉是纯素食者吗？
+B: No, he's a **vegetarian**. He eats cheese. 不是，他是素食者。 他吃奶酪。
+ 
 ## 阅读 代词指代
 ## 表达 预定餐厅
 ## 最终任务 预定晚餐
