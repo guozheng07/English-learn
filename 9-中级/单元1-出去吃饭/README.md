@@ -205,8 +205,28 @@ medium rare	三分熟
 rare 一分熟
 ### 句子匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/f5dcddc0-8aa9-4dbd-9d18-df9ab81ba291)
+### 录音
+Can I also have some french fries? 我能再点一些法式炸薯条吗？
 
+I'd like the steak rare, please. 我要一分熟的牛排，谢谢。
+
+How fresh are your vegetables? 你们的蔬菜有多新鲜？
+
+What does the steak come with? 牛排配的什么？
+
+I want the corn soup to start, please. 我想先来一份玉米汤，谢谢。
 ## 阅读 在餐厅用餐
+### 阅读
+**Culture Corner: Eating out**
+
+You sit at a comfortable table, and your server immediately introduces herself: 'Hello. I'm Julia. I'll be your server tonight.' Don't be surprised if the server gives you his or her first name. Most restaurants want you to feel comfortable, so servers are often informal but polite.
+
+Your server will also ask you a lot of questions about your order – questions like 'How would you like that?' and 'What kind of dressing would you like on the salad?' After you start eating, your server may also come back to the table several times, asking, 'How is everything?' Don't worry; that's normal. Tell the server what you think, honestly and politely. The server wants to make sure you get exactly what you want and that you are pleased with your food.
+
+After you've eaten, you may still have some food on your plate. That's fine. Your server might ask 'Would you like to take that home with you?' If you do want to take the food home to eat later, the server will put the food in a package 'to go.'
+
+Finally, it's important to give your server a tip before you leave. Servers usually expect a tip that is at least 15 percent of the bill, but customers sometimes leave a 20 percent tip for excellent service.
+
 ## 最终任务 点餐
 # 3 用餐时礼貌交谈
 ## 词汇 甜点和咖啡
