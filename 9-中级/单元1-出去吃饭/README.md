@@ -100,6 +100,15 @@ Yes, please put us down for 6:15. 是的，请将我们安排在6:15。
 你正打电话给帕克烧烤店预订星期五晚上7点四个人的餐位。 请听音频并录制 正确的回答。 当您看到空白处，请提供您真实的个人信息。
 # 2 点餐
 ## 词汇 常见的餐厅食物
+oysters 牡蛎  
+shrimp salad 虾仁沙拉  
+asparagus 芦笋  
+green beans 青豆  
+sparkling mineral water 发泡矿泉水  
+T-bone steak T 骨牛排  
+Mashed, baked or french fries? 是土豆泥，烤土豆还是法式炸薯条？  
+dressing 调料  
+oil and vinegar 油和醋
 ## 语法 量词
 ## 表达 点餐
 ## 阅读 在餐厅用餐
