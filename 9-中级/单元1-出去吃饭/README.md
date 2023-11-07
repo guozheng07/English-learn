@@ -377,7 +377,80 @@ I'm totally with you. 我完全赞同你。
 请撰写有关你最近在餐厅吃的一顿饭的文章。 你吃的什么？ 食物是当地的还是有机的？ 你吃甜点了吗？ 确保每个分句都有主语，并有谓语动词紧随其后。 输入到输入框。 写一段字数在 100 到 120 左右的文字。 该练习不评分。
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/f66f9aa0-938a-4ce5-a9be-eaaf7448cb16)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/115f54f1-9159-4d7b-815e-4132619700c2)
-
 ## 表法 买单
+Anything else? 还要别的吗？
+
+No, just the check, please. 不要了，买单吧。谢谢。
+
+This is on IXW. 由 IXW 公司付帐。
+
+You're our guest. We'll pay. 你是我们的客人。 我们来买单。
+
+Well, if you insist. 好吧，如果你坚持的话。
+
+I really appreciate it. 非常感谢。
+
+在将你的 **check** 或 **bill** 拿来之前，服务员会问你是否已用餐完毕。
+
+A: Would you like anything else? 你还想再要点别的吗？  
+B: No, thanks. Just the check. 不要了，谢谢。 买单吧。
+ 	 	 
+你也可以告诉服务员你准备买单。
+
+Could we have the check, please? 可以麻烦你把帐单给我们吗？
+ 	 	 
+用以下表达方式来提出买单和对买单的人表示谢意：
+
+A: The meal's on me. 这顿饭我请客。  
+B: That's very generous. I appreciate it. 你真大方。 非常感谢。
+
+注意在下列对话中这名男士是如何礼貌地拒绝、最终又是如何接受别人的好意的：
+
+A: I'll take that. 我来请。  
+B: You don't have to do that! 你不必这么做的！  
+A: I insist. You're my guest. 一定得让我请。 你是我的客人。  
+B: Well, if you insist. Thanks very much. 好，如果你坚持的话。非常感谢。
+ 	 	 
+文化说明：在商务聚餐 结束后，一方通知 会请客。但是在更多的非正式的场合，通常会平摊费用，有一个人会负责计算费用并告诉大家每人应该付多少钱。有时，人们会计算各自点的食物是多少钱各自买单，或者每人要求单独的账单。如果你不清楚该怎么买单，你可以问一下。
+
+A: So, how are we paying the check?	我们怎么买单呢？  
+B: How about we each pay for what we had? 我们各付各的怎么样？
+
+A: Shall we split the bill equally?	我们AA制好吗？  
+B: Yeah, good idea.	好的，好主意。  
+A: That comes to, uh, 22 each.	每人共计22。
 ## 表达 结束谈话
+Well, thank you for a lovely meal. 嗯，谢谢你请我吃了一顿美餐。
+
+It was wonderful seeing you both again. 再次见到你们两个真是太好了。
+
+Next time, in Stockholm? 下次，我们斯德哥尔摩再聚好吗？
+
+Thanks again for your patience. 再次感谢你的耐心。
+
+Have a great time at the TV tower. 祝你在电视塔玩得开心。
+
+Give my regards to your wife. 请代我向你的太太问好。
+
+It was so nice meeting her. 见到她真是太高兴了。
+
+Well, take care. 那么，多保重吧。
+
+You, too. 你也是。
+### 录音
+Thanks again for your hard work. 再次感谢你的辛勤工作。
+
+Well, thank you for the wonderful meal. 嗯，谢谢你请我吃了一顿美餐。
+
+Well, it was lovely seeing you again. Take care. 哦，再见到你真高兴。保重。
+
+Let's keep in touch. 保持联系。
+
+Enjoy the rest of your stay. 祝你在余下的时间里过得愉快。
+
+Next time, in Bangkok. 下次，我们曼谷再聚。
+
+Give my regards to your family. 请代我向你的家人问好。
+### 选词填空
+
 ## 最终任务 结束用餐和买单
