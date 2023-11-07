@@ -453,5 +453,5 @@ Next time, in Bangkok. 下次，我们曼谷再聚。
 Give my regards to your family. 请代我向你的家人问好。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/1fba18f3-707f-44c7-9de6-4a973a1f6627)
-
 ## 最终任务 结束用餐和买单
+你刚刚和来自渥太华的一名商业顾问用餐完毕。 她为你的项目出了很多力，所以你提出请她吃饭。 请先买单，然后再结束谈话。 请听音频并录制 正确的回答。
