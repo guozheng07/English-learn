@@ -241,7 +241,53 @@ espresso 意大利特浓咖啡
 ### 词图匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/10358997-0056-415a-9342-7482e8326874)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/c311a7f7-1d7b-4a2b-bc51-17406e7a568f)
+### 录音
+tart 馅饼  
+cheesecake 奶酪蛋糕  
+sundae 圣代冰激凌  
+creme brulee 焦糖布丁  
+brownie 巧克力蛋糕  
+cappuccino 卡布奇诺  
+bread pudding 面包布丁  
+espresso 意大利特浓咖啡  
 ## 语法 复习：时间表达
+谈论时间的方法有很多。 
+
+**用 on 说明某一事件发生的日期**。
+
+We're going to Vegas **on** Friday.	我们周五将要去拉斯维加斯。
+ 	 	 
+**用 at 说明某一事件发生的时间**。
+
+Our plane leaves **at** 6:40. 我们的飞机6:40起飞。
+ 	 	 
+**用 for 来谈论具体数量的时间**。
+
+Dan's lived there **for** six years. 丹已经在那里住了六年了。
+ 	 	 
+**用 from 和 to 来谈论一段完整的时间**。
+ 
+We worked together **from** 2009 **to** 2012. 在2009年至2012年期间，我们曾一起共事。
+
+**用 until 来谈论某一事件之前的时间**。
+
+They're going to play **until 7**. 他们想玩到7点。
+ 
+**使用诸如 when 和 by the time 之类的某些时间表达可将两件事件联系在一起**。
+
+I was gardening **when** I heard the phone ring. 听到电话响时，我正在花园里干活。
+
+It was late **by the time** Lucy got home.	露西到家时已很晚了。
+ 	 	 
+**用 while 来谈论两件同时发生的事件**。
+
+Christie slept **while** I watched the movie. 我看电影时，克里斯在睡觉。
+ 	 	 
+**用 as soon as 来谈论某个已完成的时间点**。
+ 
+**As soon as** we're finished with this project, I'm going to take a vacation. 我们一完成这个项目我就去度假。
+### 选词填空
+
 ## 表达 有礼貌地打断别人
 ## 表达 支持他人的观点
 ## 最终任务 用餐时礼貌交谈
