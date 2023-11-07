@@ -228,11 +228,19 @@ After you've eaten, you may still have some food on your plate. That's fine. You
 Finally, it's important to give your server a tip before you leave. Servers usually expect a tip that is at least 15 percent of the bill, but customers sometimes leave a 20 percent tip for excellent service.
 ### 句子匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/b749e742-2267-4739-932c-155dd210e86a)
-
 ## 最终任务 点餐
 你和你的朋友去了一家新餐厅吃饭。 你想点烤宽面条， 先了解有关烤宽面条的更多信息，然后点餐。 请听音频并录制 正确的回答。
 # 3 用餐时礼貌交谈
 ## 词汇 甜点和咖啡
+cappuccino 卡布奇诺  
+fat-free milk 脱脂牛奶  
+lemon sorbet 柠檬冰沙  
+black coffee, no sugar 无糖黑咖啡  
+cherry tart 樱桃馅饼  
+espresso 意大利特浓咖啡
+### 词图匹配
+
+
 ## 语法 复习：时间表达
 ## 表达 有礼貌地打断别人
 ## 表达 支持他人的观点
