@@ -375,6 +375,9 @@ I'm totally with you. 我完全赞同你。
 **We** recently **ate** at a new restaurant called Bim's. I ordered the T-bone steak. I **asked** for mashed potatoes and a side of asparagus. It was wonderful! My **friend** got the lasagna. As soon as we finished our main course, we ordered bread pudding and cappuccinos. Both **were** excellent. **Everything** was delicious, so we'll probably go again. But first, I have to go back on my low-carb diet.
 ### 写作
 请撰写有关你最近在餐厅吃的一顿饭的文章。 你吃的什么？ 食物是当地的还是有机的？ 你吃甜点了吗？ 确保每个分句都有主语，并有谓语动词紧随其后。 输入到输入框。 写一段字数在 100 到 120 左右的文字。 该练习不评分。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/f66f9aa0-938a-4ce5-a9be-eaaf7448cb16)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/115f54f1-9159-4d7b-815e-4132619700c2)
+
 ## 表法 买单
 ## 表达 结束谈话
 ## 最终任务 结束用餐和买单
