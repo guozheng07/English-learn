@@ -239,8 +239,8 @@ black coffee, no sugar 无糖黑咖啡
 cherry tart 樱桃馅饼  
 espresso 意大利特浓咖啡
 ### 词图匹配
-
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/10358997-0056-415a-9342-7482e8326874)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/c311a7f7-1d7b-4a2b-bc51-17406e7a568f)
 ## 语法 复习：时间表达
 ## 表达 有礼貌地打断别人
 ## 表达 支持他人的观点
