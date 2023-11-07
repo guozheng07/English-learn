@@ -368,8 +368,10 @@ I'm totally with you. 我完全赞同你。
  
 **I** recently **ate** at a really cool restaurant.	我最近在一家的确很棒的餐厅吃饭。  
 **We had** drinks, appetizers, a main course and dessert.	我们喝了饮料、吃了开胃菜、主菜和甜点。
- 	 
+
 在带有一个主句和一个从属分句的句子中，每个分句都需要一个主语和一个谓语动词。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/53a69724-b973-4e08-af7c-0127d885137c)
+
 ## 表法 买单
 ## 表达 结束谈话
 ## 最终任务 结束用餐和买单
