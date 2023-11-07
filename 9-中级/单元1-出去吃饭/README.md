@@ -287,6 +287,7 @@ Christie slept **while** I watched the movie. 我看电影时，克里斯在睡�
  
 **As soon as** we're finished with this project, I'm going to take a vacation. 我们一完成这个项目我就去度假。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/49ce6711-93c8-47c5-9a6a-15ecf5aec876)
 
 ## 表达 有礼貌地打断别人
 ## 表达 支持他人的观点
