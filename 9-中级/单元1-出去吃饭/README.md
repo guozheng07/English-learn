@@ -288,10 +288,78 @@ Christie slept **while** I watched the movie. 我看电影时，克里斯在睡�
 **As soon as** we're finished with this project, I'm going to take a vacation. 我们一完成这个项目我就去度假。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/49ce6711-93c8-47c5-9a6a-15ecf5aec876)
-
 ## 表达 有礼貌地打断别人
+Sorry to interrupt. 对不起，打扰一下。
+
+I'd like to say something. 我想说几句。
+
+Excuse me. 对不起。
+
+打断别人说话时，要记住两件重要的事。第一，务必礼貌，使用 **excuse me** 和 **I'm sorry** 等类似表达。第二，在别人说完一句话再打断，不要在开始说一句话时打断。使用类似这样的表达来插话。
+
+A: I think that this fish is delicious! And … 我觉得这鱼非常好吃！还有……  
+B: **Excuse me for interrupting**, but here's your salad. 对不起，打断一下，这是您的沙拉。
+
+A: I love this restaurant. I come here once or twice a month. 我很喜欢这家餐厅。我一个月来一到两次。  
+B: **Sorry to interrupt, but** our movie starts in 30 minutes. We should leave soon. 不好意思，打断一下，我们的电影还有半小时就开始了。我们得马上走了。
+
+使用类似下面的表达补充他人的观点，或者表述与之相反的观点。注意，这些说话技巧比直接打断要礼貌得多。
+
+A: Well, both the T-bone steak and the lasagna look really good. I can't decide. 嗯，丁骨牛排和千层面看起来都不错。我不知道点什么好。  
+B: **I'd like to add something**. The T-bone is from a local farm. It's organic beef. 我想补充几句。丁骨牛排来自当地农场，是有机牛肉。
+
+A: I'm not sure that the Garlic Barn is the best restaurant for our business lunch.	我不敢说 Garlic Barn 是不是最适合我们的商务午餐的餐厅。  
+B: **May I say something**? I ate there with friends last week, and it was incredible! 我可以说两句吗？我上周和朋友吃过，非常不错！
+### 录音
+Sorry to interrupt. 不好意思，打断一下。
+
+I'd like to add something. 我想补充几句。
+
+Excuse me for interrupting. 对不起，打断一下。
+
+May I say something? 我可以说两句吗？
 ## 表达 支持他人的观点
+I know exactly what you mean. 我完全知道你的意思。
+
+I couldn't agree more. 我完全同意。
+
+That's a wonderful idea. 这是个好主意。
+
+I was just about to say the same thing. 我也正想这么说。
+
+I'm totally with you. 我完全赞同你。
+
+I couldn't have said it better myself. 我正是这个意思。
+### 选词填空
+CHELSEA: So, congratulations! You finished the Balboa project. Honestly, that was the worst project. You should totally relax on your vacation.
+
+AIDEN: Thanks. I couldn't have **said it better** myself. Olivia and I need a real break.
+
+CHELSEA: **I know exactly** what you mean. I'm thinking of taking some days off too.
+
+AIDEN: Cool. We actually bought tickets to fly to Koh Rong, Cambodia. We can go diving in the morning and swimming at night.
+
+CHELSEA: Excellent. You should spend lots of time on the beach.
+
+AIDEN: Yeah, I'm totally **with you** there. All this snow we've been having is depressing.
+
+CHELSEA: I couldn't **agree** more. I'm ready to move to Hawaii!
+
+AIDEN: Hey, we should get a couple of sundaes to celebrate the project.
+
+CHELSEA: I was just about to say **the same thing** . Sundaes and espressos!
+### 录音
+I know exactly what you mean. 我完全知道你的意思。
+
+I was just about to say the same thing. 我也正想这么说。
+
+I couldn't agree more. 我完全同意。
+
+I couldn't have said it better myself. 我正是这个意思。
+
+I'm totally with you. 我完全赞同你。
 ## 最终任务 用餐时礼貌交谈
+你和一位同事正在餐馆吃饭，庆祝一个大项目的完成。谈谈接下来发生的事情。 请听音频并录制 正确的回答。
 # 4 结束用餐和买单
 ## 写作 餐厅就餐
 ## 表法 买单
