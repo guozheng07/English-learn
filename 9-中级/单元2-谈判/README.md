@@ -232,8 +232,20 @@ So, **to put it another way**, the more you buy, the less you pay. 换句话说�
 **What we mean is**, that won't be possible. 我们的意思是那是不可能的。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/7685c1f0-5c95-4228-884d-cfdf93ba1d99)
+### 录音
+What exactly do you mean by that? 你那么说到底什么意思？
 
+Could you be more specific? 你能说具体一点吗？
+
+Could you clarify a point for me? 你能跟我说清楚这个吗？
+
+What I'm saying is that 700 is too low. 我是说七百太低了。
+
+So, just to clarify, we can't accept that price. 所以，澄清一下，这个价格我们不能接受。
+
+To be more specific, we can't pay that much. 具体来说，我们不能付这么多钱。
 ## 最终任务 表明你的公开立场
+你牵头与一个供应商进行谈判，为公司采购笔记本电脑。你想要采购 150 台 CN-450 型，并且可接受每台最高 700 美元的价格。 请听音频并录制 正确的回答。
 # 3 谈判
 ## 词汇 谈判词汇
 ## 阅读 谈判策略
