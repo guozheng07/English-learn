@@ -55,8 +55,53 @@ Their computers are powerful and dependable. 他们的电脑功能强大而且�
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/54fda74c-e41e-4100-8076-fe3e42e78f3c)
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/82d23c90-4ba0-460a-ac85-dc5bca7fb006)
-
 ## 词汇 含有make、do、take的搭配
+make sure 确定
+
+does a great job 干得不错
+
+take a break 休息一下
+
+make these numbers work 把预算发挥到最大
+
+搭配指两个或多个通常一同使用的词语。准确地理解搭配，有助于使你的口语更流利，对你的阅读和聆听技能也有帮助。
+ 
+以下是使用动词 make 的一些搭配：
+
+Do you think we're **making headway** in the negotiations? 你觉得我们的谈判是否有进展？
+
+We really need to **make a decision** today. 我们今天必须做出决定。
+
+I think we finally **made a breakthrough** in the negotiations.	我认为我们终于在谈判中取得了突破。
+ 	 	 
+以下是使用动词 do 的一些搭配：
+
+It's important to **do research** before negotiations begin.	谈判开始前必须开展研究。
+
+It's been a pleasure **doing business** with you. 非常荣幸与你做生意。
+
+You **did** very **well**. Congratulations!	你做得非常好。祝贺你！
+
+I want you to **do your homework** before the meeting tomorrow.	我要你在明天的会议之前做好功课。
+
+以下是使用动词 take 的一些搭配：
+
+They're trying to **take advantage of** us!	他们试图利用我们！
+
+Our vendor **takes** good **care of** us. 我们的供应商服务非常周到。
+
+There's no need to rush. **Take your time**. 不必仓促行事。慢慢来。
+
+I want you to **take the lead** in the negotiations. 我要你在谈判中起带头作用。
+### 阅读
+Hi, Bill.
+
+A quick update to **make sure** you know what's going on with the negotiations: As you know, Fred Thompson is **taking the lead** for our team. He's doing a great job. I'm telling you, nobody **takes advantage of** that guy! We made some real **headway** today. I think we can **do business with** them. No final deal yet, but we're close. We can definitely **make the numbers** we talked about work.
+
+Thanks,
+
+Ann
+### 词语匹配
 ## 表达 表达将来的可能性
 ## 最终任务 准备谈判
 # 2 表明你的公开立场
