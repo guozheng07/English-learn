@@ -13,7 +13,10 @@ budget 预算
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/fb1242c9-adcd-4ec6-b816-de8b858a93b6)
 ### 选词填空
 阅读公司备忘录。 请把词条移至正确的间隔处。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/538a577a-e7f2-47a8-bed8-f299fd25f035)
 
+![image](https://github.com/guozheng07/English-learn/assets/42236890/a16fb931-a138-4205-8531-267fb63fd0d7)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/69e477f6-219f-4b0d-99ea-7346b00b7cca)
 
 ## 语法 含有what的表达
 ## 词汇 含有make、do、take的搭配
