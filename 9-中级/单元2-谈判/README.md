@@ -231,6 +231,7 @@ So, **to put it another way**, the more you buy, the less you pay. 换句话说�
 
 **What we mean is**, that won't be possible. 我们的意思是那是不可能的。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/7685c1f0-5c95-4228-884d-cfdf93ba1d99)
 
 ## 最终任务 表明你的公开立场
 # 3 谈判
