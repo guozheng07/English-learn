@@ -131,6 +131,16 @@ What's so great is that it's reasonably priced. 最棒的是定价合理。
 你正与老板讨论明天与一名供应商的谈判。 请听音频并录制 正确的回答。
 # 2 表明你的公开立场
 ## 词汇 用于电脑的形容词
+powerful 功能强大的  
+solid reputation 卓著的声誉  
+durable 耐用  
+state of the art 最先进  
+lightweight 重量轻  
+tough 坚固  
+basic 基本
+enormous 巨大的  
+flexible 灵活的
+### 词义匹配
 ## 表达 表明你的立场
 ## 表达 澄清
 ## 最终任务 表明你的公开立场
