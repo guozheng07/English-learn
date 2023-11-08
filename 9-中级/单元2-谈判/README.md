@@ -104,6 +104,15 @@ Ann
 ### 词语匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/7790294f-c159-49f1-b147-72d4fc0f83c9)
 ## 表达 表达将来的可能性
+on the same page regarding quantities and cost 数量和成本方面彼此意见一致
+
+I expect we'll need ... 我预计我们将会需要……
+
+I anticipate my team will need ... 我预期我的团队将需要……
+
+foresee a need for 预测需要
+### 选词填空
+
 ## 最终任务 准备谈判
 # 2 表明你的公开立场
 ## 词汇 用于电脑的形容词
