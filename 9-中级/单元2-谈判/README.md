@@ -113,8 +113,22 @@ I anticipate my team will need ... 我预期我的团队将需要……
 foresee a need for 预测需要
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/a8f57bdd-158a-442a-aaaa-3cc2869ff102)
+### 录音
+I want to make sure we're on the same page. 我想确定我们看法一致。
 
+And regarding quantities, how many? 数量方面，有多少？
+
+We really don't foresee any problems. 我们确实没有预见到任何问题。
+
+We expect them to be flexible in their pricing. 我们期望他们能灵活地定价。
+
+Do we have any flexibility in our negotiations? 我们在谈判中有没有任何灵活变通？
+
+I anticipate that we'll soon make headway. 我预料我们很快会取得进展。
+
+What's so great is that it's reasonably priced. 最棒的是定价合理。
 ## 最终任务 准备谈判
+你正与老板讨论明天与一名供应商的谈判。 请听音频并录制 正确的回答。
 # 2 表明你的公开立场
 ## 词汇 用于电脑的形容词
 ## 表达 表明你的立场
