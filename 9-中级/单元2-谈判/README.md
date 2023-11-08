@@ -142,6 +142,8 @@ enormous 巨大的
 flexible 灵活的
 ### 词义匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/dbfd619d-6ab1-4f38-bd74-3f302335e0f4)
+### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/ee6a6eb6-179c-428f-bd27-c47c874acec8)
 ## 表达 表明你的立场
 ## 表达 澄清
 ## 最终任务 表明你的公开立场
