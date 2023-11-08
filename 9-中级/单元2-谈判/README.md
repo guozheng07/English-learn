@@ -112,6 +112,7 @@ I anticipate my team will need ... 我预期我的团队将需要……
 
 foresee a need for 预测需要
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/a8f57bdd-158a-442a-aaaa-3cc2869ff102)
 
 ## 最终任务 准备谈判
 # 2 表明你的公开立场
