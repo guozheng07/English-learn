@@ -102,6 +102,7 @@ Thanks,
 
 Ann
 ### 词语匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/7790294f-c159-49f1-b147-72d4fc0f83c9)
 ## 表达 表达将来的可能性
 ## 最终任务 准备谈判
 # 2 表明你的公开立场
