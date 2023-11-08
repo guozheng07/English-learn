@@ -1,5 +1,16 @@
 # 1 准备谈判
 ## 词汇 商务词汇
+upgrading 升级  
+vendor 供应商  
+productive 富有成效的  
+crash 崩溃  
+negotiate 谈判  
+standard model 标准型号  
+memory 内存  
+hard drive 硬盘  
+budget 预算
+### 词义配对
+
 ## 语法 含有what的表达
 ## 词汇 含有make、do、take的搭配
 ## 表达 表达将来的可能性
