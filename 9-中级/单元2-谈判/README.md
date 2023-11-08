@@ -17,6 +17,12 @@ budget 预算
 
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/a16fb931-a138-4205-8531-267fb63fd0d7)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/69e477f6-219f-4b0d-99ea-7346b00b7cca)
+### 录音
+My computer doesn't have enough memory. 我的电脑内存不够。
+
+My hard drive crashed, and I lost the information. 我的硬盘崩溃了，信息也丢失了。
+
+Can we negotiate a reasonable price with the vendor? 我们能与供应商谈判达成一个合理的价格吗？
 
 ## 语法 含有what的表达
 ## 词汇 含有make、do、take的搭配
