@@ -10,7 +10,7 @@ memory 内存
 hard drive 硬盘  
 budget 预算
 ### 词义配对
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/fb1242c9-adcd-4ec6-b816-de8b858a93b6)
 ## 语法 含有what的表达
 ## 词汇 含有make、do、take的搭配
 ## 表达 表达将来的可能性
