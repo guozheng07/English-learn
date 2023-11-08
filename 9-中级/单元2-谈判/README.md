@@ -52,7 +52,7 @@ Their computers are powerful and dependable. 他们的电脑功能强大而且�
 
 **What you should try is** outsourcing the work to a vendor. 你应当尝试的是把这项工作外包给供应商。
 ### 句子匹配
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/54fda74c-e41e-4100-8076-fe3e42e78f3c)
 ## 词汇 含有make、do、take的搭配
 ## 表达 表达将来的可能性
 ## 最终任务 准备谈判
