@@ -24,7 +24,35 @@ My hard drive crashed, and I lost the information. 我的硬盘崩溃了，信�
 
 Can we negotiate a reasonable price with the vendor? 我们能与供应商谈判达成一个合理的价格吗？
 
+We're going to upgrade from the current standard model. 我们将从当前的标准型号升级。
+
+We need to find ways to become more productive. 我们需要想办法提高生产效率。
+
+Do we have a budget to upgrade our software? 我们有升级软件的预算吗？
 ## 语法 含有what的表达
+What Frack likes to do is stay active. 弗兰克喜欢做的事是保持活跃。
+
+What is important to Oscar to conserve his energy. 对于奥斯卡来说重要的是养精蓄锐。
+
+**带'what'的陈述句**
+ 
+what 一词常常用在问题开头。
+
+**What's** so great about their computers? 他们的电脑有什么了不起的地方？
+
+但是，你**可在表述开头使用 what，用于强调**。请看以下两条表述。含有 what 的表述语气更重。 
+
+Their computers are powerful and dependable. 他们的电脑功能强大而且非常可靠。
+
+**What's** so great about their computers is that they're powerful and dependable. 他们的电脑了不起的地方在于功能强大，而且非常可靠。
+ 	 	 
+请注意，**含有句子主语的 what 从句之后使用动词 be**。
+
+**What we need to do is** upgrade our software.	我们需要做的是升级软件。
+
+**What you should try is** outsourcing the work to a vendor. 你应当尝试的是把这项工作外包给供应商。
+### 句子匹配
+
 ## 词汇 含有make、do、take的搭配
 ## 表达 表达将来的可能性
 ## 最终任务 准备谈判
