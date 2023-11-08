@@ -144,8 +144,94 @@ flexible 灵活的
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/dbfd619d-6ab1-4f38-bd74-3f302335e0f4)
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/ee6a6eb6-179c-428f-bd27-c47c874acec8)
+### 录音
+It has a solid reputation for being state of the art. 它在先进性方面声名卓著。
+
+I just wish they were more flexible about the price. 我只希望他们定价能更灵活一些。
+
+My laptop is both lightweight and durable. 我的笔记本电脑重量轻而且坚固耐用。
+
+It's durable and tough. Drop it, and it won't break. 它坚固耐用。就算掉地上也不会损坏。
+
+That model is both powerful and dependable. 那个型号功能强大而且可靠。
+
+The engineer's computer has enormous memory. 这名工程师的电脑内存很大。
 ## 表达 表明你的立场
+Over the next 12 months, we need ... 我们在未来 12 个月需要……
+
+We never sell them for lower than 900. 我们的卖价从未低于 900。
+
+That would be an enormous problem. 那将是个大问题。
+
+We were expecting a lower price. 我们当时期待更低的价格。
+
+You have to understand ... 你必须理解……
+
+I have some limitations. 我面临一些局限。
+
+be a little more flexible 稍微灵活一点
+
+谈判开始时，必须清楚地表明你的公开立场。使用以下表达：
+ 
+**Let me begin by saying** we need 75 machines over the next six months. 首先，我们在未来 6 个月里需要 75 台机器。
+ 	 	 
+To begin with, **you have to understand** we have tough budget limitations.	首先你必须明白，我们的预算非常吃紧。	 
+
+**I'm confident that** we can work something out. 我有信心拿出一点办法。
+
+**We were expecting** a better offer from you.	我们期待你能更加灵活。
+
+**We have certain limitations, but** we'll try to be flexible. 我们面临一些局限，但会尽量灵活一点。
+### 录音
+We have limitations, but we'll try to be flexible. 我们面临各种局限，但会尽量灵活一点。
+
+We were expecting a better offer from you. 我们期待你有更好的报价。
+
+To begin with, we have tough budget limitations. 首先，我们的预算非常吃紧。
+
+We're confident that we can work something out. 我们有信心拿出一点办法。
+
+Let me begin by saying we need 75 machines. 首先，我们需要 75 台机器。
 ## 表达 澄清
+Would you clarify a couple of points? 你能不能澄清几点？
+
+Doesn't IXW now own Sunset? 日落公司现在不属于 IXW 吗？
+
+I'm not sure that I understand. 我拿不准我是否明白了。
+
+There's been a misunderstanding. 一直存在误会。
+
+You have to understand ... 你必须理解……
+
+So there's really no way ... 所以确实不可能……
+
+你在谈判中的目标是得到你想要的东西。谈判过程中，在必要时多次阐明你的立场，以便达成你的目标。
+
+用此类问题来得到澄清：
+
+**Could you clarify** a point for me? 你可否为我澄清一点？
+
+**I'm not sure I fully understand** your point.	我拿不准是否完全明白你的观点。
+
+**What exactly do you mean by** discount? 你所谓的折扣到底是什么意思？
+
+Could you **be more specific**?	你能说得更具体一点吗？
+
+**So what you're saying is**, there's no way you can deliver immediately? 那你的意思是，你完全没办法立刻交货？
+
+用此类表述来进行澄清：
+
+So, **just to clarify**, we cannot go that low.	说明一下，我们做不到那样的低价。
+
+So, **to put it another way**, the more you buy, the less you pay. 换句话说，你买得越多，付的钱就越少。
+
+**What I'm saying is**, we can offer you a small discount. 我说的是我们可以给你小幅的折扣。
+
+**To be more specific**, we can discount the price by 10 percent. 更具体地说，我们可以给价格打 10% 的折扣。
+
+**What we mean is**, that won't be possible. 我们的意思是那是不可能的。
+### 选词填空
+
 ## 最终任务 表明你的公开立场
 # 3 谈判
 ## 词汇 谈判词汇
