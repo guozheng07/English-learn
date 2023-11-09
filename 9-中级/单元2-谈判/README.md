@@ -365,6 +365,7 @@ I can't confirm this. I'll have to check with my boss. 对此我无法确认。�
 ## 最终任务 谈判
 您办公室需要一个新的计算机系统。您的任务是买50台PX-100的电脑，每台$700，最多付$750。和电脑公司的销售代表Adam Fairbanks谈判，尽可能为公司争取最大的利益。 请听音频并录制 正确的回答。
 # 4 达成交易
+## 词汇 付款和交付
 total 合计  
 payment process 支付流程  
 service plan 服务方案  
@@ -373,9 +374,8 @@ standard 标准
 covers parts and labor 包含零件和人工  
 no charge 免费  
 contract 合同
-
-
-## 词汇 付款和交付
+### 词义匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/7a9b0a76-3682-49db-b184-2ab5a182ace7)
 ## 表达 总结和确认后续步骤
 ## 表达 结束谈判
 ## 最终任务 达成交易
