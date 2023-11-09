@@ -1,4 +1,4 @@
-# 1 准备谈判
+![image](https://github.com/guozheng07/English-learn/assets/42236890/ff619599-968a-4a73-8886-b8ebe2f9ec4d)# 1 准备谈判
 ## 词汇 商务词汇
 upgrading 升级  
 vendor 供应商  
@@ -408,5 +408,7 @@ Thanks,
 Carol
 ### 写作
 撰写一次谈判的总结。内容可能是你的工作内容、你自己购买的物品或者对本单元电影内容的概括。初步报价是多少？谈判中发生了什么？最终达成了怎样的交易？ 输入到输入框。 写100-150 个词。 该练习不评分。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/2a5d59b8-f882-4eee-b379-12ff4db92603)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/3fec485d-2714-4822-8894-0e9b3b9b787f)
 ## 表达 结束谈判
 ## 最终任务 达成交易
