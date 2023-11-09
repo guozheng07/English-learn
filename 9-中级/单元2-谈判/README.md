@@ -422,4 +422,6 @@ I look forward to building ... 我期待建立……
 I'll be in touch. 我会与你联系。
 ### 句子匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/371451a5-7d0d-4562-ba4a-858887c506c7)
+### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/f01c1305-ab77-44f7-aaca-a91f1bf173ed)
 ## 最终任务 达成交易
