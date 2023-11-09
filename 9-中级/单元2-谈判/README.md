@@ -346,6 +346,8 @@ I want more information. 我需要更多信息。
 Why don't we meet later in the week? 不如我们这周找个时候见一面？
 ### 句子匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/81c6d05d-c143-44de-8c86-68a9e46e5300)
+### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/cd5fc741-9571-477a-8dbb-55387fe7baca)
 ## 最终任务 谈判
 # 4 达成交易
 ## 词汇 付款和交付
