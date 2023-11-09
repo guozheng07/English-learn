@@ -276,7 +276,8 @@ Buy a large quantity, and you can get a bulk discount. 大量购买，就能享�
 
 The best kind of negotiation ends in a win-win situation. That is, both sides feel that the final deal was good for them. There are specific negotiating strategies that can be used. First, separate the people from the negotiations. Don't let emotions and personalities get in the way of an agreement. Second, don't focus too much on preliminary offers. Try to understand what will be good for both sides. Third, work with the other side to find solutions that will lead to a win-win result. Finally, be honest and fair. Look at the facts on both sides. Try following these steps to increase your chances of a win-win result.
 ### 词语匹配
-
+将各种策略与其解释配对。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/03141b50-123a-4fc2-bdbf-e2463b2959cc)
 ## 表达 谈判
 ## 表达 延迟做出决定
 ## 最终任务 谈判
