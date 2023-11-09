@@ -348,8 +348,33 @@ Why don't we meet later in the week? 不如我们这周找个时候见一面？
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/81c6d05d-c143-44de-8c86-68a9e46e5300)
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/cd5fc741-9571-477a-8dbb-55387fe7baca)
+### 录音
+I need more information. Let's meet later in the week. 我需要更多信息。我们一周后再见。
+
+What would you say if we offered 10 percent more? 如果我们报价提高 10%，你觉得怎么样？
+
+I'm afraid we can't go that high. 恐怕我们没法接受那样的高价。
+
+To clarify, you can't give us a discount? 澄清一下，你不能给我们折扣？
+
+Why don't you get back to me later? 你为什么不稍后再和我联系呢？
+
+My counteroffer is 500 per computer. 我的还价是每台电脑 500
+
+I can't confirm this. I'll have to check with my boss. 对此我无法确认。我需要跟老板商量。
 ## 最终任务 谈判
+您办公室需要一个新的计算机系统。您的任务是买50台PX-100的电脑，每台$700，最多付$750。和电脑公司的销售代表Adam Fairbanks谈判，尽可能为公司争取最大的利益。 请听音频并录制 正确的回答。
 # 4 达成交易
+total 合计  
+payment process 支付流程  
+service plan 服务方案  
+invoice 发票  
+standard 标准  
+covers parts and labor 包含零件和人工  
+no charge 免费  
+contract 合同
+
+
 ## 词汇 付款和交付
 ## 表达 总结和确认后续步骤
 ## 表达 结束谈判
