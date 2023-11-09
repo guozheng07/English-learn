@@ -248,6 +248,15 @@ To be more specific, we can't pay that much. 具体来说，我们不能付这�
 你牵头与一个供应商进行谈判，为公司采购笔记本电脑。你想要采购 150 台 CN-450 型，并且可接受每台最高 700 美元的价格。 请听音频并录制 正确的回答。
 # 3 谈判
 ## 词汇 谈判词汇
+preliminary offer 初步报价  
+bulk discount 大宗折扣  
+full price 全价  
+general office laptop 普通办公笔记本电脑  
+accept 接受  
+check with 核实一下  
+finalize 完成
+### 词语匹配
+
 ## 阅读 谈判策略
 ## 表达 谈判
 ## 表达 延迟做出决定
