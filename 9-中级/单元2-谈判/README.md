@@ -376,6 +376,8 @@ no charge 免费
 contract 合同
 ### 词义匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/7a9b0a76-3682-49db-b184-2ab5a182ace7)
+### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/8ff36920-934e-4d14-84bc-9917d1cb9cfa)
 ## 表达 总结和确认后续步骤
 ## 表达 结束谈判
 ## 最终任务 达成交易
