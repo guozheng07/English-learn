@@ -256,7 +256,7 @@ accept 接受
 check with 核实一下  
 finalize 完成
 ### 词语匹配
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/5ad7cf75-620c-4311-8905-397dc03e181a)
 ## 阅读 谈判策略
 ## 表达 谈判
 ## 表达 延迟做出决定
