@@ -424,4 +424,15 @@ I'll be in touch. 我会与你联系。
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/371451a5-7d0d-4562-ba4a-858887c506c7)
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/f01c1305-ab77-44f7-aaca-a91f1bf173ed)
+### 录音
+I look forward to building a strong relationship. 我期待建立牢固的合作关系。
+
+Flexibility on price broke the deadlock. 价格方面的灵活打破了僵局。
+
+I think we're all in agreement. 我想我们意见完全一致。
+
+We'll need to review the contract. 我们需要对合同进行审查。
+
+It's been a pleasure working with you. 非常荣幸与你合作。
 ## 最终任务 达成交易
+你正在就为公司采购笔记本电脑和供应商达成协议。 请听音频并录制 正确的回答。
