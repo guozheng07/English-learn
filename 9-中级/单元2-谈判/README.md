@@ -274,12 +274,77 @@ Buy a large quantity, and you can get a bulk discount. 大量购买，就能享�
 ## 阅读 谈判策略
 **Negotiate to win-win!**
 
-The best kind of negotiation ends in a win-win situation. That is, both sides feel that the final deal was good for them. There are specific negotiating strategies that can be used. First, separate the people from the negotiations. Don't let emotions and personalities get in the way of an agreement. Second, don't focus too much on preliminary offers. Try to understand what will be good for both sides. Third, work with the other side to find solutions that will lead to a win-win result. Finally, be honest and fair. Look at the facts on both sides. Try following these steps to increase your chances of a win-win result.
+The best kind of negotiation ends in a **win-win** situation. That is, both sides feel that the final deal was good for them. There are specific negotiating **strategies** that can be used. First, separate the people from the negotiations. Don't let emotions and **personalities** get in the way of an agreement. Second, don't focus too much on **preliminary offers**. Try to understand what will be good for both sides. Third, work with the other side to find **solutions** that will lead to a win-win result. Finally, be honest and fair. Look at the **facts** on both sides. Try following these steps to increase your chances of a win-win result.
 ### 词语匹配
 将各种策略与其解释配对。
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/03141b50-123a-4fc2-bdbf-e2463b2959cc)
 ## 表达 谈判
+Let's look at your preliminary offer. 让我们来看看一下你的初步报价。
+
+A bulk discount's out of the question. 大宗折扣毫无可能。
+
+Help us out here. 帮我们一把。
+
+I want to work with you. 我希望与你合作。
+
+Here's what I can do. 我可以这样做。
+
+I propose that you not buy ... 我提议你不要购买……
+
+Let me get this straight. 让我把这个弄明白。
+
+So what do you propose we buy? 那你建议我们买什么？
+
+What would you say if I offered ...? 如果我报价……，你觉得怎么样？
+
+I think I'd probably accept. 我觉得我有可能会接受。
+
+谈判中会出现很多讨价还价。用此类表达来谈论报价和提议：
+
+**Your preliminary offer** was much higher than we expected. 你的初步报价远远超出我们的预期。
+
+**I propose that** you buy a different model. 我提议你购买另一种型号。
+
+**What do you propose** that we do?	你建议我们怎么办？
+
+**My offer is** 300 units at $250 each.	我的报价是 300 件，每件 250 美元。
+
+用此类表达来拒绝报价或提议：
+
+**I'm afraid** that price is **out of the question**. 这个价格恐怕毫无可能。
+
+**I'm sorry, but we can't offer** that kind of discount. 抱歉，但是我们无法提供那样的折扣。
+
+**There's just no way we can accept** your offer. 我们完全无法接受你的报价。
+ 	 	 
+用此类表达来还价：
+
+**I have a counteroffer for you. How about** 20%? 我给你还个价。20% 怎么样？
+
+**What would you say if I offered** $500? 如果我报价 500 美元，你觉得怎么样？
+
+**Would you consider** increasing the quantity?	你会考虑增加数量吗？
+### 录音
+Your preliminary offer is not what we expected. 你的初步报价不符合我们的预期
+
+We propose that you give us a 15 percent discount. 我们建议你给 15% 的折扣。
+
+I'm afraid your offer is out of the question. 你的报价恐怕毫无可能。
+
+I'm sorry, but we cannot accept your offer. 抱歉，但是我们不能接受你的报价。
+
+My counteroffer is a bulk discount of 10 percent. 我的还价是 10% 的大宗购买折扣。
+
+Would you consider lowering the price? 你会考虑降低价格吗？
 ## 表达 延迟做出决定
+I can't confirm this today. 今天我无法确认。
+
+I'll have to check with my boss. 我需要向我的老板核实一下。
+
+I want more information. 我需要更多信息。
+
+Why don't we meet later in the week? 不如我们这周找个时候见一面？
+
 ## 最终任务 谈判
 # 4 达成交易
 ## 词汇 付款和交付
