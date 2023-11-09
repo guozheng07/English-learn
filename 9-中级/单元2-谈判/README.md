@@ -379,5 +379,34 @@ contract 合同
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/8ff36920-934e-4d14-84bc-9917d1cb9cfa)
 ## 表达 总结和确认后续步骤
+My boss confirmed that ... 我的老板确认……
+
+Let's take a moment and review ... 我们花时间来回顾……
+
+This is what I have. 我的报价是这样的。
+
+Over the next year, IXW will ... 明年，IXW 将会……
+
+The total of both purchases is ... 两笔采购合计总额为……
+
+That's what I have too. 这也是我能支付的价格
+
+Now, let's talk about the next steps. 现在，我们来谈谈接下来的步骤。
+
+What about the ...? ……怎么样？
+### 阅读
+**Negotiation - summary and next steps**
+
+Hi, Sam.
+
+Just wanted to take a moment and **review** the results of our negotiations. This is what I have: The vendor has **confirmed** that they can deliver 250 laptops at $850 per unit. That's down from the full price of $925. Delivery would be over the next three months. The **total** purchase price is $212,500.
+
+The next **step** is for them to send us the contract. You will need to sign that. Oh, one question: The **standard** service plan is for two years. Are we interested in paying an extra $30 per unit to make that a three-year service plan? Let me know before they write up the **contract**.
+
+Thanks,
+
+Carol
+### 写作
+撰写一次谈判的总结。内容可能是你的工作内容、你自己购买的物品或者对本单元电影内容的概括。初步报价是多少？谈判中发生了什么？最终达成了怎样的交易？ 输入到输入框。 写100-150 个词。 该练习不评分。
 ## 表达 结束谈判
 ## 最终任务 达成交易
