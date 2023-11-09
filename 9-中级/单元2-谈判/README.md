@@ -259,7 +259,24 @@ finalize 完成
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/5ad7cf75-620c-4311-8905-397dc03e181a)
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/37dd2c01-a5b1-4933-98b3-55477bc9d286)
+### 录音
+This general office laptop is basic and dependable. 这台普通办公笔记本电脑是基本型，而且很可靠。
+
+It's unusual to accept a preliminary offer. 接受初步报价的做法很少见。
+
+The full price, without any discount, is $400. 全价为 400 美元，无任何折扣。
+
+I'll need to check with my company before deciding. 我需要跟公司商量，然后才能做决定。
+
+We hope to finalize negotiations next week. 我们希望下周完成谈判。
+
+Buy a large quantity, and you can get a bulk discount. 大量购买，就能享受大宗折扣。
 ## 阅读 谈判策略
+**Negotiate to win-win!**
+
+The best kind of negotiation ends in a win-win situation. That is, both sides feel that the final deal was good for them. There are specific negotiating strategies that can be used. First, separate the people from the negotiations. Don't let emotions and personalities get in the way of an agreement. Second, don't focus too much on preliminary offers. Try to understand what will be good for both sides. Third, work with the other side to find solutions that will lead to a win-win result. Finally, be honest and fair. Look at the facts on both sides. Try following these steps to increase your chances of a win-win result.
+### 词语匹配
+
 ## 表达 谈判
 ## 表达 延迟做出决定
 ## 最终任务 谈判
