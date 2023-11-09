@@ -1,4 +1,4 @@
-![image](https://github.com/guozheng07/English-learn/assets/42236890/ff619599-968a-4a73-8886-b8ebe2f9ec4d)# 1 准备谈判
+# 1 准备谈判
 ## 词汇 商务词汇
 upgrading 升级  
 vendor 供应商  
@@ -411,4 +411,14 @@ Carol
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/cceea4b3-1042-44a9-83d0-b2f96a62f483)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/3fec485d-2714-4822-8894-0e9b3b9b787f)
 ## 表达 结束谈判
+I think that we're all in agreement. 我想我们意见完全一致。
+
+It's been a pleasure working with you. 非常荣幸与你合作。
+
+broke the deadlock 打破僵局
+
+I look forward to building ... 我期待建立……
+
+I'll be in touch. 我会与你联系。
+### 句子匹配
 ## 最终任务 达成交易
