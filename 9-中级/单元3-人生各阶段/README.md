@@ -165,6 +165,32 @@ It **looks like** we'll have to work on the weekend. 看样子我们周末也得
 ### 句子匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/124a6964-8bc9-4c32-a77d-13167b88a255)
 ## 表达 表达怀疑和确定
+Do you ever have any doubts? 你是否有任何怀疑？
+
+No – none at all. 不，完全没有。
+
+I'm completely sure ... 我完全确定……
+
+I'm wondering if ... 我想知道……
+
+I doubt it. 我很怀疑。
+
+You're sure? 你确定吗？
+
+absolutely 绝对地
+### 录音
+I doubt that it's right for me. 我怀疑这对我是否合适。
+
+Do you have any doubts about it? 你对此有什么怀疑吗？
+
+Definitely. I'm positive. 当然。我很肯定。
+
+Sometimes I wonder about my career choice. 有时我对自己的职业选择感到疑惑。
+
+I'm completely comfortable with it. 我能坦然面对。
+
+I'm absolutely sure it's the right thing. 我完全确信这样做没错。
+### 句子分组
 ## 最终任务 讨论你的工作和生活之间的平衡
 # 3 改变生活方式
 ## 词汇 生活方式
