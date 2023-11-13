@@ -20,7 +20,7 @@ I often **get stressed out**. 我经常被压得喘不过气来。
 
 It's a **well-paid job**. 这是一个待遇优厚的工作。
 ### 选词填空
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/56f3d05b-20c4-4546-8b83-aae117ab4926)
 ## 表达 回忆
 ## 语法 过去的习惯行为
 ## 最终任务 以前跟现在
