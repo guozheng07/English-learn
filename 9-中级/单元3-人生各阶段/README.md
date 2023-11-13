@@ -163,6 +163,7 @@ It **seems like** he's been off for a month. 他好像已经休假一个月了�
 
 It **looks like** we'll have to work on the weekend. 看样子我们周末也得上班。
 ### 句子匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/124a6964-8bc9-4c32-a77d-13167b88a255)
 ## 表达 表达怀疑和确定
 ## 最终任务 讨论你的工作和生活之间的平衡
 # 3 改变生活方式
