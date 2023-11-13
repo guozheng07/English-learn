@@ -143,6 +143,26 @@ She's **off next week**. 她下周休假。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/1a2736e8-e208-4cc4-a7f9-d48dd67c83db)
 ## 语法 含有 as if 和 as though 的感官动词
+Frank feels as if there aren't enough hours in the day.
+弗兰克感觉好像每天的时间都不够。
+
+Oscar feels as though there aren't enough in the night.
+奥斯卡感觉好像晚上的时间都不够。
+
+**用感官动词 + as if 或 as though 来谈论你对某个情境的认知**。
+
+I feel **as if** I don't have enough time off. 我觉得好像自己的休假时间不够。
+
+It looks **as though** I'll be compensated well. 似乎我会拿到很不错的工资。
+
+It sounds **as if** you worked a lot of overtime. 听起来好像你经常加班。
+ 	 	 
+在非正式的交谈中，你会听到 **like**，而非 **as if** 或 **as though**。这从技术角度而言不正确，但却很常见。
+
+It **seems like** he's been off for a month. 他好像已经休假一个月了。
+
+It **looks like** we'll have to work on the weekend. 看样子我们周末也得上班。
+### 句子匹配
 ## 表达 表达怀疑和确定
 ## 最终任务 讨论你的工作和生活之间的平衡
 # 3 改变生活方式
