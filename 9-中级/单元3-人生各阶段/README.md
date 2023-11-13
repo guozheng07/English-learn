@@ -138,6 +138,8 @@ Brent gets **New Year's Day off**. 布伦特在元旦节休假。
 
 She's **off next week**. 她下周休假。
 ### 句子分组
+根据句子所指的是工资和工时、假期或问题，对句子进行分组。 移动单词到正确的动词搭配。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/4f2335f0-9ada-4fd7-9a33-d62a2c3ae8cf)
 ## 语法 含有 as if 和 as though 的感官动词
 ## 表达 表达怀疑和确定
 ## 最终任务 讨论你的工作和生活之间的平衡
