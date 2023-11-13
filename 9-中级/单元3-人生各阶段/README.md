@@ -1,5 +1,26 @@
 # 1 事情是如何改变的
 ## 词汇 工作的东西
+**谈论工作问题**
+
+这是一些谈论你的现有工作情形的方式。 	 
+
+I need to **do** lots of **overtime**. 我需要大量的加班。
+
+I **have** a lot of **responsibility**.	我有很多的责任。
+
+I need to **deal with** people's **problems**. 我需要处理人的问题。
+
+There's no time to **work on my own projects**.	没有时间去做我自己的项目。
+
+I **spend** so much **time in meetings**. 我花太多时间开会。
+
+I **get a say in** what we decide. 我在我们决定做什么方面有话语权。
+
+I often **get stressed out**. 我经常被压得喘不过气来。
+
+It's a **well-paid job**. 这是一个待遇优厚的工作。
+### 选词填空
+
 ## 表达 回忆
 ## 语法 过去的习惯行为
 ## 最终任务 以前跟现在
