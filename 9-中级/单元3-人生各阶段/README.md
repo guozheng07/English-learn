@@ -191,6 +191,7 @@ I'm completely comfortable with it. 我能坦然面对。
 
 I'm absolutely sure it's the right thing. 我完全确信这样做没错。
 ### 句子分组
+![image](https://github.com/guozheng07/English-learn/assets/42236890/3ea83d70-a4b8-4250-8c3b-37039e91919c)
 ## 最终任务 讨论你的工作和生活之间的平衡
 # 3 改变生活方式
 ## 词汇 生活方式
