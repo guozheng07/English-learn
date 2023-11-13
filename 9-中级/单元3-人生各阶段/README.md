@@ -120,7 +120,24 @@ She didn't use to work much overtime. 她过去不常加班。
 你正在跟一个朋友谈论你工作上的事情发生了怎样的变化。 请听音频并录制 正确的回答。
 # 2 讨论工作-生活平衡
 ## 词汇 工作
+Something came up. 出了点事。  
+issue 问题  
+right job 合适的工作  
+overtime 加班  
+compensation 薪资  
+time off 休假  
+three weeks off 休假三周  
+career choice 职业选择
 
+**用含有 off 的表达来谈论休假和假期**：
+
+A: Are you **taking any time off**?	你要休假吗？
+B: Yes. I **have a week off** in May. 是的。我五月份休假一周。
+ 	 	 
+Brent gets **New Year's Day off**. 布伦特在元旦节休假。
+
+She's **off next week**. 她下周休假。
+### 句子分组
 ## 语法 含有 as if 和 as though 的感官动词
 ## 表达 表达怀疑和确定
 ## 最终任务 讨论你的工作和生活之间的平衡
