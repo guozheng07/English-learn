@@ -271,6 +271,7 @@ I think **it's getting harder and harder** to make time for myself.	我认为越
 
 I **haven't gotten** to the gym **in ages**. 我好久没有去健身房了。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/10b7e275-3d05-41c8-88d0-e5841ea47dc1)
 ## 最终任务 改变生活的方式
 # 4 讨论将来的计划
 ## 词汇 生活变化
