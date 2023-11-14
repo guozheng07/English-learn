@@ -274,7 +274,18 @@ I **haven't gotten** to the gym **in ages**. 我好久没有去健身房了。
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/10b7e275-3d05-41c8-88d0-e5841ea47dc1)
 ### 对话
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/c24377e1-4f13-4942-a5ec-18d4e2959d08)
+### 录音
+It's harder and harder to make time for myself. 越来越难找出时间给自己了。
+
+I find myself spending more time chilling out. 我发现我自己花更多的时间放松。
+
+I'm noticing that I don't have much free time. 我注意到我没有太多的空闲时间。
+
+I haven't met up with any of my friends in ages. 我好久没有见任何我的朋友了。
+
+I'm struggling to find time to get to the gym. 我很难找时间去健身房。
 ## 最终任务 改变生活的方式
+你正在讨论生活中的变化。 看到空白时给出个人意见。 请听音频并录制 正确的回答。
 # 4 讨论将来的计划
 ## 词汇 生活变化
 ## 语法 未来
