@@ -288,6 +288,26 @@ I'm struggling to find time to get to the gym. 我很难找时间去健身房。
 你正在讨论生活中的变化。 看到空白时给出个人意见。 请听音频并录制 正确的回答。
 # 4 讨论将来的计划
 ## 词汇 生活变化
+当谈论我们未来的计划时，我们可能会指代我们希望保持不变的东西。
+
+I'd like to **keep doing the same thing**. 我想继续做同样的事情。
+
+I'm pretty **happy with what I'm doing**. 我很高兴做我正在做的事情。
+
+I'd like to **stay in the same** industry. 我想留在同行业中。
+
+I **have no plans to** make a change for now. 我没有计划要改变现在。
+
+我们也可能谈论我们希望改变的事情。
+
+I wouldn't mind **a change** in my career path.	我不介意我的职业道路有所变化。
+
+I'd like to **move back to** the north.	我想搬回到北部。
+
+I want to **live nearer to** my family.	我想住得离我的家人近些。
+
+It'd be great to **spend more time with** the kids.	多花些时间和孩子在一起会是很棒的。
+### 选词填空
 ## 语法 未来
 ## 阅读 我的将来会是怎样
 ## 最终任务 未来的想法
