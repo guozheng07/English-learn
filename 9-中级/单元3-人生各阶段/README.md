@@ -369,4 +369,18 @@ It'd be great if I found a new job. 如果我找到一个新的工作将是很�
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/db6a259e-c4b7-4648-87f5-ed9357fe2abf)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/95fb78c2-b26a-4bcf-a2b6-dd41be660051)
 ### 阅读
+阅读克雷格在一个名叫“为将来投资”的网络论坛上发表的帖子
+
+**Invest in Your Future**
+
+MoneyMan
+
+Location: Seattle
+
+Forum posts: 157
+
+7:43 p.m.
+
+I'm feeling optimistic about my future. We've just met with a financial planner. We're setting up a college fund for our children, and I'm trying to build my investments. By the time I turn 35, I'll have started my own energy business. Before my kids graduate from college, I'll have doubled my profits. Hopefully, my investments will have performed even better than the expected 6% per year. Then my wife and I can travel around the world, even though the price of flights will have increased by 200%. By 2050, we'll have retired and bought a vacation home on Yellow Sands Island. Everything should be okay financially, so my primary concern will be for our health and the health of our environment.
 ## 最终任务 未来的想法
+你正和朋友谈论未来。当你看到空白处时，说出你的感受。 请听音频并录制 正确的回答。
