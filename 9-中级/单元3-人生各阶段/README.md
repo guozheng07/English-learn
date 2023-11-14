@@ -308,6 +308,7 @@ I want to **live nearer to** my family.	我想住得离我的家人近些。
 
 It'd be great to **spend more time with** the kids.	多花些时间和孩子在一起会是很棒的。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/64d77a56-88ce-47af-afc5-71db423fb08b)
 ## 语法 未来
 ## 阅读 我的将来会是怎样
 ## 最终任务 未来的想法
