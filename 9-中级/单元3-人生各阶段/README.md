@@ -198,6 +198,26 @@ I'm absolutely sure it's the right thing. 我完全确信这样做没错。
 现在是星期五晚上，你正在一位朋友家里。你们俩都很沮丧，因为你们都长时间工作。但是，你在今年夏天就有一次假期。 请听音频并录制 正确的回答
 # 3 改变生活方式
 ## 词汇 生活方式
+这是一些描述许多人典型习惯行为的单词和短语。	 
+
+I'm **on the go** all day. 我整天都很忙碌。
+
+I usually just **grab fast food** on my way home. 我通常只是在回家的路上吃点快餐。
+
+I **get to the gym** as often as I can.	我尽可能多的去健身房。
+
+I don't **meet up with** friends so often. 我不经常和朋友见面。
+
+You've got to **make time for** something you enjoy. 你得腾出时间做自己喜欢的事情。
+
+I **stay in** most nights. 大多数晚上我呆在家里。
+
+I try to **chill out** in the evenings.	我晚上试着放松。
+
+I **meet people for brunch** on the weekend. 周末我约人吃早午饭。
+
+I try to **keep in touch with** my friends.	我试着和我的朋友们保持联系。
+### 文本匹配
 ## 阅读 全球老龄化人口
 ## 表达 变化的情况
 ## 最终任务 改变生活的方式
