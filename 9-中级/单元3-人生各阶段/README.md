@@ -365,4 +365,8 @@ In May, I'll have been here for a year. 到五月，我就会在这做满一年�
 It'd be great if I found a new job. 如果我找到一个新的工作将是很棒的。
 ## 阅读 我的将来会是怎样
 你即将阅读某个网络公共论坛上的一篇帖子。该论坛的主题是财务规划。 选择正确的图片。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/1ca862ec-e59d-4771-82f6-52963a6d5181)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/db6a259e-c4b7-4648-87f5-ed9357fe2abf)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/95fb78c2-b26a-4bcf-a2b6-dd41be660051)
+### 阅读
 ## 最终任务 未来的想法
