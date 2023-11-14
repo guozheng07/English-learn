@@ -218,6 +218,7 @@ I **meet people for brunch** on the weekend. 周末我约人吃早午饭。
 
 I try to **keep in touch with** my friends.	我试着和我的朋友们保持联系。
 ### 文本匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/67482543-9c23-4725-99b8-1bce0373fd0e)
 ## 阅读 全球老龄化人口
 ## 表达 变化的情况
 ## 最终任务 改变生活的方式
