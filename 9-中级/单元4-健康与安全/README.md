@@ -145,6 +145,15 @@ I'd really like to help you, but I can't. 我很想帮忙，可帮不了。
 您在当地社区的一个室外游泳池帮忙。一个人让你解释一些规则和规律。尽可能地礼貌帮助他，同时确保清楚地解释这些规则。 请听音频并录制 正确的回答。
 # 2 报告受伤
 ## 词汇 受伤和急救
+first-aid kit 急救箱  
+antiseptic 消毒剂   
+sting 刺痛  
+blood 血液  
+bandage 绷带  
+sore 疼痛  
+company policy 公司政策  
+infected 被感染的
+### 词图匹配
 ## 语法 复习：反身代词
 ## 表达 坚持
 ## 最终任务 报告受伤
