@@ -154,6 +154,8 @@ sore 疼痛
 company policy 公司政策  
 infected 被感染的
 ### 词图匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/8553b8db-a202-48d8-b9b6-6136559c959f)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/09317b38-67cb-4354-97bc-1a622329a905)
 ## 语法 复习：反身代词
 ## 表达 坚持
 ## 最终任务 报告受伤
