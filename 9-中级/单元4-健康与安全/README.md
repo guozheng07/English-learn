@@ -188,6 +188,12 @@ The boss asked to speak to me **himself**. It was then I knew I was in trouble.	
 在表格中填入正确的单数和复数反身代词。 请在空格中输入正确的答案。
 Example: She cut herself.
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/a7f3835f-95ed-4a02-9dc9-34d02088f3d9)
+### 单词排序
+How did you hurt yourself?
+
+They hurt themselves playing football.
+
+He cut himself with a knife.
 ## 表达 坚持
 ## 最终任务 报告受伤
 # 3 讨论工作场所安全
