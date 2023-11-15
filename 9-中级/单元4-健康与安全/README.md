@@ -40,6 +40,7 @@ Riding a motorcycle without a helmet **is prohibited by law**. 法律禁止骑�
 Use of cellphones during the flight **is not permitted**. 飞行中不得使用手机。
 ### 阅读
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/c3bd8926-8958-4188-be92-b66efe2c2f7f)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/24646941-1a7e-47bc-a7a8-bd4c7d17fc46)
 ## 表达 谈论规章制度
 ## 表达 礼貌地拒绝请求
 ## 最终任务 解释规章制度
