@@ -195,7 +195,62 @@ They hurt themselves playing football.
 
 He cut himself with a knife.
 ## 表达 坚持
+Actually, it's company policy. 其实这是公司的政策。
+
+Company policy is very clear on this. 公司政策对此非常明确。
+
+What if it becomes infected? 假如感染了怎么办？
+
+I think it'll be okay. 我认为没事。
+
+Let's not take any chances. 不要心存侥幸。
+
+I suppose you're right. 我想你是对的。
+
+有时人们伤到自己时，不希望他人大惊小怪。他们可能会说：
+
+Don't worry. **I'm fine**. 别担心。我没事。
+
+**It's not that serious**. I don't need to see a doctor. 没有那么严重。我不用看医生。
+
+Honestly, **I can take care of myself**. 真的，我能照顾好自己。
+
+尽管有这些安慰性的话语，但他人仍然可能坚持采取行动：
+
+**It's company policy that** you go to the emergency room. 公司政策规定你应该去急诊室。
+
+**I really must insist that** you see a doctor.	我真的认为你必须去看医生。
+
+**Don't be foolish. You have to** take care of that. 不要犯傻。你必须去治疗。
+
+最后，受伤的人可能会改变主意：
+
+I suppose you're right.	我想你是对的。
+### 选词填空
+PAM: Are you still sick?  
+EDDIE: Yeah, but don't **worry** . I'm fine.  
+PAM: How long have you been feeling bad?  
+EDDIE: I don't know. About a week, I guess.  
+PAM: You **need** to see a doctor.  
+EDDIE: It's not that **serious** .  
+PAM: Listen, Eddie – I'm your friend, and I **insist** that you see a doctor.  
+EDDIE: Honestly, I can take care of myself.  
+PAM: Don't be **foolish** . You have to find out what's wrong. It could be serious.  
+EDDIE: Okay. I **suppose** you're right.
+### 录音
+I can take care of it myself. 我自己能够搞定。
+
+It's really not that serious. 真的没有那么严重。
+
+It's company policy that you see a doctor. 公司政策规定你应该去看医生。
+
+Let's not take any chances. 不要心存侥幸。
+
+It's better to be safe than sorry. 与其后悔，不如安全一点。
+
+I suppose you're right. 我想你是对的。
 ## 最终任务 报告受伤
+你在办公室茶水间摔倒，伤到了手和手腕。伤情并不严重，你不希望小题大做。你的老板向你询问伤情。 请听音频并录制 正确的回答。
 # 3 讨论工作场所安全
 ## 词汇 工作场所健康词汇
 ## 阅读 职业健康与安全
