@@ -43,6 +43,7 @@ Use of cellphones during the flight **is not permitted**. 飞行中不得使用�
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/24646941-1a7e-47bc-a7a8-bd4c7d17fc46)
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/ff1daf24-253a-42aa-a3d5-cb984fe84c07)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/8bd8ae95-2b33-4b05-8bf8-f68173aa4642)
 ## 表达 谈论规章制度
 ## 表达 礼貌地拒绝请求
 ## 最终任务 解释规章制度
