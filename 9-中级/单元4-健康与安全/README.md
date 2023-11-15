@@ -156,7 +156,35 @@ infected 被感染的
 ### 词图匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/8553b8db-a202-48d8-b9b6-6136559c959f)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/09317b38-67cb-4354-97bc-1a622329a905)
+### 选词填空
+It's company **policy** that there's a first-aid kit in every kitchen and bathroom.
+
+Sorry, but it's going to **sting** when I put on the antiseptic.
+
+My leg is feeling better, but it's still a little **sore** .
+
+Make sure to use antiseptic so the cut doesn't get **infected**.
 ## 语法 复习：反身代词
+I just cut myself! 我刚割伤了自己！
+
+She cut herself. 她割伤了自己。
+
+用反身代词谈论主语和宾语相同时的动作。反身代词通过给代词添加 -self 或 -selves 等后缀构成。
+
+I cut **myself** making a bagel. 我做百吉饼时割伤了自己。
+
+He cut **himself** in the kitchen. 他在厨房切伤了自己。
+
+They bandaged **themselves** after the accident. 他们在事故后自行用绷带包扎。
+
+How did you hurt **yourself**? 你怎么伤到自己的？
+
+**你还可用反身代词来表示强调**。
+
+I'm not going to help you. Do it **yourself**. 我不会帮你的。自己动手吧。
+
+The boss asked to speak to me **himself**. It was then I knew I was in trouble.	老板要亲自跟我谈。那时候我才知道自己惹麻烦了。
+### 反身代词单复数
 ## 表达 坚持
 ## 最终任务 报告受伤
 # 3 讨论工作场所安全
