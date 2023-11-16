@@ -351,6 +351,7 @@ procedure 程序
 mentor 导师  
 observing 观察
 ### 词义匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/8359304b-5ad4-4ac4-b728-1bdbe4108cd2)
 ## 语法 现在完成时的被动语态
 ## 表达 批评和抱怨
 ## 阅读 全球各地的法律
