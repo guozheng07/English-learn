@@ -352,7 +352,53 @@ mentor 导师
 observing 观察
 ### 词义匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/8359304b-5ad4-4ac4-b728-1bdbe4108cd2)
+### 阅读
+**Rules, rules, rules**
+
+Dear Health Inspector,
+
+I just read your report on our coffee shop. I think it's outrageous. You must only have spent maybe 30 minutes observing us, and then you compile a terrible report. A score of six? Really? I'll probably lose my job for this, you know.
+
+You even claimed one of my employees, Karen, was using dirty cups. Untrue! She's a new employee. I am her mentor, I observe everything she does, and she does NOT use dirty cups. Furthermore, you stated that we do nothing to protect the customers from coffee that's too hot. We always ask our customers how hot they want their coffee. I really don't understand why you were so critical.
+
+I demand a review. Our coffee shop is not a six. Our coffee shop is a 10! And we have hundreds of happy customers who would agree with that.
+
+Dan Heath
+
+Manager, Downtown Coffee
+### 录音
+There's a procedure for everything these days. 如今一切都有一套程序。
+
+The rules are there to protect the tenants. 规则的作用是保护承租人。
+
+Fifty dollars for a parking permit? That's outrageous! 停车许可证要五十美元？太离谱了！
+
+Furthermore, you will need to purchase a key. 此外，你需要购买一把钥匙。
+
+The health inspector put warnings all around the pool. 卫生检查员在水池周围放满了警告标志。
+
+Health and safety procedures are there to protect us. 卫生和安全程序的目的是保护我们。
 ## 语法 现在完成时的被动语态
+Beautiful plants have been planted in the backyard. 后院里栽种了许多美丽的植物。
+
+All the flowers have been destroyed. 所有的花都被毁了。
+
+**你可使用现在完成时的被动语态来谈论过去的动作，或者对现在有影响的事件**。
+
+New regulations **have been announced by** the government. 新规定已经被政府宣布。
+
+The report **has been compiled by** a safety expert. 这份报告是由一名安全专家编写的。
+
+A decision **has been made by** the local council. 一项决定已在当地议会做出。
+
+记住，**我们通常在动作的宾语比主动者（换言之，实施该动作的人或事物）更重要时使用被动语态**。实际上，主动者有时可以完全省略。
+
+New regulations **have been announced**. 新规定已经被宣布。
+
+The report **has been compiled**. 报告已编写完成。
+
+A decision **has been made**. 决定已经做出。
+### 词语填空
 ## 表达 批评和抱怨
 ## 阅读 全球各地的法律
 ## 最终任务 就安全法规提出您的意见
