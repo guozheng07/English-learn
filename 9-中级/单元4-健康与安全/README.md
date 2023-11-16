@@ -407,5 +407,33 @@ A decision **has been made**. 决定已经做出。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/033dfcf8-3f5a-4f0d-a5db-aef45f270636)
 ## 表达 批评和抱怨
+That's outrageous! 太离谱了！
+
+I'm sick and tired of ... 我真是烦透了……
+
+It's a waste of time and energy. 完全是浪费时间和精力。
+
+I've had it up to here. 我忍无可忍了。
+
+My mentor's always correcting me. 我的导师总是在纠正我。
+
+I'm fed up with it. 我受够了。
+
+I just had to let off some steam. 我必须发泄一下。
+### 录音
+It's a waste of time and energy. 完全是浪费时间和精力。
+
+That's outrageous! 太离谱了！
+
+I'm sick and tired of it. 我真是烦透了。
+
+I've had it up to here. 我忍无可忍了。
+
+I have to let off some steam. 我必须发泄一下。
+
+I'm fed up with it. 我受够了。
+
+He is always correcting me. 他总是在纠正我。
+### 文本匹配
 ## 阅读 全球各地的法律
 ## 最终任务 就安全法规提出您的意见
