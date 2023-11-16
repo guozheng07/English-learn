@@ -325,7 +325,20 @@ She demanded safer procedures for ... 她要求针对……制定更安全的程
 **He strongly advised that** we have regular evacuation drills.	他强烈建议我们开展定期的疏散演习。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/f5f4d125-708b-4e35-8f00-080efb652734)
+### 录音
+It's better to be safe than sorry. 与其后悔，不如安全一点。
+
+What were the final recommendations? 最终建议是什么？
+
+Have they demanded safer procedures? 他们是否要求提供更安全的程序？
+
+What other advice did she have? 她还提出了哪些其他建议？
+
+He said the floor was too slippery. 他说地板太滑了。
+
+I think that's a pretty good recommendation. 我认为这个建议非常不错。
 ## 最终任务 讨论工作场所安全
+你和一名同事正在讨论一名健康和安全专家的最终报告，该专家最近对你们的工作场所进行了检查。 请听音频并录制 正确的回答。
 # 4 就安全法律提供意见
 ## 词汇 规则词汇
 ## 语法 现在完成时的被动语态
