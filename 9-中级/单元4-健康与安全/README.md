@@ -435,5 +435,6 @@ I'm fed up with it. 我受够了。
 
 He is always correcting me. 他总是在纠正我。
 ### 文本匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/1bbc0fb7-b00b-48cc-9b43-7985448869ad)
 ## 阅读 全球各地的法律
 ## 最终任务 就安全法规提出您的意见
