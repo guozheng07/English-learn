@@ -436,5 +436,34 @@ I'm fed up with it. 我受够了。
 He is always correcting me. 他总是在纠正我。
 ### 文本匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/1bbc0fb7-b00b-48cc-9b43-7985448869ad)
+### 选词填空
+BILL: What's the matter, Patsy?  
+PATSY: Oh. Hey, Bill. Well, it's just the boss is always correcting me. No matter what I do. I'm **sick and tired of it** .  
+BILL: I know what you mean. The rules and regulations change so often, I'm totally confused.  
+PATSY: So, I worked late last night to finish a project. I think I left here around 8:15. Then, this morning, the boss tells me I broke an office rule by working after 8!  
+BILL: **That's outrageous** ! You were finishing a project!  
+PATSY: I know! I am so **fed up with** this place.  
+BILL: Me, too. I've **had it up to here** .  
+PATSY: Hey, all this complaining is a **waste of time** and energy. It's Friday. Let's leave a bit early. Go **let off some steam** .  
+BILL: I hear you! I know a great place just down the street.  
+PATSY: So let's go!  
+BILL: Uh, what time is it?  
+PATSY: Five fifty-five.  
+BILL: Well, at least you won't get in trouble for leaving too late tonight.
 ## 阅读 全球各地的法律
+### 阅读
+Australia has some of the **strictest** laws in the world regarding the use of cellphones while driving. It is **prohibited to** talk, text, play games, or take photos or videos. In general, you can't use your phone at all while driving. It's **also illegal** to use your phone when the car is stopped, unless you are in a parking space. What that means is, for example, you can't use your phone at a red light. Drivers who **break** these laws have to pay an expensive **fine**, and they also have to pay more for their car **insurance**.
+### 录音
+I don't think that's fair. I feel powerless. 我不认为那是公平的。我感到无能为力。
+
+Some people abuse privileges. 一些人滥用特权。
+
+We shouldn't all be punished. 我们所有人不应该都被惩罚。
+
+I think some of the new policies are excessive. 我认为有些新的政策过分。
+
+I'm really disappointed with the new policy. 我对新政策感到很失望。
+
+I don't think there's much we can do. 我不认为有很多是我们能做的。
 ## 最终任务 就安全法规提出您的意见
+你正在与同事讨论新的工作场所安全的政策。 认真听，然后录下正确的回答。
