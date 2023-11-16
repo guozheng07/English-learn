@@ -324,6 +324,7 @@ She demanded safer procedures for ... 她要求针对……制定更安全的程
 
 **He strongly advised that** we have regular evacuation drills.	他强烈建议我们开展定期的疏散演习。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/f5f4d125-708b-4e35-8f00-080efb652734)
 ## 最终任务 讨论工作场所安全
 # 4 就安全法律提供意见
 ## 词汇 规则词汇
