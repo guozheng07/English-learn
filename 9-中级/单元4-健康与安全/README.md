@@ -298,6 +298,32 @@ No place is completely safe, and that includes the workplace. Here are a few thi
 ### 词语匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/334c1927-03da-4702-a73e-1a2c5587400a)
 ## 表达 讨论推荐
+What were the recommendations? 有什么建议？
+
+She said we needed ... 她说我们需要……
+
+She strongly advised ... 她强烈建议……
+
+She also recommended ... 她还建议……
+
+She demanded safer procedures for ... 她要求针对……制定更安全的程序
+
+用此类表达来询问推荐：
+
+**What were the** final recommendations? 最终建议是什么？
+
+**Have they demanded** new workplace regulations? 他们有没有要求制定新的工作场所规定？
+
+用此类表达来转述推荐：
+
+**First, the expert said we needed** to improve the workplace environment. 首先，专家认为我们需要改善工作场所的环境。
+
+**He said we have to** do something about the bathroom floor. It's too slippery. 他说浴室地板太滑了，我们得采取一点措施。
+
+**He also recommended that** we purchase new first-aid kits. 他还建议我们购买新的急救箱。
+
+**He strongly advised that** we have regular evacuation drills.	他强烈建议我们开展定期的疏散演习。
+### 选词填空
 ## 最终任务 讨论工作场所安全
 # 4 就安全法律提供意见
 ## 词汇 规则词汇
