@@ -404,6 +404,8 @@ A decision **has been made**. 决定已经做出。
 ### 选词填空
 选择现在完成时被动语态的正确形式
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/1df525ef-dc81-4b11-acde-feb2786c0e07)
+### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/033dfcf8-3f5a-4f0d-a5db-aef45f270636)
 ## 表达 批评和抱怨
 ## 阅读 全球各地的法律
 ## 最终任务 就安全法规提出您的意见
