@@ -399,6 +399,8 @@ The report **has been compiled**. 报告已编写完成。
 
 A decision **has been made**. 决定已经做出。
 ### 词语填空
+用动词的过去分词形式填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/8031a96e-b492-449e-a458-509ba6b25664)
 ## 表达 批评和抱怨
 ## 阅读 全球各地的法律
 ## 最终任务 就安全法规提出您的意见
