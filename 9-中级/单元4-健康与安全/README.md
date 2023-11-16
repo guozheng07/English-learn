@@ -263,6 +263,16 @@ carpet 地毯
 fire extinguishers 灭火器  
 ergonomic 人体工学  
 You'll be hearing from my lawyer. 我的律师会与你联系。
+### 词图匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/9fce36fb-50c1-422c-84b5-2bd897983ff1)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/827e6465-3130-40b1-b6a9-3badc0ef1727)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/630a24c6-67cb-446d-a6f0-a5dc789ed9c0)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/62d9a9a5-134a-46e3-be35-a49b3826983c)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/f8a78cd0-b7c0-4035-b26f-99d06a64343a)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/72f827f2-9ae7-4146-a209-e35d83203a7a)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/d62dfc01-3be6-41cd-8335-cb001a924fe3)
+### 词义匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/bb9bc179-66b3-465d-8430-ffe0aa85b74e)
 ### 录音
 ## 阅读 职业健康与安全
 ## 表达 讨论推荐
