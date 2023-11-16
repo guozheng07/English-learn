@@ -296,6 +296,7 @@ No place is completely safe, and that includes the workplace. Here are a few thi
 - Use ergonomic equipment. This can help **avoid injuries** from typing or sitting too long.
 - If something at work makes you feel unsafe or unhealthy, report it to your manager.
 ### 词语匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/334c1927-03da-4702-a73e-1a2c5587400a)
 ## 表达 讨论推荐
 ## 最终任务 讨论工作场所安全
 # 4 就安全法律提供意见
