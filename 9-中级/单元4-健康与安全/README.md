@@ -341,6 +341,16 @@ I think that's a pretty good recommendation. 我认为这个建议非常不错�
 你和一名同事正在讨论一名健康和安全专家的最终报告，该专家最近对你们的工作场所进行了检查。 请听音频并录制 正确的回答。
 # 4 就安全法律提供意见
 ## 词汇 规则词汇
+tenant 承租人  
+furthermore 此外  
+permit 许可证  
+outrageous 过高的  
+health inspector 卫生检查员  
+protect 保护  
+procedure 程序  
+mentor 导师  
+observing 观察
+### 词义匹配
 ## 语法 现在完成时的被动语态
 ## 表达 批评和抱怨
 ## 阅读 全球各地的法律
