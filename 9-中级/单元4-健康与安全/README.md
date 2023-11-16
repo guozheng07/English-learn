@@ -274,7 +274,28 @@ You'll be hearing from my lawyer. 我的律师会与你联系。
 ### 词义匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/bb9bc179-66b3-465d-8430-ffe0aa85b74e)
 ### 录音
+Ergonomic chairs can help to avoid back injuries. 人体工学座椅有助于避免背部受伤。
+
+We have compiled a report on workplace safety. 我们编写了一份有关工作场所安全的报告。
+
+It's illegal to not have fire extinguishers. 不配备灭火器是违法的。
+
+She contacted a lawyer after her injury at work. 因工受伤后，她联系了一名律师。
+
+The boss insists on evacuation drills every month. 老板坚持每个月都要开展疏散演习。
+
+The safety expert recommended new carpet. 安全专家推荐了新的地毯。
 ## 阅读 职业健康与安全
+### 阅读
+**Health and safety at work**
+
+No place is completely safe, and that includes the workplace. Here are a few things you can do at work to stay safe and healthy.
+- Don't go to work sick. If a colleague is sick at work, **avoid contact** with them. Perhaps you can even ask them to go home.
+- In case of fire, know where the **fire extinguishers** are and how to use them. Also, know where the emergency exits are, and how to **safely evacuate** the building.
+- Make sure there are **first-aid kits** in the workplace. If someone is injured, they might need immediate care.
+- Use ergonomic equipment. This can help **avoid injuries** from typing or sitting too long.
+- If something at work makes you feel unsafe or unhealthy, report it to your manager.
+### 词语匹配
 ## 表达 讨论推荐
 ## 最终任务 讨论工作场所安全
 # 4 就安全法律提供意见
