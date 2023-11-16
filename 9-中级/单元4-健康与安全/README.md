@@ -253,6 +253,17 @@ I suppose you're right. 我想你是对的。
 你在办公室茶水间摔倒，伤到了手和手腕。伤情并不严重，你不希望小题大做。你的老板向你询问伤情。 请听音频并录制 正确的回答。
 # 3 讨论工作场所安全
 ## 词汇 工作场所健康词汇
+safety expert 安全专家  
+compile a report 编写一份报告  
+workplace safety 工作场所安全  
+avoid 避免  
+injuries 受伤  
+evacuation drills 疏散演习  
+carpet 地毯  
+fire extinguishers 灭火器  
+ergonomic 人体工学  
+You'll be hearing from my lawyer. 我的律师会与你联系。
+### 录音
 ## 阅读 职业健康与安全
 ## 表达 讨论推荐
 ## 最终任务 讨论工作场所安全
