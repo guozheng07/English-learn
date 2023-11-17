@@ -191,7 +191,24 @@ A: So, Red Line to Ninth, north on Ninth to Main? 那么，红线到第九街，
 B: No, south on Ninth. 不，在第九街上向南。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/90b8d899-a6a5-4819-b45e-7c9b73463e4e)
+### 录音
+Can you tell me how to get to the hotel? 你能告诉我怎么去酒店吗？
+
+Do you know the address? 你知道地址吗？
+
+I'm trying to get to Main Avenue and Ninth Street. 我正试着去主道和第九街。
+
+No problem. I can direct you. 没问题。我可以给你指路。
+
+Go downstairs and take the Red Line. 下楼乘坐红线。
+
+Get off at Ninth Street. 在第九街下车。
+
+Walk south on Ninth to Main Street. 在第九街向南走直到主道。
+
+Was it south or north to Main Street? 到主街向南还是向北啊?
 ## 最终任务 问路
+你刚到一个新的城市。问地铁工作人员如何到你的宾馆。 认真听，然后录下正确的回答。
 # 3 度过在办公室的第一天
 ## 表达 办公室的第一天
 ## 语法 参观办公室
