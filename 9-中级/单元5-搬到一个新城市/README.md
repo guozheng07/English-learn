@@ -128,7 +128,20 @@ The subway stop is **on the corner of** Second and Oak Street. 地铁站在第�
 The building is **facing** the park. 这个建筑面向公园。
 
 Your hotel is **between** a restaurant and a theater. 你的酒店在一个饭店和剧院之间。
-### 单词排序
+### 单词排列
+![image](https://github.com/guozheng07/English-learn/assets/42236890/ab8d6042-4c5c-4a16-858c-e3cda99db722)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/d3395fe0-3adc-4afe-bc0d-4e65d3041855)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/f3feab62-f656-453a-80b8-02476d252df9)
+### 看图问答
+看地图上的位置。 完成句子。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/55409c99-96f1-4dd2-9bf2-6d669b45be7a)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/7ec2e393-ea05-4c0c-b1d5-4478fa8dbbb2)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/b9892f89-1bc3-4f6b-91f2-cf14f36a5d90)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/4caa4595-4667-42e4-bd57-f46ffb1e0559)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/94167035-222a-476f-a939-32f046c576d7)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/4d75091a-a295-4ad8-b720-57b65773a149)
+### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/df467f01-ac78-4116-80bf-585964f0549a)
 ## 阅读 看地图
 ## 表达 方向
 ## 最终任务 问路
