@@ -117,6 +117,18 @@ What are the best residential areas for renting? 最好的出租用住宅地区�
 你的公司要调你到波士顿。一个同事给你打电话提供些信息。 认真听，然后录下正确的回答。
 # 2 找到路
 ## 表达 位置
+用这些表达方式来谈论位置：
+
+The downtown area of the city is **on the other side of** the river. 城市的市中心区域在河的另一边。
+
+Our office is **diagonally across from** the park. 我们的办公室在公园的斜对面。
+
+The subway stop is **on the corner of** Second and Oak Street. 地铁站在第二街和橡树街的交叉口。
+
+The building is **facing** the park. 这个建筑面向公园。
+
+Your hotel is **between** a restaurant and a theater. 你的酒店在一个饭店和剧院之间。
+### 单词排序
 ## 阅读 看地图
 ## 表达 方向
 ## 最终任务 问路
