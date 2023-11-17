@@ -142,7 +142,31 @@ Your hotel is **between** a restaurant and a theater. 你的酒店在一个饭�
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/4d75091a-a295-4ad8-b720-57b65773a149)
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/df467f01-ac78-4116-80bf-585964f0549a)
+### 录音
+Downtown is on the other side of the river. 市中心在河的另一边。
+
+Your hotel is between a bar and a theater. 你的酒店在一间酒吧和剧院之间。
+
+The subway is on the corner of First and Oak. 地铁在第一和橡树的交叉口。
+
+The building is facing the park. 这个建筑面向公园。
+
+Our office is diagonally across from the park. 我们的办公室在公园的斜对面。
 ## 阅读 看地图
+**指南针方向**
+ 
+记住四个指南针方向是north (N), south (S), east (E) 和 west (W)。这四个单词在给出位置和指路时是常用的。
+ 	 
+The airport is **on the north side of** the city. 飞机场在城市的北侧。
+
+The park is **south of** Oak Street. 公园在橡树街的南侧。
+
+**Go west** on Second Avenue for three blocks. 在第二大道向西走三个街区。
+
+Do I **go east or west** on Main Street? 我在主街上向东走还是向西走？
+### 阅读
+再看一遍前面你见到的社区的地图。 地图的上面是北方。右侧是东方。左侧是西方。地图的下面是南方。描述的是什么地方？ 请选择正确的答案。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/55409c99-96f1-4dd2-9bf2-6d669b45be7a)
 ## 表达 方向
 ## 最终任务 问路
 # 3 度过在办公室的第一天
