@@ -62,7 +62,59 @@ We visited **a** wonderful museum on the weekend. **The** museum is famous for i
 ### 冠词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/0cfc1b8d-167b-4d75-8297-9224bb5232ad)
 ## 表达 城市信息
+**询问关于一个城市的信息**
+ 
+用像这样的问题来询问关于一个城市的信息。
+
+A: So **what is** Barcelona **like**? 那么巴塞罗那是什么样的呢？  
+B: It's an incredible city. 它是一个令人难以置信的城市。
+ 	 	 
+A: **What are the best areas for** renting apartments? 租公寓最好的地区是哪里？  
+B: You should look in the north, where it's cheaper. 你应该看一下北面，那里便宜些。 
+
+A: **Where is the** office **located**? 办公室位于哪里？
+B: It's right downtown in the financial district. 它正好在市中心的金融区。
+
+用像这样的回应来评论城市的特色。
+
+A: There are museums and a symphony. 有博物馆和交响乐。  
+B: **Sounds like** there's a very good quality of life. 听起来好像生活质量非常好。
+ 	 	 
+A: You can easily get by without a car. 没有车你可以轻松出行。  
+B: I'm so **relieved to hear that**. 听到那个消息我松了一口气。
+ 	
+A: Housing is so expensive. You'll need a roommate. 房屋这么贵你需要一个室友。
+B: That **sounds reasonable**. I'm **open to anything**. 那听起来很合理。我接受任何建议。
+### 选词填空
+MAN: Well, a historic city like that is very popular with tourists, so apartments are extremely expensive. You might want to look at **residential** areas far away from the city center.
+
+WOMAN: That's **good to** know, but my office is right in the center of things.
+
+MAN: Don't worry. Paris is known for its great public transportation. You won't need a car.
+
+WOMAN: I'm so **relieved to hear** that. Where I'm living now, I can't imagine life without a car.
+
+MAN: And I don't want to scare you, but you will be **shocked** by the rents. You might want to consider getting a roommate.
+
+WOMAN: That sounds **reasonable** . I'm open to anything.
+
+MAN: And despite the rents, it's a very livable city. People walk everywhere, and there's always so much to do. The museums are incredible and the food – well, you know, just wonderful.
+
+WOMAN: It sounds **like** a really great quality of life.
+### 录音
+It's located downtown in the financial district. 它位于市中心的金融区。
+
+That sounds reasonable. I'm open to anything. 那听起来很合理。我接受任何事情。
+
+Sounds like there's a very good quality of life. 听起来好像生活质量非常好。
+
+Housing is so expensive. You'll need a roommate. 房屋这么贵你需要一个室友。
+
+I'm so relieved to hear you can get by without a car. 我很高兴听到你可以不用汽车。
+
+What are the best residential areas for renting? 最好的出租用住宅地区是哪里？
 ## 最终任务 一个新的城市
+你的公司要调你到波士顿。一个同事给你打电话提供些信息。 认真听，然后录下正确的回答。
 # 2 找到路
 ## 表达 位置
 ## 阅读 看地图
