@@ -172,6 +172,24 @@ Do I **go east or west** on Main Street? 我在主街上向东走还是向西走
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/91b6bdb9-7ba7-4310-9b1e-9c0698366f9a)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/b3718d85-0336-4986-83ee-011034e038b7)
 ## 表达 方向
+**问路和指路**
+
+用像这样的表达方式来问路和指路：
+ 	 
+A: **Can you tell me how to get to** the Boston Hotel? 你能告诉我怎么去波士顿酒店吗？  
+B: Do you know the address? 你知道地址吗？
+ 	 	 
+A: **I'm trying to get to** Main Avenue and Ninth Street. 我正试着去主道和第九街。  
+B: No problem. I can direct you. 没问题。我可以给你指路。
+ 	 	 
+有时，人们指路的话可能很长。听取重点信息，并一定确认和澄清他们所说的。	 
+
+A: Take the Blue Line to Pine. Then walk four blocks east. 乘坐蓝线到Pine。然后向东走四个街区。  
+B: OK. Blue Line to Pine. Four blocks east. 好的。蓝线到Pine。向东四个街区。
+ 	 	 
+A: So, Red Line to Ninth, north on Ninth to Main? 那么，红线到第九街，在第九街上向北到主街吗？  
+B: No, south on Ninth. 不，在第九街上向南。
+### 选词填空
 ## 最终任务 问路
 # 3 度过在办公室的第一天
 ## 表达 办公室的第一天
