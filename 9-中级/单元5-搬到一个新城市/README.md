@@ -190,6 +190,7 @@ B: OK. Blue Line to Pine. Four blocks east. 好的。蓝线到Pine。向东四�
 A: So, Red Line to Ninth, north on Ninth to Main? 那么，红线到第九街，在第九街上向北到主街吗？  
 B: No, south on Ninth. 不，在第九街上向南。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/90b8d899-a6a5-4819-b45e-7c9b73463e4e)
 ## 最终任务 问路
 # 3 度过在办公室的第一天
 ## 表达 办公室的第一天
