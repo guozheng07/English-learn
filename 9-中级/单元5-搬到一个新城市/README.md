@@ -58,6 +58,7 @@ I really appreciate **the** traditional and modern architecture. 我非常欣赏
  	 	 
 We visited **a** wonderful museum on the weekend. **The** museum is famous for its historical paintings. Some people say **the** museum is one of the best in the country. 周末我们参观了一个非常好的博物馆。这个博物馆以它的历史画出名。有些人说这个博物馆是这个国家最好的博物馆之一。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/384e65ca-8e09-489b-96a8-9c9744219c96)
 ## 表达 城市信息
 ## 最终任务 一个新的城市
 # 2 找到路
