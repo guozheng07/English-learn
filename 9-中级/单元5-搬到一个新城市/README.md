@@ -167,6 +167,10 @@ Do I **go east or west** on Main Street? 我在主街上向东走还是向西走
 ### 阅读
 再看一遍前面你见到的社区的地图。 地图的上面是北方。右侧是东方。左侧是西方。地图的下面是南方。描述的是什么地方？ 请选择正确的答案。
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/55409c99-96f1-4dd2-9bf2-6d669b45be7a)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/57d72c87-cfb9-4f2a-b2d0-58c58db495a1)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/ce2b6277-faea-4022-b01b-e2884302432c)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/91b6bdb9-7ba7-4310-9b1e-9c0698366f9a)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/b3718d85-0336-4986-83ee-011034e038b7)
 ## 表达 方向
 ## 最终任务 问路
 # 3 度过在办公室的第一天
