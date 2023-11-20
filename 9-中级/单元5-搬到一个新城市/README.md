@@ -321,6 +321,6 @@ Private bedroom and bath. Share kitchen and living room. Nice balcony. 单独卧
  	 
 Split rent and utilities. 平分租金和水电费。
 ### 选词填空
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/458ec25d-b53a-4ae9-96cf-449f00d42f09)
 ## 表达 找室友
 ## 最终任务 找公寓
