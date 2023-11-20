@@ -263,7 +263,36 @@ B: Ah, this area looks very nice. 嗯，这个区域看起来非常不错。
 The bathrooms closest to your area are **over here**. And the kitchen is **over there**. 离你的地方最近的厕所在这里。厨房在那里。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/994c7352-b8c0-4211-ade3-8b158fb26edc)
+### 录音
+Thanks for taking the time to give me a tour. 感谢你抽时间带我参观。
+
+It wasn't that long ago that I was new here. 我也是不久前才来的。
+
+You'll probably sit somewhere in this section. 你可能会坐在这个部分的某个地方。
+
+The bathrooms closest to your area are over here. 离你的地方最近的厕所在这里。
+
+You can't leave anything in the fridge overnight. 你不能在冰箱里留任何东西过夜。
+
+I can't thank you enough for all your help. 我对你所有的帮助感激不尽。
+
+Don't mention it. 不客气。
 ## 阅读 极好的第一天
+### 阅读
+**My first day in the office**
+
+Hey, Jake.
+
+Just wanted to drop you a quick note and let you know how my first day at the new job went.
+
+Things didn't start off so well. Security at the front desk didn't have my name. It took me a long time to even get in the building. Once I was in the office, I was still feeling a bit lost. Then I met this really nice project manager, Ann Chambers, and she took the time to give me a tour of the office. I met a lot of people, and everyone was very friendly and welcoming.
+
+Later in the day, I got my desk. It's in a nice section with a big, sunny window. I'll get my new computer tomorrow. And there's a big kitchen nearby with a coffee machine and a big refrigerator. A lot of people bring their lunches. That's great for me because I need to save money for an apartment.
+
+Talk to you soon.
+
+Carl
+### 文本匹配
 ## 最终任务 参观办公室
 # 4 寻找一套公寓
 ## 词汇 公寓广告
