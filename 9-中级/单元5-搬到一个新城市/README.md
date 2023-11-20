@@ -285,9 +285,9 @@ Hey, Jake.
 
 Just wanted to drop you a quick note and let you know how my first day at the new job went.
 
-Things didn't start off so well. Security at the front desk didn't have my name. It took me a long time to even get in the building. Once I was in the office, I was still feeling a bit lost. Then I met this really nice project manager, Ann Chambers, and she took the time to give me a tour of the office. I met a lot of people, and everyone was very friendly and welcoming.
+Things didn't start off so well. Security at the front desk **didn't have my name**. It took me a long time to even get in the building. Once I was in the office, I was still **feeling a bit** lost. Then I met this really nice project manager, Ann Chambers, and **she took** the time to give me a tour of the office. I met a lot of people, and everyone was very friendly and welcoming.
 
-Later in the day, I got my desk. It's in a nice section with a big, sunny window. I'll get my new computer tomorrow. And there's a big kitchen nearby with a coffee machine and a big refrigerator. A lot of people bring their lunches. That's great for me because I need to save money for an apartment.
+Later in the day, I got my desk. It's in **a nice section** with a big, sunny window. I'll get my new computer tomorrow. And there's a **big kitchen nearby** with a coffee machine and a big refrigerator. A lot of people bring their lunches. That's great for me because I need to **save money** for an apartment.
 
 Talk to you soon.
 
@@ -295,6 +295,7 @@ Carl
 ### 文本匹配
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/e37e0ba9-e1bb-44aa-9674-dbdb081971e4)
 ## 最终任务 参观办公室
+今天你在一个新的办公室开始一个新工作。和同事一起参观一下。 请听录音并记录正确的回答。
 # 4 寻找一套公寓
 ## 词汇 公寓广告
 ## 表达 找室友
