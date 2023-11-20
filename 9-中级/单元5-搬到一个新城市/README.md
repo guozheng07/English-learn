@@ -301,7 +301,7 @@ Carl
 ### 阅读
 **Roommate wanted**
 
-Seeking responsible, mature person to share lovely $3,000/month apartment near downtown, facing river. Private bedroom, bath. Share kitchen, living room. Nice balcony. Split rent and utilities. No pets and nonsmokers only, please. I am a professional and looking for same. No partiers.
+Seeking responsible, **mature** person to share lovely $3,000/month apartment near downtown, facing river. **Private** bedroom, bath. **Share** kitchen, living room. Nice balcony. **Split rent** and **utilities**. No pets and nonsmokers only, please. I am a **professional** and looking for same. No partiers.
 ### 词汇
 **阅读公寓广告**
  
@@ -323,4 +323,26 @@ Split rent and utilities. 平分租金和水电费。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/458ec25d-b53a-4ae9-96cf-449f00d42f09)
 ## 表达 找室友
+**室友问题**
+
+潜在室友通常会在本人见面前在电话里交谈来看看他们是不是适合。
+
+A: Hello? 你好？  
+B: Hi. I'm calling about the roommate ad you posted. 嗨。我打电话是想谈一下你发布的室友广告。 
+
+A: Do you mind if I ask you a few questions? 你介不介意我问你几个问题？  
+B: No, that sounds good. Go ahead. 不介意，听上去不错。你问吧。
+
+A: What do you do for a living? 你做什么工作？  
+B: I'm a professional florist. I do a lot of weddings. 我是一个专业的花匠。我做很多的婚礼。	 
+
+A: Are you comfortable with splitting the rent and utilities? 平分租金和水电费你有问题吗？  
+B: That's what I was hoping for. 我本就是这样希望的。
+ 	 	 
+A: How would you describe yourself? 你会怎样描述你自己？  
+B: I'm a bit of a workaholic. I don't socialize much. 我有点工作狂。我社交活动不太多。
+
+A: You and I sound like a good match. Let's meet face to face. 你和我听起来比较合适。让我们见个面吧。  
+B: That sounds like a great idea! 那听起来是个不错的想法！
+### 单词排序
 ## 最终任务 找公寓
