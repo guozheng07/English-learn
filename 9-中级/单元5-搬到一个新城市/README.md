@@ -1,4 +1,4 @@
-# 1 调查一个新城市
+![image](https://github.com/guozheng07/English-learn/assets/42236890/d807221b-a1ec-496c-b28a-c7a7102de1ff)# 1 调查一个新城市
 ## 词汇 城市词汇
 **描述城市**
  
@@ -293,6 +293,7 @@ Talk to you soon.
 
 Carl
 ### 文本匹配
+![image](https://github.com/guozheng07/English-learn/assets/42236890/e37e0ba9-e1bb-44aa-9674-dbdb081971e4)
 ## 最终任务 参观办公室
 # 4 寻找一套公寓
 ## 词汇 公寓广告
