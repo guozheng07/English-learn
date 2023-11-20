@@ -350,4 +350,21 @@ B: That sounds like a great idea! 那听起来是个不错的想法！
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/e5cbcc3e-a5a8-4d5d-9b45-d5fb07f288e1)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/5da8d0bc-7b3a-4314-8b34-cc4462701384)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/485bc6df-095a-452b-8221-98f1c218bf03)
+### 录音
+I'm calling about the roommate ad you posted. 我打电话是想谈一下你发布的室友广告。
+
+Do you mind if I ask you some questions? 你介不介意我问你一些问题？
+
+No, that sounds good. Go ahead. 不介意，听上去不错。你问吧
+
+What do you do for a living? 你做什么工作？
+
+I work in a high-tech company. 我在一家高科技公司工作。
+
+How would you describe yourself? 你会怎样描述你自己？
+
+I'm mature and responsible. 我成熟和有责任感。
+
+We sound like a good match. 我们听起来像是一个很好的搭配。
 ## 最终任务 找公寓
+你在电话上和一名女士讨论她的公寓以及成为她室友的可能性。当你看到空白处，填入你的个人信息。 请听录音并记录正确的回答。
