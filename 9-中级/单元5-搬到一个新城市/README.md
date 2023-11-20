@@ -262,6 +262,7 @@ B: Ah, this area looks very nice. 嗯，这个区域看起来非常不错。
 
 The bathrooms closest to your area are **over here**. And the kitchen is **over there**. 离你的地方最近的厕所在这里。厨房在那里。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/994c7352-b8c0-4211-ade3-8b158fb26edc)
 ## 阅读 极好的第一天
 ## 最终任务 参观办公室
 # 4 寻找一套公寓
