@@ -345,4 +345,9 @@ B: I'm a bit of a workaholic. I don't socialize much. 我有点工作狂。我�
 A: You and I sound like a good match. Let's meet face to face. 你和我听起来比较合适。让我们见个面吧。  
 B: That sounds like a great idea! 那听起来是个不错的想法！
 ### 单词排序
+![image](https://github.com/guozheng07/English-learn/assets/42236890/fa0d8782-c31f-4222-a455-5ffa8eb4ea3e)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/72c0aa9e-01c2-4704-8ada-e5b2b0638ac3)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/e5cbcc3e-a5a8-4d5d-9b45-d5fb07f288e1)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/5da8d0bc-7b3a-4314-8b34-cc4462701384)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/485bc6df-095a-452b-8221-98f1c218bf03)
 ## 最终任务 找公寓
