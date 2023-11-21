@@ -109,6 +109,37 @@ We used to work together at Upslot. 我们曾经在 Upslot 一起工作。
 你的朋友海塞尔将你介绍给某人。当您看到空白处时，请提供您的个人信息。
 # 2 管理对话
 ## 表达 改变主题
+**结束一个话题**
+
+在改变交谈的话题前，尽量礼貌地先回应当前话题。注意这里的简短回应。
+
+A: They do the best pizzas, and it's so cheap. 他们做的比萨饼最好，而且很便宜。  
+B: **Really**? 真的吗？
+ 	 	 
+A: You should see my new T-shirt. It's really cool. 你应该看看我的新T恤。它真的很酷。  
+B: **Mm-hmm**? 嗯－嗯？
+
+**改变话题**
+
+现在让我们来看一下说话人是如何改变话题的。
+
+A: They do the best pizzas, and it's so cheap. 他们做的比萨饼最好，而且很便宜。  
+B: Really? **Speaking of which**, are you hungry? Let's get dinner. 真的吗？说到这，你饿了吗？让我们吃晚饭吧。
+
+A: You should see my new T-shirt. It's really cool. 你应该看看我的新T恤。它真的很酷。  
+B: Mm-hmm? **Oh, that reminds me**. Do you want to go shopping tomorrow? 嗯－嗯？噢，那提醒我了。明天想去逛街吗？
+
+下面是更多一些例子。注意先短的回应，再改变话题。
+
+A: So their new product comes out next week. 那么他们的新产品下周会出来。  
+B: **Uh-huh? Interesting. Anyway**, what other business do we have? 哟呵？有趣。总之，我们有什么其他的业务吗？
+
+A: And I told her she shouldn't talk like that to a colleague. 而且我告诉她，她不应该这样和同事说话。  
+B: **Right. Sure. So**, what are we going to do? 对。当然。那么，我们将要做些什么？
+ 	 	 
+A: I am so tired. 我太累了。  
+B: **Mmm. Me too. And on that note**, I think we're going to leave. 嗯。 我也是。说到这，我想我们要走了。
+### 语句排序
 ## 表达 将别人融入进来
 ## 最终任务 管理对话
 # 3 给予和接受道歉
