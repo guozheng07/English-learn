@@ -168,6 +168,7 @@ B: It was fantastic. Great weather, friendly people! 非常棒。天气好，人
 A: Uh-huh? So, **Paul, what was** the Italian restaurant **like**? 哟呵？那么，保罗，意大利餐厅是什么样的？  
 B: It wasn't that good. The fish wasn't fresh. Service was bad.	并不是那么好。鱼不新鲜。服务糟糕。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/5aaa53c1-13ef-4894-8b12-c2057c7ca261)
 ## 最终任务 管理对话
 # 3 给予和接受道歉
 ## 表达 道歉
