@@ -91,7 +91,22 @@ A: Don't worry. **She's also** a lawyer, so **you have something in common**. �
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/9b0d6d4d-90ec-440c-9215-d7574c5ecab5)
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/a1fa8030-0491-4d82-ac7d-123f70cd3a22)
+### 录音
+Have you met Sara before? 你见过萨拉吗？
+
+You'll like her. You're both into art. 你会喜欢她的。你们两个都对艺术着迷。
+
+She works for Opus, out of Dubai. 她为在迪拜的 Opus 工作。
+
+We've known each other for ten years. 我们已经认识十年了。
+
+She's been working on a project in Japan. 她一直在日本做一个项目。
+
+We first met back in college, twenty years ago. 我们第一次见面是在大学，二十年前。
+
+We used to work together at Upslot. 我们曾经在 Upslot 一起工作。
 ## 最终任务 结交新朋友
+你的朋友海塞尔将你介绍给某人。当您看到空白处时，请提供您的个人信息。
 # 2 管理对话
 ## 表达 改变主题
 ## 表达 将别人融入进来
