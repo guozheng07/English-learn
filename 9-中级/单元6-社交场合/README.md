@@ -60,7 +60,7 @@ A: Hey, there's someone I'd like you to meet. 嘿，有一个人我想让你见�
 B: Oh, really? I'm not sure I ... 哦，真的吗？我不知道我...  
 A: Don't worry. **She's also** a lawyer, so **you have something in common**. 不要担心。她也是一名律师，所以你们有共同点。
 ### 选词填空
-
+![image](https://github.com/guozheng07/English-learn/assets/42236890/68792344-0210-4d80-9470-f4c93d3c5c92)
 ## 表达 工作关系
 ## 最终任务 结交新朋友
 # 2 管理对话
