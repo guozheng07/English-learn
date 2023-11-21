@@ -140,6 +140,7 @@ B: **Right. Sure. So**, what are we going to do? 对。当然。那么，我们�
 A: I am so tired. 我太累了。  
 B: **Mmm. Me too. And on that note**, I think we're going to leave. 嗯。 我也是。说到这，我想我们要走了。
 ### 语句排序
+![image](https://github.com/guozheng07/English-learn/assets/42236890/dc2a41d3-152d-42db-b0d6-dbe77bfe2cf4)
 ## 表达 将别人融入进来
 ## 最终任务 管理对话
 # 3 给予和接受道歉
