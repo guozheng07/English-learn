@@ -169,7 +169,20 @@ A: Uh-huh? So, **Paul, what was** the Italian restaurant **like**? 哟呵？那�
 B: It wasn't that good. The fish wasn't fresh. Service was bad.	并不是那么好。鱼不新鲜。服务糟糕。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/5aaa53c1-13ef-4894-8b12-c2057c7ca261)
+### 录音
+Has anyone else got something to add? 还有人有什么要加的吗？
+
+Janine, how was your trip to Bali? 珍妮，巴厘岛之行怎么样？
+
+Paul, you went to France last year, didn't you? 保罗，去年你去法国了，不是吗？
+
+Harry, what was the new restaurant like? 哈利，新餐馆怎么样？
+
+So, did anyone else see 'Raging Water' last night? 那么，昨晚有没有别人看‘愤怒的水’？
+
+On that note, what does everyone want for lunch? 关于这一点，大家午饭都想要吃什么？
 ## 最终任务 管理对话
+你和朋友在一家餐馆。当您看到空白处时，请提供您的个人信息。
 # 3 给予和接受道歉
 ## 表达 道歉
 ## 表达 接受道歉
