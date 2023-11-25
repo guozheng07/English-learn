@@ -185,6 +185,34 @@ On that note, what does everyone want for lunch? 关于这一点，大家午饭�
 你和朋友在一家餐馆。当您看到空白处时，请提供您的个人信息。
 # 3 给予和接受道歉
 ## 表达 道歉
+**道歉**
+
+用像这样的表达方式来道歉。
+
+I'm sorry I knocked over your coffee. 对不起我打翻了你的咖啡。
+
+My mistake. Sorry about that. 我的错。 很抱歉。
+
+I'm really sorry if I've offended you. 如果我冒犯了你我真的很抱歉。
+
+**跟进道歉**
+
+你可以要求别人接受你的道歉，表示遗憾并向他们保证以后不会再发生。
+
+Please accept my apologies. 请接受我的道歉。
+
+It won't happen again. 不会再发生了。
+
+I feel terrible. 我感觉非常糟糕。
+
+I didn't mean to hurt you. 我不是故意要伤害你。
+ 	 	 
+你也可以提出弥补你的错误。
+
+Is there anything I can do? 有什么我可以做的吗？
+
+At least let me clean up some of this mess. 至少让我把这个烂摊子清理一些。
+### 选词填空
 ## 表达 接受道歉
 ## 表达 在社交场合道歉
 ## 最终任务
