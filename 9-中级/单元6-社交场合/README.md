@@ -367,6 +367,10 @@ B: Uh, I'm gonna drive. 噢，我要开车回去。
 A: Really? I live on Elm Avenue. Is that near you? 真的吗？我住在榆树大街。那离你家近吗？
 ### 选择语句
 选择最间接的方式暗示你想要什么。
+![image](https://github.com/guozheng07/English-learn/assets/42236890/111b783d-a0a4-48c2-9a10-e88a6c9da4cd)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/6acef777-75c1-4311-ae86-91594f8a8f95)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/28998d72-14fb-4e27-b2cf-759d5f8e4063)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/c76f66b2-3d4a-4869-ae12-cf6e56488bca)
 ## 表达 当某人离开
 ## 表达 制定计划
 ## 最终任务 离开一个活动
