@@ -331,6 +331,7 @@ B: Oh, no. Don't worry. It's not a big deal. 不，别担心。没什么大不�
 A: Please let me help pay for that. 我赔一点钱吧。  
 B: Absolutely not. It's nothing. 绝对不行。没什么。
 ### 词条排序
+![image](https://github.com/guozheng07/English-learn/assets/42236890/31e6ed0a-d069-4553-8120-5c06d62c5003)
 ## 最终任务
 # 4 离开和告别
 ## 表达 暗示
