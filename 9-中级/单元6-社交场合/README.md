@@ -213,6 +213,14 @@ Is there anything I can do? 有什么我可以做的吗？
 
 At least let me clean up some of this mess. 至少让我把这个烂摊子清理一些。
 ### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/f28fff61-7a55-4375-98c2-d608f25010e2)
+### 文本排序
+![image](https://github.com/guozheng07/English-learn/assets/42236890/2c894eec-db16-4b6c-bcc4-0745a81e7899)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/1c494a63-fd5a-4866-9ab9-de358aaf8393)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/bacbb9d5-28de-4d13-9bd5-40aeedd5119c)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/63e0305b-73bf-4f2b-9dc6-b8c9269e68cd)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/e3c6b11e-b485-451f-a1cd-f811560f7c57)
+### 录音
 ## 表达 接受道歉
 ## 表达 在社交场合道歉
 ## 最终任务
