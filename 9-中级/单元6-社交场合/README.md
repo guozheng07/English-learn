@@ -350,6 +350,23 @@ I'm terribly sorry. 我感到非常抱歉。
 你在开会，你的一天很糟糕。准备好给予和接受道歉。
 # 4 离开和告别
 ## 表达 暗示
+**间接说出你的意思**
+
+**Hinting**（暗示）使用间接的方式来表达你的意思。例如，请注意，这里说话人没直接说：You should leave now。
+
+Gosh, is that the time? It's getting late. 天哪，都这个时候了吗？ 天已经晚了。
+ 	 	 
+在下面的两个例子中，男人暗示他希望主人能打开暖气，并且他希望能搭车回家。
+ 	 	 
+A: It's a bit cold in here. 这有点冷。  
+B: Oh, do you want me to turn on the heating? 哦，你希望我把暖气打开吗？  
+A: Would you mind? 你介意不？
+
+A: How are you getting home? 你怎么回家呢？  
+B: Uh, I'm gonna drive. 噢，我要开车回去。  
+A: Really? I live on Elm Avenue. Is that near you? 真的吗？我住在榆树大街。那离你家近吗？
+### 选择语句
+选择最间接的方式暗示你想要什么。
 ## 表达 当某人离开
 ## 表达 制定计划
 ## 最终任务 离开一个活动
