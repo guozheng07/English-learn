@@ -332,7 +332,22 @@ A: Please let me help pay for that. 我赔一点钱吧。
 B: Absolutely not. It's nothing. 绝对不行。没什么。
 ### 词条排序
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/31e6ed0a-d069-4553-8120-5c06d62c5003)
+### 录音
+There's something I need to tell you. 有件事我得告诉你。
+
+What is it? Is something wrong? 什么事？怎么了？
+
+I spilled water all over the couch. 我把水洒到沙发上到处都是。
+
+Is there anything I can do? 我能做些什么吗？
+
+Don't worry. I'll clean it up. 不要担心，我会清理的。
+
+I can't tell you how sorry I am. 我真的觉得非常抱歉。
+
+I'm terribly sorry. 我感到非常抱歉。
 ## 最终任务
+你在开会，你的一天很糟糕。准备好给予和接受道歉。
 # 4 离开和告别
 ## 表达 暗示
 ## 表达 当某人离开
