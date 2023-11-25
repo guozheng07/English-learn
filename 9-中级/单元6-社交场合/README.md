@@ -371,6 +371,59 @@ A: Really? I live on Elm Avenue. Is that near you? 真的吗？我住在榆树�
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/6acef777-75c1-4311-ae86-91594f8a8f95)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/28998d72-14fb-4e27-b2cf-759d5f8e4063)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/c76f66b2-3d4a-4869-ae12-cf6e56488bca)
+### 录音
+Gosh, is that the time? It's getting late. 天哪，都这个时候了吗？ 天已经晚了。
+
+It's a bit cold in here. 这有点冷。
+
+How are you getting home? 你怎么回家呢？
 ## 表达 当某人离开
+**当某人离开时所用的表达方式**
+
+这是一些当某人要离开时你可以说的话。
+
+It was great seeing you again. 再次看见你真是太好了。
+
+Thanks for coming. 谢谢你能来。
+
+Have a good journey. 祝旅途愉快。
+
+Have a safe flight. 祝飞行一路平安。
+
+Let me know you got back safely. 安全到家后告诉我一声。
+
+Say hi to your family for me. 替我向你的家人问好。
+
+Tell your dad I said hello. 告诉你爸爸我给他问好。
+### 录音
+It was great seeing you again. 再次见到你真是太好了。
+
+Thanks for coming. 感谢到来。
+
+Have a good journey. 祝旅途愉快。
+
+Have a safe flight. 祝飞行平安。
+
+Let me know you got back safely. 安全到家后告诉我一声。
+
+Say hi to your family for me. 替我向你的家人问好。
+
+Tell your dad I said hello. 告诉你爸爸我给他问好。
 ## 表达 制定计划
+**未来的相见**
+
+有多种方法来谈论在未来于某人相见。
+ 	 
+Let's not leave it so long next time. 让我们下次不要等这么长时间再聚。
+
+See you this weekend for tennis? 这个周末我们打网球时见？
+
+Give me a call next time you're in town. 下次你来这里给我电话啊。
+
+We should have lunch next week. 我们下周应该一起吃午饭。
+
+I'll drop by your office for a chat. 我会到你办公室聊一聊。
+
+Let's do this again sometime. 让我们有时间再做一次。
+### 词条排序
 ## 最终任务 离开一个活动
