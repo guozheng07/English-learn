@@ -426,4 +426,12 @@ I'll drop by your office for a chat. 我会到你办公室聊一聊。
 
 Let's do this again sometime. 让我们有时间再做一次。
 ### 词条排序
+![image](https://github.com/guozheng07/English-learn/assets/42236890/f9d05dc6-14d5-4e26-948a-1e08fab3d3bb)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/0e90fa9b-ccea-4add-a1d2-d52843b22563)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/2741ab36-5743-451e-90a8-968d0182dbc9)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/7888ceb8-3195-4b84-a4dd-d594e6a91d0d)
+![image](https://github.com/guozheng07/English-learn/assets/42236890/bc49dc4b-d99a-4d00-9cf1-98b68b7930fc)
+### 选词填空
+![image](https://github.com/guozheng07/English-learn/assets/42236890/a6237995-9fdb-48b5-aabe-e8ab305379e5)
+### 录音
 ## 最终任务 离开一个活动
