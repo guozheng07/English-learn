@@ -434,4 +434,16 @@ Let's do this again sometime. 让我们有时间再做一次。
 ### 选词填空
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/a6237995-9fdb-48b5-aabe-e8ab305379e5)
 ### 录音
+Let's not leave it so long next time. 让我们下次不要等这么长时间再聚。
+
+I'll drop by your office for a chat. 我会到你办公室聊一聊。
+
+See you this weekend for tennis? 这个周末我们打网球时见？
+
+Give me a call next time you're in town. 下次你来这里给我电话啊。
+
+We should have lunch next week. 我们下周应该一起吃午饭。
+
+Let's do this again sometime. 让我们有时间再做一次。
 ## 最终任务 离开一个活动
+你一直在杰西和亚当的房子里吃晚餐。现在是时候离开了。
