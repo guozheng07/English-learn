@@ -221,8 +221,116 @@ At least let me clean up some of this mess. 至少让我把这个烂摊子清理
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/63e0305b-73bf-4f2b-9dc6-b8c9269e68cd)
 ![image](https://github.com/guozheng07/English-learn/assets/42236890/e3c6b11e-b485-451f-a1cd-f811560f7c57)
 ### 录音
+Please accept my apologies. 请接受我的道歉。
+
+It won't happen again. 不会再发生了。
+
+I feel terrible. 我感觉非常糟糕。
+
+I'm sorry I knocked over your coffee. 对不起我打翻了你的咖啡。
+
+At least let me clean up some of this mess. 至少让我把这个烂摊子清理一些。
+
+I'm really sorry if I've offended you. 如果我冒犯了你我真的很抱歉。
+
+My mistake. Sorry about that. 我的错。 很抱歉。
 ## 表达 接受道歉
+**接受道歉**
+
+用这些表达方式来接受道歉。
+
+It's nothing, really. 真的没什么。
+
+Really, it's not a problem. 真的，没事。
+
+It's not your fault. 那不是你的错。
+
+No harm done. 没有什么伤害。
+
+**从道歉话题转移**
+
+使用这些表达方式来暗示你希望继续另外的话题
+
+Forget about it. 忘了吧。
+
+Now, where were we? 现在，我们刚说到哪儿了？
+ 	 	
+如果你不确认，用这个表达方式来确认你的道歉已经被接受了。
+ 	 
+You're sure it's okay? 你确定没事吗？
+### 录音
+My mistake. Sorry about that. 我的错误。对不起。
+
+It's nothing, really. No harm done. 这没什么，真的。没有什么伤害。
+
+It won't happen again. 这不会再发生了。
+
+Really, it's not a problem. It's not your fault. 真的，这不是问题。这不是你的错。
+
+Forget about it. Let's get on with it. 忘记它。让我们翻过这一页吧。
+
+You're sure it's OK? 你确定没事吗？
 ## 表达 在社交场合道歉
+I'm really sorry, but … 我很抱歉，但是…
+
+I completely understand. 我完全理解。
+
+Really, it's fine. 真的，没事。
+
+Angela wanted me to apologize for her. 安吉拉要我代她致歉。
+
+You're going to kill me. 你会杀了我的。
+
+I was drinking some red grape juice. 我当时正在喝红葡萄汁。
+
+I can't tell you how sorry I am. 我说不出我有多么抱歉。
+
+I'm so embarrassed. 我觉得太难为情了。
+
+It's going to be okay. 没事的。
+
+Don't worry. It's fine. 别担心。没事。
+
+**道歉和回应道歉**
+ 
+如果你在派对上洒落了东西或损坏了某物，应该向主人道歉。首先， 告知主人某事已发生，使他们做好准备：
+
+Rick, there's something I need to tell you.	瑞克，我得告诉你一件事。
+
+如果你和主人是好朋友，可以说：
+
+You're going to kill me. 你会杀了我的。
+
+主人希望知道出了什么事：
+
+Is something wrong?	怎么了？
+
+如果你和主人是好朋友，主人甚至可能取笑你：
+
+What have you done this time?	这次你又干了什么？
+
+解释所发生的事情：
+
+I was putting down my glass, and I chipped it. 我正要放下杯子，结果把它摔碎了。
+
+I was eating an appetizer on the couch, and someone hit my arm. I spilled everything. 我正在沙发上吃开胃菜，有人撞到了我的手臂。我把东西都洒出来了。
+
+一旦你解释了发生的问题后，要道歉。
+
+I can't tell you how sorry I am. 我说不出我有多么抱歉。
+
+I'm terribly sorry. Please forgive me. 非常抱歉。请原谅我吧。
+
+I'm so embarrassed. Please accept my apology. 我觉得太难为情了。请接受我的歉意。
+
+你可以提供帮助，但主人可能礼貌地拒绝：
+
+A: Is there anything I can do? 有什么我能做的吗？  
+B: Oh, no. Don't worry. It's not a big deal. 不，别担心。没什么大不了的。
+
+A: Please let me help pay for that. 我赔一点钱吧。  
+B: Absolutely not. It's nothing. 绝对不行。没什么。
+### 词条排序
 ## 最终任务
 # 4 离开和告别
 ## 表达 暗示
