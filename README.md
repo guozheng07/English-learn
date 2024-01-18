@@ -12,3 +12,5 @@
 -  a fast but imprecise movement towards the target 向目标快速但不精确的运动
 -  slower but more precise movement 较慢但更精确的移动
 -  Imagine a physical keyboard. 想象一下物理键盘。
+-  in this roundup 在本综述中
+-  help you speed up your development workflow 帮助您加快开发工作流程
