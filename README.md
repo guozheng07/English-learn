@@ -1,2 +1,2 @@
 # English-learn
-- laptop 笔记本电脑
+laptop 笔记本电脑
