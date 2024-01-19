@@ -15,4 +15,4 @@
 -  in this roundup 在本综述中
 -  help you speed up your development workflow 帮助您加快开发工作流程
 -  Visualization and Chart Libraries in React. React 中的可视化和图表库。
--  
+-  a well-rounded yet overwhelming ecosystem of libraries 一个全面但势不可挡的库生态系统
