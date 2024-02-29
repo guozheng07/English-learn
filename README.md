@@ -16,3 +16,12 @@
 -  help you speed up your development workflow 帮助您加快开发工作流程
 -  Visualization and Chart Libraries in React. React 中的可视化和图表库。
 -  a well-rounded yet overwhelming ecosystem of libraries 一个全面但势不可挡的库生态系统
+-  an Interactive Guide 交互式指南
+-  a superb, extensive guide 一本精彩而详尽的指南
+-  We always wanted a way in CSS to style an element based on its descendants. 我们一直希望在 CSS 中找到一种根据其后代元素设计元素样式的方法。
+-  CSS selectors recap CSS选择器回顾
+-  adjacent sibling selector 相邻兄弟选择器
+-  general sibling selector 通用兄弟选择器
+-  the previous sibling selector 前一个兄弟选择器
+-  the child combinator 子组合器
+-  the :not pseudo-class :not 伪类
