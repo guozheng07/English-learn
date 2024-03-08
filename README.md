@@ -25,3 +25,7 @@
 -  the previous sibling selector 前一个兄弟选择器
 -  the child combinator 子组合器
 -  the :not pseudo-class :not 伪类
+-  striking Experiences 惊人的体验
+-  significant performance improvements 显著的性能改进
+-  progressive Web Apps 渐进式 Web 应用程序
+-  
